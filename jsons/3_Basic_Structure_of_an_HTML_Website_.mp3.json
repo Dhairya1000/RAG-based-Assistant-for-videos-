@@ -1,0 +1,1425 @@
+{
+    "text": " What's up guys, you are back in the Sigma Web Development course. I'm really very happy that you guys have given so much love to this course. Like this course with high energy. Because for this Sigma free course, Sigma Charts is the best. In today's video, I will explain you guys how to make a basic website look like. Along with that, I will tell you guys a mobile trick that will help you to know how you can preview your websites in your phone. You guys have a request that you guys write to me in the comment section and tell me if you have HTML or not. That will help me structure this course better. In this video, I will tell you guys about ChatGbD. Because there are a lot of things going on about ChatGbD. In the upcoming videos, I will also give you quizzes. So, be very careful and learn all the concepts. Let's go in the computer screen. Let's roll the info. So guys, I have come to my computer screen. And now we will talk about how to create a basic website for opening, closing, and structure. In this folder, I will create a folder named Video3. I will click on the new folder, Video3 and in Video3, I will shift right click and open with code. And here you can see that my theme is blue. And a lot of people have said that blue is not good. Look, the theme is your choice. If you want to change the color theme, you can change your color theme. I want to use the dark one of GitHub. I can use the dark one of GitHub. It is your choice. To create a new file, I will add index.html. We had already talked about writing the title of the page, writing the content here, and then using the link tag, using the emit, I can link style.css. I am doing it so fast because I have already talked about it in the previous video. And here, if I write script.js here, and here I write, let us say alert, hello. So I will not tell you again that if I put a script tag here, just before the body, and after that, I put script colon src here, and script.js here. And then here, by clicking here and opening with browser, then this will come hello. And here, if I red the body background, then it will be red. I will not tell you all this, because I have already told you all this. I will tell you all this now, what does this structure mean? Why did it write so big? This is a doubt for a beginner, that we cannot write the title and content directly. What is the need to write so much? I will tell you this, what is the need to write so much? I will reload it, see here the content that came, and it became red here. Now here you saw that I needed to reload the page, you must have thought why do people need to reload the questions, when they already reloaded this live. So see, I changed the CSS file. When I change the CSS file, at times we need to reload it. If you are using HTML file, I am changing, you don't need to reload the changes of HTML file like this. Now here, what I will do is, I will come back and explain it to you. This is a basic structure of any HTML website. First we write, doc type HTML, then we write HTML tag. Now see this is the opening tag of HTML tag, and here is the closing tag. This is the opening tag of the body, and here is the closing tag. Here is the opening tag of the head, and here is the closing tag. The problem in this is the content of the head. What is the problem in HTML? It is the content of HTML. According to that, the title of the content is the content of the title. Now what is the content of the meta? Meta is a self-closing tag. There are two types of tags in HTML, one is self-closing tag, and one is pair tag. What is pair tag? That your opening tag is a closing tag. So this is the basic structure of the HTML website. Now here you saw that the background is red. Whose background is this? This is the background of CSS. If I remove the CSS from here, and say that I will remove it from here quickly, what will I say from CSS? Remove it quickly. And as soon as I say remove it from here, it will have to be removed from here, I will reload the page. You can see that it has been removed here. Similarly, I can say from JavaScript, remove it quickly. You see, I said from here, then the alert will also be closed. Okay, so you see, I will reload it now, then the alert will also be closed. So in this HTML content, I added CSS and JavaScript. This additionally, we used the CSS and JavaScript functionalities to link this HTML page. Now I already told you about the title tag. This is used to set the title of the page. Now, you just have to give the purpose of the title here. The search engines that are used, that is, if you will write here, code with Harry HTML, then the code with Harry's HTML introduction, HTML working, all the titles I have put on the page. You see, here, the HTML introduction is the title of the page. So these titles are used by the search engines and parsed. Now I will change the page here. Here, HTML is working, its title. Now I will change the page again. You see, here, the title of the HTML installation is done. So the titles keep changing. Along with that, as I will change it, it will keep changing, as you can see. Okay, so the title of the HTML pages doesn't just mean that you can see this here. These are also very useful in SEO. And they tell you what is the content of the page. So they describe the content of the page. As I am getting to know here, what is the HTML execution? The meaning of HTML execution is that how is HTML executed? I am being told about this page. So changing the title of the page is a very good SEO practice. So from any framework, we will make a website, we will keep changing the title of the page. Now here, the head section, the metadata of the page is in the head section. Like the title is done. And which script do you want to link with, that is done. Along with that, there are other meta tags that I will tell you about later. Meta tags basically means how is the HTML document? It is told about it. Keywords are added, descriptions are added. Meta description is a very important keyword for SEO. That is, what page are you writing about here? If you go to my website, you will find the view page source here. That is, meta description tag is attached. This is a compressed HTML, so don't get confused with it. But you can see here that it is meta description tag, which describes the page. If we talk about Google, then meta description shows Google here. I want to show you that doc type, HTML, what is in the head section? That the meta tags of the page, title tags, script tags, link tags are also there. So the script tag that you can add to the body, you can also add it to the top. And what difference will we talk about in the course? But you can see here, I used the link and added CSS again. Then the body is the main content of the website, which shows you on this page. So what you will see on this page, will be the body. Whatever you put in the body, it will show you here. And whatever script you put, it will be executed. Now by putting a script here, and by putting a script in the head, what will happen? I will tell you in the course later. But this is a basic structure of the HTML website. Lang is equal to en, it is an attribute. It is an attribute with any tag. Lang is equal to en, so it is an attribute of which value is en. So these key value pairs are used, which are told about this tag. Like the name is equal to description in the meta tag. So the name is equal to description is an attribute. And if you hover in the VS code, then you will know many things about it. I have hovered on the name, so it is telling you about this attribute. Why, what, how, how it is used. Now most of the content that is in the body, mostly the HTML raw, you will copy it. Mostly code with any.com like the website. You will copy the source code here. If I talk about forms, then you will copy it in the HTML forms page. And you will start making your forms and modify them. So copying is very important in my opinion. As a senior developer, you should know where to copy and when to copy. And I am not saying it is for the sake of the environment. I am not saying it is for the environment. This thing will always be the same. You can type it or copy paste it. Obviously you will prefer to copy paste it. Because this change is not going to happen. The form will remain the same. And if you copy paste it, then your time will be saved. Then innovation will put your mind there, which can't be copied. So you can understand it as a Sigma rule. That you will copy paste that thing, which has to be copied. And where you have to put your mind, it can't be copied. So you will save your time and put your mind there. The most important part of being a senior software developer is to where to copy paste from. Which stack overflow question to copy paste from. And how to paste it from where copyright code with daddy 2024, 2026, whatever you understand. This is my copyright statement. But this statement is very bad. Now I will tell you about a technique that you can see in this mobile. Whatever we develop here, you will be able to see in this mobile. Now listen carefully from the steps. Right click, open the terminal. And write IP config. If you are in the old version, then you can open command prompt or power shell. When you enter the IP config, you will see IPv4 address here. You will get to see it. 192.168.1.199. Now I will copy this IP address that we got here. So I will copy this IPv4 address. And I will write in my settings live preview. The local IP host address to host your files on is written here. I will write my IP address on this place. And after doing this, I will restart my VS code. You will have to ensure one more thing. That you go to your Wi-Fi settings and do your network private network. Public network should not be there. Private network should be there. Network and internet Wi-Fi. Whatever Wi-Fi you are connected to, you can do it private network. And now you will do the show preview by writing. You will get to see your IP address here. I can use this on my phone too. So I will put this IP address here quickly. So I put 192.168.1.199. You can also get your 3000. You can put whatever you have in your port. And look here, my website is previewed in mobile. This trick is very useful when we want to preview in mobile. Because nowadays, most of the websites are seen on phones. So we want our phone users to be able to enjoy our website. And we are developing in the computer. So that testing will be done. If you have not come to the first video and put a review, I will request you to come to the first video and review your course. In the last video, I told you to review it. You put an initial review. How did you feel about seeing this much code? You write your initial review there. As soon as you write your initial review, people will know what is the initial review of this course. You give me 5 stars. Along with that, you must access the playlist and description. Click here to bookmark it. Click on the star to bookmark it. And it will start showing in your bookmarks. I have bookmarked it here at Sigma Web Development Codes. Click here to save it. Many people have accessed the playlist. So I want everyone to access this playlist. Bookmark and save this playlist. So access the playlist. Like the video. Do the same for your village and uncle. Thank you so much for watching this video. I will see you next time.",
+    "chunks": [
+        {
+            "start": "0.0 sec",
+            "end": "3.72 sec",
+            "text": "What's up guys, you are back in the Sigma Web Development course."
+        },
+        {
+            "start": "3.72 sec",
+            "end": "7.3 sec",
+            "text": "I'm really very happy that you guys have given so much love to this course."
+        },
+        {
+            "start": "7.3 sec",
+            "end": "9.38 sec",
+            "text": "Like this course with high energy."
+        },
+        {
+            "start": "9.38 sec",
+            "end": "13.1 sec",
+            "text": "Because for this Sigma free course, Sigma Charts is the best."
+        },
+        {
+            "start": "13.1 sec",
+            "end": "17.6 sec",
+            "text": "In today's video, I will explain you guys how to make a basic website look like."
+        },
+        {
+            "start": "17.6 sec",
+            "end": "22.1 sec",
+            "text": "Along with that, I will tell you guys a mobile trick that will help you to know"
+        },
+        {
+            "start": "22.1 sec",
+            "end": "25.76 sec",
+            "text": "how you can preview your websites in your phone."
+        },
+        {
+            "start": "25.76 sec",
+            "end": "30.560000000000002 sec",
+            "text": "You guys have a request that you guys write to me in the comment section and tell me if you have HTML or not."
+        },
+        {
+            "start": "30.560000000000002 sec",
+            "end": "32.64 sec",
+            "text": "That will help me structure this course better."
+        },
+        {
+            "start": "32.64 sec",
+            "end": "35.46 sec",
+            "text": "In this video, I will tell you guys about ChatGbD."
+        },
+        {
+            "start": "35.46 sec",
+            "end": "38.400000000000006 sec",
+            "text": "Because there are a lot of things going on about ChatGbD."
+        },
+        {
+            "start": "38.400000000000006 sec",
+            "end": "41.0 sec",
+            "text": "In the upcoming videos, I will also give you quizzes."
+        },
+        {
+            "start": "41.0 sec",
+            "end": "44.34 sec",
+            "text": "So, be very careful and learn all the concepts."
+        },
+        {
+            "start": "44.34 sec",
+            "end": "45.84 sec",
+            "text": "Let's go in the computer screen."
+        },
+        {
+            "start": "45.84 sec",
+            "end": "47.34 sec",
+            "text": "Let's roll the info."
+        },
+        {
+            "start": "55.839999999999996 sec",
+            "end": "57.839999999999996 sec",
+            "text": "So guys, I have come to my computer screen."
+        },
+        {
+            "start": "57.839999999999996 sec",
+            "end": "64.53999999999999 sec",
+            "text": "And now we will talk about how to create a basic website for opening, closing, and structure."
+        },
+        {
+            "start": "64.53999999999999 sec",
+            "end": "68.0 sec",
+            "text": "In this folder, I will create a folder named Video3."
+        },
+        {
+            "start": "68.0 sec",
+            "end": "73.75999999999999 sec",
+            "text": "I will click on the new folder, Video3 and in Video3, I will shift right click and open with code."
+        },
+        {
+            "start": "73.75999999999999 sec",
+            "end": "77.6 sec",
+            "text": "And here you can see that my theme is blue."
+        },
+        {
+            "start": "77.6 sec",
+            "end": "79.75999999999999 sec",
+            "text": "And a lot of people have said that blue is not good."
+        },
+        {
+            "start": "79.75999999999999 sec",
+            "end": "82.14 sec",
+            "text": "Look, the theme is your choice."
+        },
+        {
+            "start": "82.14 sec",
+            "end": "84.14 sec",
+            "text": "If you want to change the color theme,"
+        },
+        {
+            "start": "84.22 sec",
+            "end": "86.72 sec",
+            "text": "you can change your color theme."
+        },
+        {
+            "start": "86.72 sec",
+            "end": "88.72 sec",
+            "text": "I want to use the dark one of GitHub."
+        },
+        {
+            "start": "88.72 sec",
+            "end": "89.72 sec",
+            "text": "I can use the dark one of GitHub."
+        },
+        {
+            "start": "89.72 sec",
+            "end": "90.72 sec",
+            "text": "It is your choice."
+        },
+        {
+            "start": "90.72 sec",
+            "end": "94.02 sec",
+            "text": "To create a new file, I will add index.html."
+        },
+        {
+            "start": "94.02 sec",
+            "end": "97.92 sec",
+            "text": "We had already talked about writing the title of the page,"
+        },
+        {
+            "start": "97.92 sec",
+            "end": "102.44 sec",
+            "text": "writing the content here, and then using the link tag,"
+        },
+        {
+            "start": "102.44 sec",
+            "end": "106.42 sec",
+            "text": "using the emit, I can link style.css."
+        },
+        {
+            "start": "106.42 sec",
+            "end": "109.52 sec",
+            "text": "I am doing it so fast because I have already talked about it in the previous video."
+        },
+        {
+            "start": "109.6 sec",
+            "end": "112.82 sec",
+            "text": "And here, if I write script.js here,"
+        },
+        {
+            "start": "112.82 sec",
+            "end": "115.32 sec",
+            "text": "and here I write, let us say alert, hello."
+        },
+        {
+            "start": "115.32 sec",
+            "end": "119.46 sec",
+            "text": "So I will not tell you again that if I put a script tag here,"
+        },
+        {
+            "start": "119.46 sec",
+            "end": "121.82 sec",
+            "text": "just before the body, and after that,"
+        },
+        {
+            "start": "121.82 sec",
+            "end": "125.6 sec",
+            "text": "I put script colon src here, and script.js here."
+        },
+        {
+            "start": "125.6 sec",
+            "end": "128.51999999999998 sec",
+            "text": "And then here, by clicking here and opening with browser,"
+        },
+        {
+            "start": "128.51999999999998 sec",
+            "end": "129.7 sec",
+            "text": "then this will come hello."
+        },
+        {
+            "start": "129.7 sec",
+            "end": "132.6 sec",
+            "text": "And here, if I red the body background, then it will be red."
+        },
+        {
+            "start": "132.6 sec",
+            "end": "136.3 sec",
+            "text": "I will not tell you all this, because I have already told you all this."
+        },
+        {
+            "start": "136.68 sec",
+            "end": "138.48000000000002 sec",
+            "text": "I will tell you all this now,"
+        },
+        {
+            "start": "138.48000000000002 sec",
+            "end": "140.48000000000002 sec",
+            "text": "what does this structure mean?"
+        },
+        {
+            "start": "140.48000000000002 sec",
+            "end": "141.78 sec",
+            "text": "Why did it write so big?"
+        },
+        {
+            "start": "141.78 sec",
+            "end": "146.08 sec",
+            "text": "This is a doubt for a beginner, that we cannot write the title and content directly."
+        },
+        {
+            "start": "146.08 sec",
+            "end": "148.08 sec",
+            "text": "What is the need to write so much?"
+        },
+        {
+            "start": "148.08 sec",
+            "end": "150.58 sec",
+            "text": "I will tell you this, what is the need to write so much?"
+        },
+        {
+            "start": "150.58 sec",
+            "end": "155.28 sec",
+            "text": "I will reload it, see here the content that came, and it became red here."
+        },
+        {
+            "start": "155.28 sec",
+            "end": "158.0 sec",
+            "text": "Now here you saw that I needed to reload the page,"
+        },
+        {
+            "start": "158.0 sec",
+            "end": "160.78 sec",
+            "text": "you must have thought why do people need to reload the questions,"
+        },
+        {
+            "start": "160.78 sec",
+            "end": "162.98000000000002 sec",
+            "text": "when they already reloaded this live."
+        },
+        {
+            "start": "162.98000000000002 sec",
+            "end": "164.58 sec",
+            "text": "So see, I changed the CSS file."
+        },
+        {
+            "start": "164.66000000000003 sec",
+            "end": "166.18 sec",
+            "text": "When I change the CSS file,"
+        },
+        {
+            "start": "166.18 sec",
+            "end": "168.18 sec",
+            "text": "at times we need to reload it."
+        },
+        {
+            "start": "168.18 sec",
+            "end": "169.68 sec",
+            "text": "If you are using HTML file,"
+        },
+        {
+            "start": "169.68 sec",
+            "end": "174.46 sec",
+            "text": "I am changing, you don't need to reload the changes of HTML file like this."
+        },
+        {
+            "start": "174.46 sec",
+            "end": "178.72000000000003 sec",
+            "text": "Now here, what I will do is, I will come back and explain it to you."
+        },
+        {
+            "start": "178.72000000000003 sec",
+            "end": "181.76000000000002 sec",
+            "text": "This is a basic structure of any HTML website."
+        },
+        {
+            "start": "181.76000000000002 sec",
+            "end": "182.98000000000002 sec",
+            "text": "First we write,"
+        },
+        {
+            "start": "182.98000000000002 sec",
+            "end": "185.68 sec",
+            "text": "doc type HTML, then we write HTML tag."
+        },
+        {
+            "start": "185.68 sec",
+            "end": "188.48000000000002 sec",
+            "text": "Now see this is the opening tag of HTML tag, and here is the closing tag."
+        },
+        {
+            "start": "188.48000000000002 sec",
+            "end": "190.88000000000002 sec",
+            "text": "This is the opening tag of the body, and here is the closing tag."
+        },
+        {
+            "start": "190.88000000000002 sec",
+            "end": "193.38000000000002 sec",
+            "text": "Here is the opening tag of the head, and here is the closing tag."
+        },
+        {
+            "start": "193.38 sec",
+            "end": "195.88 sec",
+            "text": "The problem in this is the content of the head."
+        },
+        {
+            "start": "195.88 sec",
+            "end": "198.07999999999998 sec",
+            "text": "What is the problem in HTML?"
+        },
+        {
+            "start": "198.07999999999998 sec",
+            "end": "199.28 sec",
+            "text": "It is the content of HTML."
+        },
+        {
+            "start": "199.28 sec",
+            "end": "202.68 sec",
+            "text": "According to that, the title of the content is the content of the title."
+        },
+        {
+            "start": "202.68 sec",
+            "end": "204.68 sec",
+            "text": "Now what is the content of the meta?"
+        },
+        {
+            "start": "204.68 sec",
+            "end": "207.18 sec",
+            "text": "Meta is a self-closing tag."
+        },
+        {
+            "start": "207.18 sec",
+            "end": "209.68 sec",
+            "text": "There are two types of tags in HTML, one is self-closing tag,"
+        },
+        {
+            "start": "209.68 sec",
+            "end": "211.07999999999998 sec",
+            "text": "and one is pair tag."
+        },
+        {
+            "start": "211.07999999999998 sec",
+            "end": "212.28 sec",
+            "text": "What is pair tag?"
+        },
+        {
+            "start": "212.28 sec",
+            "end": "214.78 sec",
+            "text": "That your opening tag is a closing tag."
+        },
+        {
+            "start": "214.78 sec",
+            "end": "216.88 sec",
+            "text": "So this is the basic structure of the HTML website."
+        },
+        {
+            "start": "216.88 sec",
+            "end": "219.07999999999998 sec",
+            "text": "Now here you saw that the background is red."
+        },
+        {
+            "start": "219.07999999999998 sec",
+            "end": "220.78 sec",
+            "text": "Whose background is this?"
+        },
+        {
+            "start": "220.78 sec",
+            "end": "222.28 sec",
+            "text": "This is the background of CSS."
+        },
+        {
+            "start": "222.28 sec",
+            "end": "226.18 sec",
+            "text": "If I remove the CSS from here, and say that I will remove it from here quickly,"
+        },
+        {
+            "start": "226.18 sec",
+            "end": "227.78 sec",
+            "text": "what will I say from CSS?"
+        },
+        {
+            "start": "227.78 sec",
+            "end": "229.28 sec",
+            "text": "Remove it quickly."
+        },
+        {
+            "start": "229.28 sec",
+            "end": "231.48 sec",
+            "text": "And as soon as I say remove it from here,"
+        },
+        {
+            "start": "231.48 sec",
+            "end": "233.68 sec",
+            "text": "it will have to be removed from here, I will reload the page."
+        },
+        {
+            "start": "233.68 sec",
+            "end": "235.48 sec",
+            "text": "You can see that it has been removed here."
+        },
+        {
+            "start": "235.48 sec",
+            "end": "237.68 sec",
+            "text": "Similarly, I can say from JavaScript,"
+        },
+        {
+            "start": "237.68 sec",
+            "end": "239.28 sec",
+            "text": "remove it quickly."
+        },
+        {
+            "start": "239.28 sec",
+            "end": "241.48 sec",
+            "text": "You see, I said from here, then the alert will also be closed."
+        },
+        {
+            "start": "241.48 sec",
+            "end": "244.78 sec",
+            "text": "Okay, so you see, I will reload it now, then the alert will also be closed."
+        },
+        {
+            "start": "244.78 sec",
+            "end": "249.18 sec",
+            "text": "So in this HTML content, I added CSS and JavaScript."
+        },
+        {
+            "start": "249.28 sec",
+            "end": "252.88 sec",
+            "text": "This additionally, we used the CSS and JavaScript functionalities"
+        },
+        {
+            "start": "252.88 sec",
+            "end": "255.58 sec",
+            "text": "to link this HTML page."
+        },
+        {
+            "start": "255.58 sec",
+            "end": "257.58 sec",
+            "text": "Now I already told you about the title tag."
+        },
+        {
+            "start": "257.58 sec",
+            "end": "259.98 sec",
+            "text": "This is used to set the title of the page."
+        },
+        {
+            "start": "259.98 sec",
+            "end": "263.18 sec",
+            "text": "Now, you just have to give the purpose of the title here."
+        },
+        {
+            "start": "263.18 sec",
+            "end": "266.38 sec",
+            "text": "The search engines that are used,"
+        },
+        {
+            "start": "266.38 sec",
+            "end": "269.38 sec",
+            "text": "that is, if you will write here,"
+        },
+        {
+            "start": "269.38 sec",
+            "end": "271.78000000000003 sec",
+            "text": "code with Harry HTML,"
+        },
+        {
+            "start": "271.78000000000003 sec",
+            "end": "273.98 sec",
+            "text": "then the code with Harry's HTML introduction,"
+        },
+        {
+            "start": "273.98 sec",
+            "end": "276.68 sec",
+            "text": "HTML working, all the titles I have put on the page."
+        },
+        {
+            "start": "276.68 sec",
+            "end": "279.88 sec",
+            "text": "You see, here, the HTML introduction is the title of the page."
+        },
+        {
+            "start": "279.88 sec",
+            "end": "284.68 sec",
+            "text": "So these titles are used by the search engines and parsed."
+        },
+        {
+            "start": "284.68 sec",
+            "end": "286.68 sec",
+            "text": "Now I will change the page here."
+        },
+        {
+            "start": "286.68 sec",
+            "end": "288.88 sec",
+            "text": "Here, HTML is working, its title."
+        },
+        {
+            "start": "288.88 sec",
+            "end": "290.38 sec",
+            "text": "Now I will change the page again."
+        },
+        {
+            "start": "290.38 sec",
+            "end": "292.68 sec",
+            "text": "You see, here, the title of the HTML installation is done."
+        },
+        {
+            "start": "292.68 sec",
+            "end": "294.88 sec",
+            "text": "So the titles keep changing."
+        },
+        {
+            "start": "294.88 sec",
+            "end": "296.88 sec",
+            "text": "Along with that, as I will change it,"
+        },
+        {
+            "start": "296.88 sec",
+            "end": "298.68 sec",
+            "text": "it will keep changing,"
+        },
+        {
+            "start": "298.68 sec",
+            "end": "299.88 sec",
+            "text": "as you can see."
+        },
+        {
+            "start": "299.88 sec",
+            "end": "303.68 sec",
+            "text": "Okay, so the title of the HTML pages"
+        },
+        {
+            "start": "303.68 sec",
+            "end": "305.68 sec",
+            "text": "doesn't just mean that you can see this here."
+        },
+        {
+            "start": "305.68 sec",
+            "end": "307.48 sec",
+            "text": "These are also very useful in SEO."
+        },
+        {
+            "start": "307.48 sec",
+            "end": "310.48 sec",
+            "text": "And they tell you what is the content of the page."
+        },
+        {
+            "start": "310.48 sec",
+            "end": "312.98 sec",
+            "text": "So they describe the content of the page."
+        },
+        {
+            "start": "312.98 sec",
+            "end": "315.28000000000003 sec",
+            "text": "As I am getting to know here, what is the HTML execution?"
+        },
+        {
+            "start": "315.28000000000003 sec",
+            "end": "316.68 sec",
+            "text": "The meaning of HTML execution is that"
+        },
+        {
+            "start": "316.68 sec",
+            "end": "317.88 sec",
+            "text": "how is HTML executed?"
+        },
+        {
+            "start": "317.88 sec",
+            "end": "319.28000000000003 sec",
+            "text": "I am being told about this page."
+        },
+        {
+            "start": "319.28000000000003 sec",
+            "end": "321.88 sec",
+            "text": "So changing the title of the page is a very good SEO practice."
+        },
+        {
+            "start": "321.88 sec",
+            "end": "323.88 sec",
+            "text": "So from any framework, we will make a website,"
+        },
+        {
+            "start": "323.88 sec",
+            "end": "325.48 sec",
+            "text": "we will keep changing the title of the page."
+        },
+        {
+            "start": "325.48 sec",
+            "end": "326.78000000000003 sec",
+            "text": "Now here, the head section,"
+        },
+        {
+            "start": "326.78000000000003 sec",
+            "end": "328.98 sec",
+            "text": "the metadata of the page is in the head section."
+        },
+        {
+            "start": "328.98 sec",
+            "end": "330.28000000000003 sec",
+            "text": "Like the title is done."
+        },
+        {
+            "start": "330.28000000000003 sec",
+            "end": "333.48 sec",
+            "text": "And which script do you want to link with,"
+        },
+        {
+            "start": "333.48 sec",
+            "end": "334.28000000000003 sec",
+            "text": "that is done."
+        },
+        {
+            "start": "334.28 sec",
+            "end": "336.47999999999996 sec",
+            "text": "Along with that, there are other meta tags"
+        },
+        {
+            "start": "336.47999999999996 sec",
+            "end": "338.28 sec",
+            "text": "that I will tell you about later."
+        },
+        {
+            "start": "338.28 sec",
+            "end": "340.28 sec",
+            "text": "Meta tags basically means"
+        },
+        {
+            "start": "340.28 sec",
+            "end": "342.28 sec",
+            "text": "how is the HTML document?"
+        },
+        {
+            "start": "342.28 sec",
+            "end": "343.47999999999996 sec",
+            "text": "It is told about it."
+        },
+        {
+            "start": "343.47999999999996 sec",
+            "end": "344.28 sec",
+            "text": "Keywords are added,"
+        },
+        {
+            "start": "344.28 sec",
+            "end": "345.47999999999996 sec",
+            "text": "descriptions are added."
+        },
+        {
+            "start": "345.47999999999996 sec",
+            "end": "349.47999999999996 sec",
+            "text": "Meta description is a very important keyword for SEO."
+        },
+        {
+            "start": "349.47999999999996 sec",
+            "end": "351.97999999999996 sec",
+            "text": "That is, what page are you writing about here?"
+        },
+        {
+            "start": "351.97999999999996 sec",
+            "end": "353.28 sec",
+            "text": "If you go to my website,"
+        },
+        {
+            "start": "353.28 sec",
+            "end": "355.67999999999995 sec",
+            "text": "you will find the view page source here."
+        },
+        {
+            "start": "355.67999999999995 sec",
+            "end": "356.67999999999995 sec",
+            "text": "That is,"
+        },
+        {
+            "start": "356.67999999999995 sec",
+            "end": "358.28 sec",
+            "text": "meta description tag is attached."
+        },
+        {
+            "start": "358.28 sec",
+            "end": "359.28 sec",
+            "text": "This is a compressed HTML,"
+        },
+        {
+            "start": "359.28 sec",
+            "end": "360.47999999999996 sec",
+            "text": "so don't get confused with it."
+        },
+        {
+            "start": "360.47999999999996 sec",
+            "end": "362.88 sec",
+            "text": "But you can see here that it is meta description tag,"
+        },
+        {
+            "start": "362.88 sec",
+            "end": "364.48 sec",
+            "text": "which describes the page."
+        },
+        {
+            "start": "364.48 sec",
+            "end": "365.68 sec",
+            "text": "If we talk about Google,"
+        },
+        {
+            "start": "365.68 sec",
+            "end": "367.68 sec",
+            "text": "then meta description shows Google here."
+        },
+        {
+            "start": "367.68 sec",
+            "end": "369.48 sec",
+            "text": "I want to show you that"
+        },
+        {
+            "start": "369.48 sec",
+            "end": "371.28 sec",
+            "text": "doc type, HTML,"
+        },
+        {
+            "start": "371.28 sec",
+            "end": "372.88 sec",
+            "text": "what is in the head section?"
+        },
+        {
+            "start": "372.88 sec",
+            "end": "374.48 sec",
+            "text": "That the meta tags of the page,"
+        },
+        {
+            "start": "374.48 sec",
+            "end": "376.28 sec",
+            "text": "title tags, script tags,"
+        },
+        {
+            "start": "376.28 sec",
+            "end": "377.88 sec",
+            "text": "link tags are also there."
+        },
+        {
+            "start": "377.88 sec",
+            "end": "380.68 sec",
+            "text": "So the script tag that you can add to the body,"
+        },
+        {
+            "start": "380.68 sec",
+            "end": "381.68 sec",
+            "text": "you can also add it to the top."
+        },
+        {
+            "start": "381.68 sec",
+            "end": "384.68 sec",
+            "text": "And what difference will we talk about in the course?"
+        },
+        {
+            "start": "384.68 sec",
+            "end": "385.88 sec",
+            "text": "But you can see here,"
+        },
+        {
+            "start": "385.88 sec",
+            "end": "388.68 sec",
+            "text": "I used the link and added CSS again."
+        },
+        {
+            "start": "388.68 sec",
+            "end": "391.08 sec",
+            "text": "Then the body is the main content of the website,"
+        },
+        {
+            "start": "391.08 sec",
+            "end": "392.78 sec",
+            "text": "which shows you on this page."
+        },
+        {
+            "start": "392.78 sec",
+            "end": "394.78 sec",
+            "text": "So what you will see on this page,"
+        },
+        {
+            "start": "394.78 sec",
+            "end": "395.78 sec",
+            "text": "will be the body."
+        },
+        {
+            "start": "395.78 sec",
+            "end": "397.78 sec",
+            "text": "Whatever you put in the body,"
+        },
+        {
+            "start": "397.78 sec",
+            "end": "398.78 sec",
+            "text": "it will show you here."
+        },
+        {
+            "start": "398.78 sec",
+            "end": "400.78 sec",
+            "text": "And whatever script you put,"
+        },
+        {
+            "start": "400.78 sec",
+            "end": "401.78 sec",
+            "text": "it will be executed."
+        },
+        {
+            "start": "401.78 sec",
+            "end": "402.78 sec",
+            "text": "Now by putting a script here,"
+        },
+        {
+            "start": "402.78 sec",
+            "end": "404.78 sec",
+            "text": "and by putting a script in the head,"
+        },
+        {
+            "start": "404.78 sec",
+            "end": "405.78 sec",
+            "text": "what will happen?"
+        },
+        {
+            "start": "405.78 sec",
+            "end": "407.78 sec",
+            "text": "I will tell you in the course later."
+        },
+        {
+            "start": "407.78 sec",
+            "end": "410.78 sec",
+            "text": "But this is a basic structure of the HTML website."
+        },
+        {
+            "start": "410.78 sec",
+            "end": "411.78 sec",
+            "text": "Lang is equal to en,"
+        },
+        {
+            "start": "411.78 sec",
+            "end": "412.78 sec",
+            "text": "it is an attribute."
+        },
+        {
+            "start": "412.78 sec",
+            "end": "413.78 sec",
+            "text": "It is an attribute with any tag."
+        },
+        {
+            "start": "413.78 sec",
+            "end": "415.78 sec",
+            "text": "Lang is equal to en,"
+        },
+        {
+            "start": "415.78 sec",
+            "end": "417.78 sec",
+            "text": "so it is an attribute of which value is en."
+        },
+        {
+            "start": "417.78 sec",
+            "end": "419.78 sec",
+            "text": "So these key value pairs are used,"
+        },
+        {
+            "start": "419.78 sec",
+            "end": "421.78 sec",
+            "text": "which are told about this tag."
+        },
+        {
+            "start": "421.78 sec",
+            "end": "424.78 sec",
+            "text": "Like the name is equal to description in the meta tag."
+        },
+        {
+            "start": "424.78 sec",
+            "end": "426.78 sec",
+            "text": "So the name is equal to description is an attribute."
+        },
+        {
+            "start": "426.78 sec",
+            "end": "428.78 sec",
+            "text": "And if you hover in the VS code,"
+        },
+        {
+            "start": "428.78 sec",
+            "end": "430.78 sec",
+            "text": "then you will know many things about it."
+        },
+        {
+            "start": "430.78 sec",
+            "end": "431.78 sec",
+            "text": "I have hovered on the name,"
+        },
+        {
+            "start": "431.78 sec",
+            "end": "433.78 sec",
+            "text": "so it is telling you about this attribute."
+        },
+        {
+            "start": "433.78 sec",
+            "end": "435.78 sec",
+            "text": "Why, what, how, how it is used."
+        },
+        {
+            "start": "435.78 sec",
+            "end": "438.78 sec",
+            "text": "Now most of the content that is in the body,"
+        },
+        {
+            "start": "438.78 sec",
+            "end": "440.78 sec",
+            "text": "mostly the HTML raw, you will copy it."
+        },
+        {
+            "start": "440.78 sec",
+            "end": "443.78 sec",
+            "text": "Mostly code with any.com like the website."
+        },
+        {
+            "start": "443.78 sec",
+            "end": "445.78 sec",
+            "text": "You will copy the source code here."
+        },
+        {
+            "start": "445.78 sec",
+            "end": "447.78 sec",
+            "text": "If I talk about forms,"
+        },
+        {
+            "start": "447.78 sec",
+            "end": "450.78 sec",
+            "text": "then you will copy it in the HTML forms page."
+        },
+        {
+            "start": "450.78 sec",
+            "end": "452.78 sec",
+            "text": "And you will start making your forms and modify them."
+        },
+        {
+            "start": "452.78 sec",
+            "end": "455.78 sec",
+            "text": "So copying is very important in my opinion."
+        },
+        {
+            "start": "455.78 sec",
+            "end": "457.78 sec",
+            "text": "As a senior developer, you should know"
+        },
+        {
+            "start": "457.78 sec",
+            "end": "459.78 sec",
+            "text": "where to copy and when to copy."
+        },
+        {
+            "start": "459.78 sec",
+            "end": "461.78 sec",
+            "text": "And I am not saying it is for the sake of the environment."
+        },
+        {
+            "start": "461.78 sec",
+            "end": "463.78 sec",
+            "text": "I am not saying it is for the environment."
+        },
+        {
+            "start": "463.78 sec",
+            "end": "464.78 sec",
+            "text": "This thing will always be the same."
+        },
+        {
+            "start": "464.78 sec",
+            "end": "466.78 sec",
+            "text": "You can type it or copy paste it."
+        },
+        {
+            "start": "466.78 sec",
+            "end": "468.78 sec",
+            "text": "Obviously you will prefer to copy paste it."
+        },
+        {
+            "start": "468.78 sec",
+            "end": "470.78 sec",
+            "text": "Because this change is not going to happen."
+        },
+        {
+            "start": "470.78 sec",
+            "end": "471.78 sec",
+            "text": "The form will remain the same."
+        },
+        {
+            "start": "471.78 sec",
+            "end": "473.78 sec",
+            "text": "And if you copy paste it,"
+        },
+        {
+            "start": "473.78 sec",
+            "end": "474.78 sec",
+            "text": "then your time will be saved."
+        },
+        {
+            "start": "474.78 sec",
+            "end": "476.78 sec",
+            "text": "Then innovation will put your mind there,"
+        },
+        {
+            "start": "476.78 sec",
+            "end": "477.78 sec",
+            "text": "which can't be copied."
+        },
+        {
+            "start": "477.78 sec",
+            "end": "479.78 sec",
+            "text": "So you can understand it as a Sigma rule."
+        },
+        {
+            "start": "479.78 sec",
+            "end": "482.78 sec",
+            "text": "That you will copy paste that thing,"
+        },
+        {
+            "start": "482.78 sec",
+            "end": "484.78 sec",
+            "text": "which has to be copied."
+        },
+        {
+            "start": "484.78 sec",
+            "end": "486.78 sec",
+            "text": "And where you have to put your mind,"
+        },
+        {
+            "start": "486.78 sec",
+            "end": "487.78 sec",
+            "text": "it can't be copied."
+        },
+        {
+            "start": "487.78 sec",
+            "end": "489.78 sec",
+            "text": "So you will save your time and put your mind there."
+        },
+        {
+            "start": "491.78 sec",
+            "end": "494.78 sec",
+            "text": "The most important part of being a senior software developer"
+        },
+        {
+            "start": "494.78 sec",
+            "end": "496.78 sec",
+            "text": "is to where to copy paste from."
+        },
+        {
+            "start": "496.78 sec",
+            "end": "498.78 sec",
+            "text": "Which stack overflow question to copy paste from."
+        },
+        {
+            "start": "498.78 sec",
+            "end": "501.78 sec",
+            "text": "And how to paste it from where copyright code with daddy"
+        },
+        {
+            "start": "501.78 sec",
+            "end": "504.78 sec",
+            "text": "2024, 2026, whatever you understand."
+        },
+        {
+            "start": "504.78 sec",
+            "end": "506.78 sec",
+            "text": "This is my copyright statement."
+        },
+        {
+            "start": "506.78 sec",
+            "end": "508.78 sec",
+            "text": "But this statement is very bad."
+        },
+        {
+            "start": "508.78 sec",
+            "end": "510.78 sec",
+            "text": "Now I will tell you about a technique"
+        },
+        {
+            "start": "510.78 sec",
+            "end": "512.78 sec",
+            "text": "that you can see in this mobile."
+        },
+        {
+            "start": "512.78 sec",
+            "end": "514.78 sec",
+            "text": "Whatever we develop here,"
+        },
+        {
+            "start": "514.78 sec",
+            "end": "516.78 sec",
+            "text": "you will be able to see in this mobile."
+        },
+        {
+            "start": "516.78 sec",
+            "end": "517.78 sec",
+            "text": "Now listen carefully from the steps."
+        },
+        {
+            "start": "517.78 sec",
+            "end": "519.78 sec",
+            "text": "Right click, open the terminal."
+        },
+        {
+            "start": "519.78 sec",
+            "end": "520.78 sec",
+            "text": "And write IP config."
+        },
+        {
+            "start": "520.78 sec",
+            "end": "521.78 sec",
+            "text": "If you are in the old version,"
+        },
+        {
+            "start": "521.78 sec",
+            "end": "523.78 sec",
+            "text": "then you can open command prompt or power shell."
+        },
+        {
+            "start": "523.78 sec",
+            "end": "525.78 sec",
+            "text": "When you enter the IP config,"
+        },
+        {
+            "start": "525.78 sec",
+            "end": "527.78 sec",
+            "text": "you will see IPv4 address here."
+        },
+        {
+            "start": "527.78 sec",
+            "end": "528.78 sec",
+            "text": "You will get to see it."
+        },
+        {
+            "start": "528.78 sec",
+            "end": "530.78 sec",
+            "text": "192.168.1.199."
+        },
+        {
+            "start": "530.78 sec",
+            "end": "534.78 sec",
+            "text": "Now I will copy this IP address that we got here."
+        },
+        {
+            "start": "534.78 sec",
+            "end": "536.78 sec",
+            "text": "So I will copy this IPv4 address."
+        },
+        {
+            "start": "536.78 sec",
+            "end": "538.78 sec",
+            "text": "And I will write in my settings"
+        },
+        {
+            "start": "538.78 sec",
+            "end": "540.78 sec",
+            "text": "live preview."
+        },
+        {
+            "start": "540.78 sec",
+            "end": "542.78 sec",
+            "text": "The local IP host address to host your files on"
+        },
+        {
+            "start": "542.78 sec",
+            "end": "543.78 sec",
+            "text": "is written here."
+        },
+        {
+            "start": "543.78 sec",
+            "end": "546.78 sec",
+            "text": "I will write my IP address on this place."
+        },
+        {
+            "start": "546.78 sec",
+            "end": "547.78 sec",
+            "text": "And after doing this,"
+        },
+        {
+            "start": "547.78 sec",
+            "end": "549.78 sec",
+            "text": "I will restart my VS code."
+        },
+        {
+            "start": "549.78 sec",
+            "end": "551.78 sec",
+            "text": "You will have to ensure one more thing."
+        },
+        {
+            "start": "551.78 sec",
+            "end": "553.78 sec",
+            "text": "That you go to your Wi-Fi settings"
+        },
+        {
+            "start": "553.78 sec",
+            "end": "556.78 sec",
+            "text": "and do your network private network."
+        },
+        {
+            "start": "556.78 sec",
+            "end": "557.78 sec",
+            "text": "Public network should not be there."
+        },
+        {
+            "start": "557.78 sec",
+            "end": "558.78 sec",
+            "text": "Private network should be there."
+        },
+        {
+            "start": "558.78 sec",
+            "end": "560.78 sec",
+            "text": "Network and internet Wi-Fi."
+        },
+        {
+            "start": "560.78 sec",
+            "end": "561.78 sec",
+            "text": "Whatever Wi-Fi you are connected to,"
+        },
+        {
+            "start": "561.78 sec",
+            "end": "562.78 sec",
+            "text": "you can do it private network."
+        },
+        {
+            "start": "562.78 sec",
+            "end": "565.78 sec",
+            "text": "And now you will do the show preview by writing."
+        },
+        {
+            "start": "565.78 sec",
+            "end": "568.78 sec",
+            "text": "You will get to see your IP address here."
+        },
+        {
+            "start": "568.78 sec",
+            "end": "571.78 sec",
+            "text": "I can use this on my phone too."
+        },
+        {
+            "start": "571.78 sec",
+            "end": "573.78 sec",
+            "text": "So I will put this IP address here quickly."
+        },
+        {
+            "start": "573.78 sec",
+            "end": "577.78 sec",
+            "text": "So I put 192.168.1.199."
+        },
+        {
+            "start": "577.78 sec",
+            "end": "579.78 sec",
+            "text": "You can also get your 3000."
+        },
+        {
+            "start": "579.78 sec",
+            "end": "581.78 sec",
+            "text": "You can put whatever you have in your port."
+        },
+        {
+            "start": "581.78 sec",
+            "end": "582.78 sec",
+            "text": "And look here,"
+        },
+        {
+            "start": "582.78 sec",
+            "end": "585.78 sec",
+            "text": "my website is previewed in mobile."
+        },
+        {
+            "start": "585.78 sec",
+            "end": "589.78 sec",
+            "text": "This trick is very useful when we want to preview in mobile."
+        },
+        {
+            "start": "589.78 sec",
+            "end": "592.78 sec",
+            "text": "Because nowadays, most of the websites are seen on phones."
+        },
+        {
+            "start": "592.78 sec",
+            "end": "598.78 sec",
+            "text": "So we want our phone users to be able to enjoy our website."
+        },
+        {
+            "start": "598.78 sec",
+            "end": "600.78 sec",
+            "text": "And we are developing in the computer."
+        },
+        {
+            "start": "600.78 sec",
+            "end": "601.78 sec",
+            "text": "So that testing will be done."
+        },
+        {
+            "start": "601.78 sec",
+            "end": "604.78 sec",
+            "text": "If you have not come to the first video and put a review,"
+        },
+        {
+            "start": "604.78 sec",
+            "end": "606.78 sec",
+            "text": "I will request you to come to the first video"
+        },
+        {
+            "start": "606.78 sec",
+            "end": "608.78 sec",
+            "text": "and review your course."
+        },
+        {
+            "start": "608.78 sec",
+            "end": "610.78 sec",
+            "text": "In the last video, I told you to review it."
+        },
+        {
+            "start": "610.78 sec",
+            "end": "611.78 sec",
+            "text": "You put an initial review."
+        },
+        {
+            "start": "611.78 sec",
+            "end": "613.78 sec",
+            "text": "How did you feel about seeing this much code?"
+        },
+        {
+            "start": "613.78 sec",
+            "end": "614.78 sec",
+            "text": "You write your initial review there."
+        },
+        {
+            "start": "614.78 sec",
+            "end": "616.78 sec",
+            "text": "As soon as you write your initial review,"
+        },
+        {
+            "start": "616.78 sec",
+            "end": "618.78 sec",
+            "text": "people will know what is the initial review of this course."
+        },
+        {
+            "start": "618.78 sec",
+            "end": "620.78 sec",
+            "text": "You give me 5 stars."
+        },
+        {
+            "start": "620.78 sec",
+            "end": "623.78 sec",
+            "text": "Along with that, you must access the playlist and description."
+        },
+        {
+            "start": "623.78 sec",
+            "end": "625.78 sec",
+            "text": "Click here to bookmark it."
+        },
+        {
+            "start": "625.78 sec",
+            "end": "627.78 sec",
+            "text": "Click on the star to bookmark it."
+        },
+        {
+            "start": "627.78 sec",
+            "end": "629.78 sec",
+            "text": "And it will start showing in your bookmarks."
+        },
+        {
+            "start": "629.78 sec",
+            "end": "632.78 sec",
+            "text": "I have bookmarked it here at Sigma Web Development Codes."
+        },
+        {
+            "start": "632.78 sec",
+            "end": "634.78 sec",
+            "text": "Click here to save it."
+        },
+        {
+            "start": "634.78 sec",
+            "end": "635.78 sec",
+            "text": "Many people have accessed the playlist."
+        },
+        {
+            "start": "635.78 sec",
+            "end": "637.78 sec",
+            "text": "So I want everyone to access this playlist."
+        },
+        {
+            "start": "637.78 sec",
+            "end": "639.78 sec",
+            "text": "Bookmark and save this playlist."
+        },
+        {
+            "start": "639.78 sec",
+            "end": "641.78 sec",
+            "text": "So access the playlist."
+        },
+        {
+            "start": "641.78 sec",
+            "end": "642.78 sec",
+            "text": "Like the video."
+        },
+        {
+            "start": "642.78 sec",
+            "end": "644.78 sec",
+            "text": "Do the same for your village and uncle."
+        },
+        {
+            "start": "644.78 sec",
+            "end": "646.78 sec",
+            "text": "Thank you so much for watching this video."
+        },
+        {
+            "start": "646.78 sec",
+            "end": "648.78 sec",
+            "text": "I will see you next time."
+        }
+    ]
+}

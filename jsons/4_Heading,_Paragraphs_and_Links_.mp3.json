@@ -1,0 +1,2980 @@
+{
+    "text": " In today's video, I will tell you about the heading and paragraphs, and also about the anchor text. If you have liked this course, then do like this video. Your likes will help me in getting free courses. In this video, we will make a small project which will be a bookmark website. This bookmark website will help you in getting all your favorite websites in one place. You will be able to use it in actual use. So let's start quickly. Write down in the comments below, Sigma batch OP. Let's roll the intro. So guys, as you can see, I have already matched the screen. If you haven't yet accessed the playlist, then you can access it. One more thing I want to tell you is that if you go to github.com, you will get the Sigma web dev course github repo. I have made all the videos in this course in different folders. The committee is also made in different folders. You will get it. So you guys do access it so that you can get the source code. I will also put the link in the description. The video is in the course code. So there is no problem. Now we will make a very basic website today. But it will be very important for us because it will be our first useful website. So I will not take much time. I will make a new folder in the Sigma web dev folder. And I will name it video4 because it is our fourth video. So I will name it video4. I will shift right click and click open with code. So that this folder opens in our VS code. After doing this, I will do the same thing that we always do. Index.html, main.css, style.css and script.js. We usually make these three files. If I write CSS, I will write here. If I write script, I will write here. But for now, I will write some exclamation marks here and write in documents. My bookmarks. Okay, so we are going to make a bookmark website. I guess I will write code with diary here. So you guys must have seen these titles. Now I will write H1 here. What happens with H1? You can use H1 to add heading to your web page. We talked about basic structure. We said that this is HTML page. HTML lang is equal to en, and lang is an attribute. Its value is en. This page's content is in English. This tells search engines. Or if anyone is using web page link, then it will be known that this is web page in English. According to that, it can parse this web page. Browser will also be known that your web page is in English. Now here is the head in which metadata, title, page, CSS link is there. All these things are information. The main content is in the body. Now there is a tag to add heading in the body. Its name is H1. And I am going to write my bookmarks in it. So if I write my bookmarks here, then we will write this with H1 tags. And if I want to do it live here, I will click here and then I will open and browse it. So look at this, it shows my bookmarks as shown. Now why should we always use H1? Why didn't I write my bookmarks directly? Because I am telling the browser that this is my heading and this is my first level heading. Now suppose I want to keep two types of bookmarks in my bookmarks. One is the main bookmarks and one is secondary bookmarks. So I will use H2, that is the heading of the second level. So if you have used Microsoft Word, then you will know what H1 and H2 are. But if you don't know, then I will tell you that H1 is the heading of your main level. And the heading of the second level is from H2. Suppose I say main bookmarks and secondary bookmarks. Suppose I do something like this. And here I will press Alt, Shift and Down Arrow. I will work on the screencast mode. So what I did here, Alt, Shift and Down Arrow are replicated. This is the shortcut for VS Code. I would like to tell you another shortcut for VS Code. If you press Alt in your keyboard and wherever you click, it will become a cursor. Suppose I click outside, then there will be only one cursor. But by pressing Alt, if I click somewhere else, then there will be a cursor. So I want to make all the bookmarks with H1. So my bookmarks dash code with H1. I can write something like this. How did I do this? I clicked here, then pressed Alt. And wherever I click, I will get multiple cutters. Then whatever I type, they will come in multiple cutters. Wherever there are cutters, whatever I type, they will be visible. Isn't it fun? Like this. So I will remove this like this. And you will see that this will be updated. So this is my main heading. This is H2. Similarly, we have heading from H1 to H6. Suppose you gave the main heading. After the main heading, you gave a secondary heading. Then you had to give some heading inside it. And so on. You had to give a lot of subheadings. Then you can give heading to H6. H6 is more than enough. In HTML, you have given heading to H6. You will never need H7. If you talk in practical life. And if you read it, you can use H6 repeatedly. Because it becomes so small after H1. That H6 will become your very small. So it will not be so small. Now I will do Alt Shift Down Arrow. I will replicate it. And I will click Alt here. I will press Alt. I am telling you all these shortcuts. So that your productivity increases. Now I have put two cutters here and here. I will press backspace and H3. Then I will click here. I will press Alt here. I will click here. I will press H4. And I will click here. I will click here. I will press H5. After that I will click here. I will click here. I will press H6 here. So it is H6. Now what I will do? I will write here using H1. So that you will know. I will write using here. I will press space. I will write using. I will write H. And here I have left my work. Click here. Two, three, four, five and six. And you see it looks like this. So you will know that H1 is like this. H2 is like this. H3 is so small. H4 is so small. H5 is so small. H6 is so small. And H6 is so small. Then what will happen? It will be over in a while. So H6 is more than enough. So I will show you a practical demonstration. As you can see this is my HTML tutorial. So here I have given the main heading. HTML introduction. After that I have given the word as HTML. Then I have given the features of HTML. I have given this from H1. I have given this from H2. After that I have given something in H2. So I have given something from H3. There is something in it. Like here Y the term was hypertext and markup language. This is heading 2. What is the main heading page of HTML introduction? After that this is sub-adding. I had to give a quick exercise in it. I have used H3 in it. Then I have given H2 in it. Because it was in it. So H1 H3 H4 H5 H6 is used to build the hierarchy. Okay. I hope you have understood. Many people are commenting that you are starting very slowly. So we know. I am making this course as a beginner course. When I tell you about HTML. Then you will say yes. It is very easy. Then I will tell you a little bit of CSS. You will say yes. Then I will say JavaScript. You will say yes. Okay. Then I will say bootstrap. Yes. It will be done. It is a little difficult. Then I will say react. Then I will say what is happening. Then load the node. Okay. Then I will take the things. I will learn the things. Then after that I will say level. I said we will raise the bar like anything. This is what I meant. So when we will do the react. When I will make projects there. When we will do dangerous things. Then I will ask for their comments. Tell me what is the level. Okay. Don't talk about the level. The level is going to rise. By doing very good. So these are our headings. Our 6 headings. How I want to keep them like this. Now if we want to write a paragraph. You can use P tag. P enter. This paragraph will come. Now I will tell you a shortcut trick. If you want to bring dummy paragraph in the MET through VS code. What will you do? You will write here. Suppose I have written Lorem23. And here look. MET abbreviation has come. This is Lorem23. It will give me 23 words. Something like this. You can write a word with a view. You will not get a horizontal stroll bar. You can do a word wrap. Now look here. Lorem. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. I will write P enter and if I write LORAM 10 then only 10 words will come and if I write LORAM 100 then I can write that too so this LORAM value trick is very good and whenever we will make a popular website I will make Amazon.in's clone so here I have to write something I am not seeing text here I have to write 3 words here I will not write about makeup products I will write LORAM 4 or LORAM 3 or LORAM 2 and I will make a template and then whatever is there will come in my database and I can get it in text in a very different way many people asked me if this course job is ready the answer is yes, this course job is ready absolutely I will make you all so that you all can actually do the jobs of the industry level through the learning of this course now let's talk about what are the attributes in HTML these are the attributes in HTML like I have used HTML tag lang is equal to en, lang is an attribute we did not use any attribute in the body we did not use any attribute in H1 we did not use any attribute in P but I can use a style attribute in P which is called inline CSS if I red the background color like this the background color will get red it is called inline CSS through style attribute so if you add CSS in style first we learned to add CSS here but if you add style is equal to then you will get this background red let me show you I will use this color to teal it or this color to thistle this color is looking good so I can also add style inline but when you make websites of industry level we use inline styles very less because the reusability decreases so we want to shift small bundles on the browser and our website is more optimized so we avoid all these things but inline CSS has a style tag but here style is an attribute P tag is an attribute style through which we can style this element we will learn more about attributes attributes basically give an enhanced functionality to an element like this paragraph we gave a style which was background color thistle we used style attribute to give this background color similarly to give properties we used any tag any element we use attributes like this like if we talk about link, css link has relic attribute href attribute so what we can do with this attribute we can add this css style sheet like background background color I said body first what we want in body is background color and don't worry about it don't worry about it because in css everything will be told I am telling you that I am doing hotpink listen to another function of vscode this ninja technique it will be useful and here you can choose any color you want I will leave it and do this so this is the background color of body how did you like ninja technique write in comment now we are back in index.html we can remove it if we want I will comment this this is very natural the background color was coming from this style sheet remove it this background color was coming from inline css so it didn't remove it this style is equal to background color because of which it was looking background color now we are going to make bookmark bookmark manager bookmarkmanager.html and I am making it for a different file because here I have told you different headings I am going to make a useful bookmark manager I am going to write bookmark manager now you may ask why are you making bookmark manager this is made by our hands this will be our child we made this so you will get a different value because you made this yourself someone made this software you made this software yourself so you can see here bookmark manager I will write h1 and write my bookmarks now I will write h2 here I will write primary bookmarks and here I will write secondary bookmarks in fact if I am going to write all shift buttons here secondary bookmarks so what will happen here I can write secondary bookmarks now I will write in a paragraph or I will write like this we will write this in the list but in the coming videos I will tell you how to write this in the list for now you can understand google open google and I will write anchor tag so I will enter one mandatory attribute of href which means you can click it and write href is equal to https://www.google.com so this will be on this address whenever you click open google and I will cut this open google and put it here and here you can see href is equal to open google it is called anchor tag which helps us to make links you must have seen many such links now you can see here as soon as I go bookmarkmanager.html you can see here you can see all the bookmarks now I will click on it and google will open you can see now one thing you noticed when I did not click on it it was blue and now I visited it and now it changes to blue when you visit it so I know that I have visited it now I will tell you one more thing if we want to open it in the new tab like I am clicking on it it is opening in the same tab if you want to open it in the new tab you can either open it in the mouse wheel or you can click on it in the mouse wheel another way I will tell you if you want to open it in the new tab you can use an attribute you can write target is equal to underscore blank and VS Code gives you suggestions so I wrote it with two enter it is written in the notepad it is written in a cheaper editor so what would have happened to you it is cheaper than quality but if you use a cheaper editor then target is equal to underscore blank you will have to type it but if you write it in any way and what will happen now I will click on it I will click on it in the mouse wheel and it will open in the new tab so I can open it like this I have written a simple open google if you want you can type whatever website you like you can type it you can type it in a good website now I will write open facebook and here you can see facebook.com and I will write kora.com and codewithery.com and after that we will write which website I should write youtube.com let's see if it came here you have seen one thing it is coming in the same line if you want it not to come in one line then what will you do you will put it in your paragraphs it is a very dirty way I am calling it dirty way I will tell you this but you close it in a paragraph if you want and I will press shift I will press right arrow and it will go in the end because if you press one cursor then it goes in the end and then I will control it I have used a very short cut and many of you will be like what did you do if you don't know but I did it simply I used the multiple cursor functionality I have used multiple cursor and after that I used it this is not a good way to use paragraphs we don't make lists it will look like this and the ones we didn't we did it in a blue way we did it in a cora so now it is your primary bookmarks what are your secondary bookmarks we will put two secondary bookmarks secondary bookmarks are those which you visit you can visit wikipedia.com wikipedia.com is here and you can consider it as stackoverflow first we will write it correctly stackoverflow let's capitalize see here your secondary bookmarks are wikipedia stackoverflow so this is your bookmark manager and you can make this bookmark manager even better we will learn CSS styling so don't worry it looks ugly don't worry because we will do styling and designing we will talk about all that now your bookmark looks like this bookmark manager code withari is your title and I will write it in h1 so both will be same and my bookmark code will be written here so you can make this bookmark manager you can actually use it now if you save it like my bookmark manager is rhtml you can copy it and put it on your desktop whenever you want to open a website you can just double click it if you double click it and open it from vs code then you will have to do it correctly choose another app and then choose google chrome so I will always choose google chrome and I will always do it so I will always double click it so this was our bookmark manager I hope you liked it I have a request for you our 4 videos are completed so if you like the code then share it with your friends I know very few people will share it but if you do it then I have a lot of courage and I will try to bring more courses like this many people are shocked and saying I will find other ways to make more money but the thing is I am going to mark this course with the best web development I will put everything in it and I will teach you more I was very upset with the ad text many companies said let's launch a paid course on our platform I won't take the name but many companies are upset and they said let's launch a paid course why are you doing this you will regret your decision but hopefully I won't regret my decision I will make a video on how to make money and I will teach you more on how to make money through web development with that said I will put the link in the description you can take the source code from this repository that's all for now thank you so much for watching this video and I will see you next time subscribe",
+    "chunks": [
+        {
+            "start": "0.0 sec",
+            "end": "3.2 sec",
+            "text": "In today's video, I will tell you about the heading and paragraphs,"
+        },
+        {
+            "start": "3.2 sec",
+            "end": "6.36 sec",
+            "text": "and also about the anchor text."
+        },
+        {
+            "start": "6.36 sec",
+            "end": "9.86 sec",
+            "text": "If you have liked this course, then do like this video."
+        },
+        {
+            "start": "9.86 sec",
+            "end": "12.3 sec",
+            "text": "Your likes will help me in getting free courses."
+        },
+        {
+            "start": "12.3 sec",
+            "end": "15.6 sec",
+            "text": "In this video, we will make a small project which will be a bookmark website."
+        },
+        {
+            "start": "15.6 sec",
+            "end": "20.2 sec",
+            "text": "This bookmark website will help you in getting all your favorite websites in one place."
+        },
+        {
+            "start": "20.2 sec",
+            "end": "22.1 sec",
+            "text": "You will be able to use it in actual use."
+        },
+        {
+            "start": "22.1 sec",
+            "end": "23.5 sec",
+            "text": "So let's start quickly."
+        },
+        {
+            "start": "23.5 sec",
+            "end": "25.240000000000002 sec",
+            "text": "Write down in the comments below,"
+        },
+        {
+            "start": "25.240000000000002 sec",
+            "end": "26.44 sec",
+            "text": "Sigma batch OP."
+        },
+        {
+            "start": "26.44 sec",
+            "end": "27.84 sec",
+            "text": "Let's roll the intro."
+        },
+        {
+            "start": "30.0 sec",
+            "end": "40.4 sec",
+            "text": "So guys, as you can see, I have already matched the screen."
+        },
+        {
+            "start": "40.4 sec",
+            "end": "43.8 sec",
+            "text": "If you haven't yet accessed the playlist, then you can access it."
+        },
+        {
+            "start": "43.8 sec",
+            "end": "52.8 sec",
+            "text": "One more thing I want to tell you is that if you go to github.com, you will get the Sigma web dev course github repo."
+        },
+        {
+            "start": "52.8 sec",
+            "end": "55.8 sec",
+            "text": "I have made all the videos in this course in different folders."
+        },
+        {
+            "start": "55.8 sec",
+            "end": "57.6 sec",
+            "text": "The committee is also made in different folders."
+        },
+        {
+            "start": "57.6 sec",
+            "end": "58.6 sec",
+            "text": "You will get it."
+        },
+        {
+            "start": "58.6 sec",
+            "end": "61.6 sec",
+            "text": "So you guys do access it so that you can get the source code."
+        },
+        {
+            "start": "61.6 sec",
+            "end": "63.6 sec",
+            "text": "I will also put the link in the description."
+        },
+        {
+            "start": "63.6 sec",
+            "end": "64.6 sec",
+            "text": "The video is in the course code."
+        },
+        {
+            "start": "64.6 sec",
+            "end": "65.6 sec",
+            "text": "So there is no problem."
+        },
+        {
+            "start": "65.6 sec",
+            "end": "69.6 sec",
+            "text": "Now we will make a very basic website today."
+        },
+        {
+            "start": "69.6 sec",
+            "end": "73.6 sec",
+            "text": "But it will be very important for us because it will be our first useful website."
+        },
+        {
+            "start": "73.6 sec",
+            "end": "74.6 sec",
+            "text": "So I will not take much time."
+        },
+        {
+            "start": "74.6 sec",
+            "end": "78.6 sec",
+            "text": "I will make a new folder in the Sigma web dev folder."
+        },
+        {
+            "start": "78.6 sec",
+            "end": "81.6 sec",
+            "text": "And I will name it video4 because it is our fourth video."
+        },
+        {
+            "start": "81.6 sec",
+            "end": "83.6 sec",
+            "text": "So I will name it video4."
+        },
+        {
+            "start": "83.6 sec",
+            "end": "86.6 sec",
+            "text": "I will shift right click and click open with code."
+        },
+        {
+            "start": "86.6 sec",
+            "end": "88.6 sec",
+            "text": "So that this folder opens in our VS code."
+        },
+        {
+            "start": "88.6 sec",
+            "end": "91.6 sec",
+            "text": "After doing this, I will do the same thing that we always do."
+        },
+        {
+            "start": "91.6 sec",
+            "end": "97.6 sec",
+            "text": "Index.html, main.css, style.css and script.js."
+        },
+        {
+            "start": "97.6 sec",
+            "end": "99.6 sec",
+            "text": "We usually make these three files."
+        },
+        {
+            "start": "99.6 sec",
+            "end": "101.6 sec",
+            "text": "If I write CSS, I will write here."
+        },
+        {
+            "start": "101.6 sec",
+            "end": "102.6 sec",
+            "text": "If I write script, I will write here."
+        },
+        {
+            "start": "102.6 sec",
+            "end": "107.6 sec",
+            "text": "But for now, I will write some exclamation marks here and write in documents."
+        },
+        {
+            "start": "107.6 sec",
+            "end": "109.6 sec",
+            "text": "My bookmarks."
+        },
+        {
+            "start": "109.6 sec",
+            "end": "111.6 sec",
+            "text": "Okay, so we are going to make a bookmark website."
+        },
+        {
+            "start": "111.6 sec",
+            "end": "113.6 sec",
+            "text": "I guess I will write code with diary here."
+        },
+        {
+            "start": "113.6 sec",
+            "end": "115.6 sec",
+            "text": "So you guys must have seen these titles."
+        },
+        {
+            "start": "115.6 sec",
+            "end": "117.6 sec",
+            "text": "Now I will write H1 here."
+        },
+        {
+            "start": "117.6 sec",
+            "end": "118.6 sec",
+            "text": "What happens with H1?"
+        },
+        {
+            "start": "118.6 sec",
+            "end": "121.6 sec",
+            "text": "You can use H1 to add heading to your web page."
+        },
+        {
+            "start": "121.6 sec",
+            "end": "123.6 sec",
+            "text": "We talked about basic structure."
+        },
+        {
+            "start": "123.6 sec",
+            "end": "125.6 sec",
+            "text": "We said that this is HTML page."
+        },
+        {
+            "start": "125.6 sec",
+            "end": "127.6 sec",
+            "text": "HTML lang is equal to en, and lang is an attribute."
+        },
+        {
+            "start": "127.6 sec",
+            "end": "129.6 sec",
+            "text": "Its value is en."
+        },
+        {
+            "start": "129.6 sec",
+            "end": "131.6 sec",
+            "text": "This page's content is in English."
+        },
+        {
+            "start": "131.6 sec",
+            "end": "132.6 sec",
+            "text": "This tells search engines."
+        },
+        {
+            "start": "132.6 sec",
+            "end": "135.6 sec",
+            "text": "Or if anyone is using web page link,"
+        },
+        {
+            "start": "135.6 sec",
+            "end": "137.6 sec",
+            "text": "then it will be known that this is web page in English."
+        },
+        {
+            "start": "137.6 sec",
+            "end": "139.6 sec",
+            "text": "According to that, it can parse this web page."
+        },
+        {
+            "start": "139.6 sec",
+            "end": "143.6 sec",
+            "text": "Browser will also be known that your web page is in English."
+        },
+        {
+            "start": "143.6 sec",
+            "end": "149.6 sec",
+            "text": "Now here is the head in which metadata, title, page, CSS link is there."
+        },
+        {
+            "start": "149.6 sec",
+            "end": "150.6 sec",
+            "text": "All these things are information."
+        },
+        {
+            "start": "150.6 sec",
+            "end": "152.6 sec",
+            "text": "The main content is in the body."
+        },
+        {
+            "start": "152.6 sec",
+            "end": "154.6 sec",
+            "text": "Now there is a tag to add heading in the body."
+        },
+        {
+            "start": "154.6 sec",
+            "end": "155.6 sec",
+            "text": "Its name is H1."
+        },
+        {
+            "start": "155.6 sec",
+            "end": "157.6 sec",
+            "text": "And I am going to write my bookmarks in it."
+        },
+        {
+            "start": "157.6 sec",
+            "end": "159.6 sec",
+            "text": "So if I write my bookmarks here,"
+        },
+        {
+            "start": "159.6 sec",
+            "end": "161.6 sec",
+            "text": "then we will write this with H1 tags."
+        },
+        {
+            "start": "161.6 sec",
+            "end": "163.6 sec",
+            "text": "And if I want to do it live here,"
+        },
+        {
+            "start": "163.6 sec",
+            "end": "167.6 sec",
+            "text": "I will click here and then I will open and browse it."
+        },
+        {
+            "start": "167.6 sec",
+            "end": "169.6 sec",
+            "text": "So look at this, it shows my bookmarks as shown."
+        },
+        {
+            "start": "169.6 sec",
+            "end": "172.6 sec",
+            "text": "Now why should we always use H1?"
+        },
+        {
+            "start": "172.6 sec",
+            "end": "174.6 sec",
+            "text": "Why didn't I write my bookmarks directly?"
+        },
+        {
+            "start": "174.6 sec",
+            "end": "178.6 sec",
+            "text": "Because I am telling the browser that this is my heading and this is my first level heading."
+        },
+        {
+            "start": "178.6 sec",
+            "end": "182.6 sec",
+            "text": "Now suppose I want to keep two types of bookmarks in my bookmarks."
+        },
+        {
+            "start": "182.6 sec",
+            "end": "184.6 sec",
+            "text": "One is the main bookmarks and one is secondary bookmarks."
+        },
+        {
+            "start": "184.6 sec",
+            "end": "187.6 sec",
+            "text": "So I will use H2, that is the heading of the second level."
+        },
+        {
+            "start": "187.6 sec",
+            "end": "189.6 sec",
+            "text": "So if you have used Microsoft Word,"
+        },
+        {
+            "start": "189.6 sec",
+            "end": "191.6 sec",
+            "text": "then you will know what H1 and H2 are."
+        },
+        {
+            "start": "191.6 sec",
+            "end": "194.6 sec",
+            "text": "But if you don't know, then I will tell you that H1 is the heading of your main level."
+        },
+        {
+            "start": "194.6 sec",
+            "end": "197.6 sec",
+            "text": "And the heading of the second level is from H2."
+        },
+        {
+            "start": "197.6 sec",
+            "end": "201.6 sec",
+            "text": "Suppose I say main bookmarks and secondary bookmarks."
+        },
+        {
+            "start": "201.6 sec",
+            "end": "203.6 sec",
+            "text": "Suppose I do something like this."
+        },
+        {
+            "start": "203.6 sec",
+            "end": "208.6 sec",
+            "text": "And here I will press Alt, Shift and Down Arrow."
+        },
+        {
+            "start": "208.6 sec",
+            "end": "211.6 sec",
+            "text": "I will work on the screencast mode."
+        },
+        {
+            "start": "211.6 sec",
+            "end": "215.6 sec",
+            "text": "So what I did here, Alt, Shift and Down Arrow are replicated."
+        },
+        {
+            "start": "215.6 sec",
+            "end": "217.6 sec",
+            "text": "This is the shortcut for VS Code."
+        },
+        {
+            "start": "217.6 sec",
+            "end": "219.6 sec",
+            "text": "I would like to tell you another shortcut for VS Code."
+        },
+        {
+            "start": "219.6 sec",
+            "end": "222.6 sec",
+            "text": "If you press Alt in your keyboard and wherever you click,"
+        },
+        {
+            "start": "222.6 sec",
+            "end": "223.6 sec",
+            "text": "it will become a cursor."
+        },
+        {
+            "start": "223.6 sec",
+            "end": "225.6 sec",
+            "text": "Suppose I click outside, then there will be only one cursor."
+        },
+        {
+            "start": "225.6 sec",
+            "end": "227.6 sec",
+            "text": "But by pressing Alt,"
+        },
+        {
+            "start": "227.6 sec",
+            "end": "230.6 sec",
+            "text": "if I click somewhere else, then there will be a cursor."
+        },
+        {
+            "start": "230.6 sec",
+            "end": "233.6 sec",
+            "text": "So I want to make all the bookmarks with H1."
+        },
+        {
+            "start": "233.6 sec",
+            "end": "235.6 sec",
+            "text": "So my bookmarks dash code with H1."
+        },
+        {
+            "start": "236.6 sec",
+            "end": "237.6 sec",
+            "text": "I can write something like this."
+        },
+        {
+            "start": "237.6 sec",
+            "end": "238.6 sec",
+            "text": "How did I do this?"
+        },
+        {
+            "start": "238.6 sec",
+            "end": "240.6 sec",
+            "text": "I clicked here, then pressed Alt."
+        },
+        {
+            "start": "240.6 sec",
+            "end": "244.6 sec",
+            "text": "And wherever I click, I will get multiple cutters."
+        },
+        {
+            "start": "244.6 sec",
+            "end": "247.6 sec",
+            "text": "Then whatever I type, they will come in multiple cutters."
+        },
+        {
+            "start": "247.6 sec",
+            "end": "250.6 sec",
+            "text": "Wherever there are cutters, whatever I type, they will be visible."
+        },
+        {
+            "start": "250.6 sec",
+            "end": "251.6 sec",
+            "text": "Isn't it fun?"
+        },
+        {
+            "start": "251.6 sec",
+            "end": "252.6 sec",
+            "text": "Like this."
+        },
+        {
+            "start": "252.6 sec",
+            "end": "255.6 sec",
+            "text": "So I will remove this like this."
+        },
+        {
+            "start": "255.6 sec",
+            "end": "256.6 sec",
+            "text": "And you will see that this will be updated."
+        },
+        {
+            "start": "256.6 sec",
+            "end": "258.6 sec",
+            "text": "So this is my main heading."
+        },
+        {
+            "start": "258.6 sec",
+            "end": "259.6 sec",
+            "text": "This is H2."
+        },
+        {
+            "start": "259.6 sec",
+            "end": "262.6 sec",
+            "text": "Similarly, we have heading from H1 to H6."
+        },
+        {
+            "start": "262.6 sec",
+            "end": "264.6 sec",
+            "text": "Suppose you gave the main heading."
+        },
+        {
+            "start": "264.6 sec",
+            "end": "266.6 sec",
+            "text": "After the main heading, you gave a secondary heading."
+        },
+        {
+            "start": "266.6 sec",
+            "end": "268.6 sec",
+            "text": "Then you had to give some heading inside it."
+        },
+        {
+            "start": "268.6 sec",
+            "end": "269.6 sec",
+            "text": "And so on."
+        },
+        {
+            "start": "269.6 sec",
+            "end": "271.6 sec",
+            "text": "You had to give a lot of subheadings."
+        },
+        {
+            "start": "271.6 sec",
+            "end": "273.6 sec",
+            "text": "Then you can give heading to H6."
+        },
+        {
+            "start": "273.6 sec",
+            "end": "274.6 sec",
+            "text": "H6 is more than enough."
+        },
+        {
+            "start": "274.6 sec",
+            "end": "277.6 sec",
+            "text": "In HTML, you have given heading to H6."
+        },
+        {
+            "start": "277.6 sec",
+            "end": "279.6 sec",
+            "text": "You will never need H7."
+        },
+        {
+            "start": "279.6 sec",
+            "end": "281.6 sec",
+            "text": "If you talk in practical life."
+        },
+        {
+            "start": "281.6 sec",
+            "end": "283.6 sec",
+            "text": "And if you read it, you can use H6 repeatedly."
+        },
+        {
+            "start": "283.6 sec",
+            "end": "285.6 sec",
+            "text": "Because it becomes so small after H1."
+        },
+        {
+            "start": "285.6 sec",
+            "end": "287.6 sec",
+            "text": "That H6 will become your very small."
+        },
+        {
+            "start": "287.6 sec",
+            "end": "289.6 sec",
+            "text": "So it will not be so small."
+        },
+        {
+            "start": "289.6 sec",
+            "end": "292.6 sec",
+            "text": "Now I will do Alt Shift Down Arrow."
+        },
+        {
+            "start": "292.6 sec",
+            "end": "294.6 sec",
+            "text": "I will replicate it."
+        },
+        {
+            "start": "294.6 sec",
+            "end": "295.6 sec",
+            "text": "And I will click Alt here."
+        },
+        {
+            "start": "295.6 sec",
+            "end": "296.6 sec",
+            "text": "I will press Alt."
+        },
+        {
+            "start": "296.6 sec",
+            "end": "298.6 sec",
+            "text": "I am telling you all these shortcuts."
+        },
+        {
+            "start": "298.6 sec",
+            "end": "299.6 sec",
+            "text": "So that your productivity increases."
+        },
+        {
+            "start": "299.6 sec",
+            "end": "302.6 sec",
+            "text": "Now I have put two cutters here and here."
+        },
+        {
+            "start": "302.6 sec",
+            "end": "304.6 sec",
+            "text": "I will press backspace and H3."
+        },
+        {
+            "start": "304.6 sec",
+            "end": "305.6 sec",
+            "text": "Then I will click here."
+        },
+        {
+            "start": "305.6 sec",
+            "end": "306.6 sec",
+            "text": "I will press Alt here."
+        },
+        {
+            "start": "306.6 sec",
+            "end": "307.6 sec",
+            "text": "I will click here."
+        },
+        {
+            "start": "307.6 sec",
+            "end": "308.6 sec",
+            "text": "I will press H4."
+        },
+        {
+            "start": "308.6 sec",
+            "end": "309.6 sec",
+            "text": "And I will click here."
+        },
+        {
+            "start": "309.6 sec",
+            "end": "310.6 sec",
+            "text": "I will click here."
+        },
+        {
+            "start": "310.6 sec",
+            "end": "311.6 sec",
+            "text": "I will press H5."
+        },
+        {
+            "start": "311.6 sec",
+            "end": "313.6 sec",
+            "text": "After that I will click here."
+        },
+        {
+            "start": "313.6 sec",
+            "end": "314.6 sec",
+            "text": "I will click here."
+        },
+        {
+            "start": "314.6 sec",
+            "end": "316.6 sec",
+            "text": "I will press H6 here."
+        },
+        {
+            "start": "316.6 sec",
+            "end": "317.6 sec",
+            "text": "So it is H6."
+        },
+        {
+            "start": "317.6 sec",
+            "end": "318.6 sec",
+            "text": "Now what I will do?"
+        },
+        {
+            "start": "318.6 sec",
+            "end": "320.6 sec",
+            "text": "I will write here using H1."
+        },
+        {
+            "start": "320.6 sec",
+            "end": "321.6 sec",
+            "text": "So that you will know."
+        },
+        {
+            "start": "321.6 sec",
+            "end": "322.6 sec",
+            "text": "I will write using here."
+        },
+        {
+            "start": "322.6 sec",
+            "end": "323.6 sec",
+            "text": "I will press space."
+        },
+        {
+            "start": "323.6 sec",
+            "end": "324.6 sec",
+            "text": "I will write using."
+        },
+        {
+            "start": "324.6 sec",
+            "end": "325.6 sec",
+            "text": "I will write H."
+        },
+        {
+            "start": "325.6 sec",
+            "end": "327.6 sec",
+            "text": "And here I have left my work."
+        },
+        {
+            "start": "327.6 sec",
+            "end": "328.6 sec",
+            "text": "Click here."
+        },
+        {
+            "start": "328.6 sec",
+            "end": "331.6 sec",
+            "text": "Two, three, four, five and six."
+        },
+        {
+            "start": "331.6 sec",
+            "end": "332.6 sec",
+            "text": "And you see it looks like this."
+        },
+        {
+            "start": "332.6 sec",
+            "end": "334.6 sec",
+            "text": "So you will know that H1 is like this."
+        },
+        {
+            "start": "334.6 sec",
+            "end": "335.6 sec",
+            "text": "H2 is like this."
+        },
+        {
+            "start": "335.6 sec",
+            "end": "336.6 sec",
+            "text": "H3 is so small."
+        },
+        {
+            "start": "336.6 sec",
+            "end": "337.6 sec",
+            "text": "H4 is so small."
+        },
+        {
+            "start": "337.6 sec",
+            "end": "338.6 sec",
+            "text": "H5 is so small."
+        },
+        {
+            "start": "338.6 sec",
+            "end": "339.6 sec",
+            "text": "H6 is so small."
+        },
+        {
+            "start": "339.6 sec",
+            "end": "340.6 sec",
+            "text": "And H6 is so small."
+        },
+        {
+            "start": "340.6 sec",
+            "end": "341.6 sec",
+            "text": "Then what will happen?"
+        },
+        {
+            "start": "341.6 sec",
+            "end": "342.6 sec",
+            "text": "It will be over in a while."
+        },
+        {
+            "start": "342.6 sec",
+            "end": "344.6 sec",
+            "text": "So H6 is more than enough."
+        },
+        {
+            "start": "344.6 sec",
+            "end": "347.6 sec",
+            "text": "So I will show you a practical demonstration."
+        },
+        {
+            "start": "347.6 sec",
+            "end": "349.6 sec",
+            "text": "As you can see this is my HTML tutorial."
+        },
+        {
+            "start": "349.6 sec",
+            "end": "350.6 sec",
+            "text": "So here I have given the main heading."
+        },
+        {
+            "start": "350.6 sec",
+            "end": "351.6 sec",
+            "text": "HTML introduction."
+        },
+        {
+            "start": "351.6 sec",
+            "end": "353.6 sec",
+            "text": "After that I have given the word as HTML."
+        },
+        {
+            "start": "353.6 sec",
+            "end": "354.6 sec",
+            "text": "Then I have given the features of HTML."
+        },
+        {
+            "start": "354.6 sec",
+            "end": "356.6 sec",
+            "text": "I have given this from H1."
+        },
+        {
+            "start": "356.6 sec",
+            "end": "357.6 sec",
+            "text": "I have given this from H2."
+        },
+        {
+            "start": "357.6 sec",
+            "end": "359.6 sec",
+            "text": "After that I have given something in H2."
+        },
+        {
+            "start": "359.6 sec",
+            "end": "360.6 sec",
+            "text": "So I have given something from H3."
+        },
+        {
+            "start": "360.6 sec",
+            "end": "361.6 sec",
+            "text": "There is something in it."
+        },
+        {
+            "start": "361.6 sec",
+            "end": "364.6 sec",
+            "text": "Like here Y the term was hypertext and markup language."
+        },
+        {
+            "start": "364.6 sec",
+            "end": "365.6 sec",
+            "text": "This is heading 2."
+        },
+        {
+            "start": "365.6 sec",
+            "end": "368.6 sec",
+            "text": "What is the main heading page of HTML introduction?"
+        },
+        {
+            "start": "368.6 sec",
+            "end": "370.6 sec",
+            "text": "After that this is sub-adding."
+        },
+        {
+            "start": "370.6 sec",
+            "end": "372.6 sec",
+            "text": "I had to give a quick exercise in it."
+        },
+        {
+            "start": "372.6 sec",
+            "end": "374.6 sec",
+            "text": "I have used H3 in it."
+        },
+        {
+            "start": "374.6 sec",
+            "end": "376.6 sec",
+            "text": "Then I have given H2 in it."
+        },
+        {
+            "start": "376.6 sec",
+            "end": "377.6 sec",
+            "text": "Because it was in it."
+        },
+        {
+            "start": "377.6 sec",
+            "end": "381.6 sec",
+            "text": "So H1 H3 H4 H5 H6 is used to build the hierarchy."
+        },
+        {
+            "start": "381.6 sec",
+            "end": "382.6 sec",
+            "text": "Okay."
+        },
+        {
+            "start": "382.6 sec",
+            "end": "384.6 sec",
+            "text": "I hope you have understood."
+        },
+        {
+            "start": "384.6 sec",
+            "end": "386.6 sec",
+            "text": "Many people are commenting that you are starting very slowly."
+        },
+        {
+            "start": "386.6 sec",
+            "end": "387.6 sec",
+            "text": "So we know."
+        },
+        {
+            "start": "387.6 sec",
+            "end": "390.6 sec",
+            "text": "I am making this course as a beginner course."
+        },
+        {
+            "start": "390.6 sec",
+            "end": "392.6 sec",
+            "text": "When I tell you about HTML."
+        },
+        {
+            "start": "392.6 sec",
+            "end": "394.6 sec",
+            "text": "Then you will say yes."
+        },
+        {
+            "start": "394.6 sec",
+            "end": "395.6 sec",
+            "text": "It is very easy."
+        },
+        {
+            "start": "395.6 sec",
+            "end": "396.6 sec",
+            "text": "Then I will tell you a little bit of CSS."
+        },
+        {
+            "start": "396.6 sec",
+            "end": "397.6 sec",
+            "text": "You will say yes."
+        },
+        {
+            "start": "397.6 sec",
+            "end": "398.6 sec",
+            "text": "Then I will say JavaScript."
+        },
+        {
+            "start": "398.6 sec",
+            "end": "399.6 sec",
+            "text": "You will say yes."
+        },
+        {
+            "start": "399.6 sec",
+            "end": "400.6 sec",
+            "text": "Okay."
+        },
+        {
+            "start": "400.6 sec",
+            "end": "401.6 sec",
+            "text": "Then I will say bootstrap."
+        },
+        {
+            "start": "401.6 sec",
+            "end": "402.6 sec",
+            "text": "Yes."
+        },
+        {
+            "start": "402.6 sec",
+            "end": "403.6 sec",
+            "text": "It will be done."
+        },
+        {
+            "start": "403.6 sec",
+            "end": "404.6 sec",
+            "text": "It is a little difficult."
+        },
+        {
+            "start": "404.6 sec",
+            "end": "405.6 sec",
+            "text": "Then I will say react."
+        },
+        {
+            "start": "405.6 sec",
+            "end": "406.6 sec",
+            "text": "Then I will say what is happening."
+        },
+        {
+            "start": "406.6 sec",
+            "end": "407.6 sec",
+            "text": "Then load the node."
+        },
+        {
+            "start": "407.6 sec",
+            "end": "408.6 sec",
+            "text": "Okay."
+        },
+        {
+            "start": "408.6 sec",
+            "end": "410.6 sec",
+            "text": "Then I will take the things."
+        },
+        {
+            "start": "410.6 sec",
+            "end": "412.6 sec",
+            "text": "I will learn the things."
+        },
+        {
+            "start": "412.6 sec",
+            "end": "414.6 sec",
+            "text": "Then after that I will say level."
+        },
+        {
+            "start": "414.6 sec",
+            "end": "417.6 sec",
+            "text": "I said we will raise the bar like anything."
+        },
+        {
+            "start": "417.6 sec",
+            "end": "419.6 sec",
+            "text": "This is what I meant."
+        },
+        {
+            "start": "419.6 sec",
+            "end": "420.6 sec",
+            "text": "So when we will do the react."
+        },
+        {
+            "start": "420.6 sec",
+            "end": "422.6 sec",
+            "text": "When I will make projects there."
+        },
+        {
+            "start": "422.6 sec",
+            "end": "423.6 sec",
+            "text": "When we will do dangerous things."
+        },
+        {
+            "start": "423.6 sec",
+            "end": "425.6 sec",
+            "text": "Then I will ask for their comments."
+        },
+        {
+            "start": "425.6 sec",
+            "end": "426.6 sec",
+            "text": "Tell me what is the level."
+        },
+        {
+            "start": "426.6 sec",
+            "end": "427.6 sec",
+            "text": "Okay."
+        },
+        {
+            "start": "427.6 sec",
+            "end": "428.6 sec",
+            "text": "Don't talk about the level."
+        },
+        {
+            "start": "428.6 sec",
+            "end": "429.6 sec",
+            "text": "The level is going to rise."
+        },
+        {
+            "start": "429.6 sec",
+            "end": "430.6 sec",
+            "text": "By doing very good."
+        },
+        {
+            "start": "430.6 sec",
+            "end": "431.6 sec",
+            "text": "So these are our headings."
+        },
+        {
+            "start": "431.6 sec",
+            "end": "432.6 sec",
+            "text": "Our 6 headings."
+        },
+        {
+            "start": "432.6 sec",
+            "end": "434.6 sec",
+            "text": "How I want to keep them like this."
+        },
+        {
+            "start": "434.6 sec",
+            "end": "436.6 sec",
+            "text": "Now if we want to write a paragraph."
+        },
+        {
+            "start": "436.6 sec",
+            "end": "438.6 sec",
+            "text": "You can use P tag."
+        },
+        {
+            "start": "438.6 sec",
+            "end": "439.6 sec",
+            "text": "P enter."
+        },
+        {
+            "start": "439.6 sec",
+            "end": "440.6 sec",
+            "text": "This paragraph will come."
+        },
+        {
+            "start": "440.6 sec",
+            "end": "442.6 sec",
+            "text": "Now I will tell you a shortcut trick."
+        },
+        {
+            "start": "442.6 sec",
+            "end": "445.6 sec",
+            "text": "If you want to bring dummy paragraph in the MET through VS code."
+        },
+        {
+            "start": "445.6 sec",
+            "end": "446.6 sec",
+            "text": "What will you do?"
+        },
+        {
+            "start": "446.6 sec",
+            "end": "447.6 sec",
+            "text": "You will write here."
+        },
+        {
+            "start": "447.6 sec",
+            "end": "449.6 sec",
+            "text": "Suppose I have written Lorem23."
+        },
+        {
+            "start": "449.6 sec",
+            "end": "450.6 sec",
+            "text": "And here look."
+        },
+        {
+            "start": "450.6 sec",
+            "end": "451.6 sec",
+            "text": "MET abbreviation has come."
+        },
+        {
+            "start": "451.6 sec",
+            "end": "452.6 sec",
+            "text": "This is Lorem23."
+        },
+        {
+            "start": "452.6 sec",
+            "end": "454.6 sec",
+            "text": "It will give me 23 words."
+        },
+        {
+            "start": "454.6 sec",
+            "end": "455.6 sec",
+            "text": "Something like this."
+        },
+        {
+            "start": "455.6 sec",
+            "end": "457.6 sec",
+            "text": "You can write a word with a view."
+        },
+        {
+            "start": "457.6 sec",
+            "end": "459.6 sec",
+            "text": "You will not get a horizontal stroll bar."
+        },
+        {
+            "start": "459.6 sec",
+            "end": "460.6 sec",
+            "text": "You can do a word wrap."
+        },
+        {
+            "start": "460.6 sec",
+            "end": "461.6 sec",
+            "text": "Now look here."
+        },
+        {
+            "start": "461.6 sec",
+            "end": "462.6 sec",
+            "text": "Lorem."
+        },
+        {
+            "start": "462.6 sec",
+            "end": "463.6 sec",
+            "text": "$."
+        },
+        {
+            "start": "463.6 sec",
+            "end": "464.6 sec",
+            "text": "$."
+        },
+        {
+            "start": "464.6 sec",
+            "end": "465.6 sec",
+            "text": "$."
+        },
+        {
+            "start": "465.6 sec",
+            "end": "466.6 sec",
+            "text": "$."
+        },
+        {
+            "start": "466.6 sec",
+            "end": "467.6 sec",
+            "text": "$."
+        },
+        {
+            "start": "467.6 sec",
+            "end": "468.6 sec",
+            "text": "$."
+        },
+        {
+            "start": "468.6 sec",
+            "end": "469.6 sec",
+            "text": "$."
+        },
+        {
+            "start": "469.6 sec",
+            "end": "470.6 sec",
+            "text": "$."
+        },
+        {
+            "start": "470.6 sec",
+            "end": "471.6 sec",
+            "text": "$."
+        },
+        {
+            "start": "471.6 sec",
+            "end": "472.6 sec",
+            "text": "$."
+        },
+        {
+            "start": "472.6 sec",
+            "end": "473.6 sec",
+            "text": "$."
+        },
+        {
+            "start": "473.6 sec",
+            "end": "474.6 sec",
+            "text": "$."
+        },
+        {
+            "start": "474.6 sec",
+            "end": "475.6 sec",
+            "text": "$."
+        },
+        {
+            "start": "475.6 sec",
+            "end": "476.6 sec",
+            "text": "$."
+        },
+        {
+            "start": "476.6 sec",
+            "end": "477.6 sec",
+            "text": "$."
+        },
+        {
+            "start": "477.6 sec",
+            "end": "478.6 sec",
+            "text": "$."
+        },
+        {
+            "start": "478.6 sec",
+            "end": "479.6 sec",
+            "text": "$."
+        },
+        {
+            "start": "479.6 sec",
+            "end": "480.6 sec",
+            "text": "$."
+        },
+        {
+            "start": "480.6 sec",
+            "end": "481.6 sec",
+            "text": "$."
+        },
+        {
+            "start": "481.6 sec",
+            "end": "482.6 sec",
+            "text": "$."
+        },
+        {
+            "start": "482.6 sec",
+            "end": "483.6 sec",
+            "text": "$."
+        },
+        {
+            "start": "483.6 sec",
+            "end": "484.6 sec",
+            "text": "$."
+        },
+        {
+            "start": "484.6 sec",
+            "end": "485.6 sec",
+            "text": "$."
+        },
+        {
+            "start": "485.6 sec",
+            "end": "486.6 sec",
+            "text": "$."
+        },
+        {
+            "start": "486.6 sec",
+            "end": "487.6 sec",
+            "text": "$."
+        },
+        {
+            "start": "487.6 sec",
+            "end": "488.6 sec",
+            "text": "$."
+        },
+        {
+            "start": "488.6 sec",
+            "end": "489.6 sec",
+            "text": "$."
+        },
+        {
+            "start": "489.6 sec",
+            "end": "490.6 sec",
+            "text": "$."
+        },
+        {
+            "start": "490.6 sec",
+            "end": "491.6 sec",
+            "text": "$."
+        },
+        {
+            "start": "491.6 sec",
+            "end": "492.6 sec",
+            "text": "$."
+        },
+        {
+            "start": "492.6 sec",
+            "end": "493.6 sec",
+            "text": "$."
+        },
+        {
+            "start": "493.6 sec",
+            "end": "494.6 sec",
+            "text": "$."
+        },
+        {
+            "start": "494.6 sec",
+            "end": "495.6 sec",
+            "text": "$."
+        },
+        {
+            "start": "495.6 sec",
+            "end": "496.6 sec",
+            "text": "$."
+        },
+        {
+            "start": "496.6 sec",
+            "end": "497.6 sec",
+            "text": "$."
+        },
+        {
+            "start": "497.6 sec",
+            "end": "498.6 sec",
+            "text": "$."
+        },
+        {
+            "start": "498.6 sec",
+            "end": "499.6 sec",
+            "text": "$."
+        },
+        {
+            "start": "499.6 sec",
+            "end": "500.6 sec",
+            "text": "$."
+        },
+        {
+            "start": "500.6 sec",
+            "end": "501.6 sec",
+            "text": "$."
+        },
+        {
+            "start": "501.6 sec",
+            "end": "502.6 sec",
+            "text": "$."
+        },
+        {
+            "start": "502.6 sec",
+            "end": "503.6 sec",
+            "text": "$."
+        },
+        {
+            "start": "503.6 sec",
+            "end": "504.6 sec",
+            "text": "$."
+        },
+        {
+            "start": "504.6 sec",
+            "end": "505.6 sec",
+            "text": "$."
+        },
+        {
+            "start": "505.6 sec",
+            "end": "506.6 sec",
+            "text": "$."
+        },
+        {
+            "start": "506.6 sec",
+            "end": "507.6 sec",
+            "text": "$."
+        },
+        {
+            "start": "507.6 sec",
+            "end": "508.6 sec",
+            "text": "$."
+        },
+        {
+            "start": "508.6 sec",
+            "end": "509.6 sec",
+            "text": "$."
+        },
+        {
+            "start": "509.6 sec",
+            "end": "510.6 sec",
+            "text": "$."
+        },
+        {
+            "start": "510.6 sec",
+            "end": "511.6 sec",
+            "text": "$."
+        },
+        {
+            "start": "511.6 sec",
+            "end": "512.6 sec",
+            "text": "$."
+        },
+        {
+            "start": "512.6 sec",
+            "end": "513.6 sec",
+            "text": "$."
+        },
+        {
+            "start": "513.6 sec",
+            "end": "514.6 sec",
+            "text": "$."
+        },
+        {
+            "start": "514.6 sec",
+            "end": "515.6 sec",
+            "text": "$."
+        },
+        {
+            "start": "515.6 sec",
+            "end": "516.6 sec",
+            "text": "$."
+        },
+        {
+            "start": "516.6 sec",
+            "end": "522.6 sec",
+            "text": "I will write P enter and if I write LORAM 10 then only 10 words will come"
+        },
+        {
+            "start": "522.6 sec",
+            "end": "527.6 sec",
+            "text": "and if I write LORAM 100 then I can write that too"
+        },
+        {
+            "start": "527.6 sec",
+            "end": "530.6 sec",
+            "text": "so this LORAM value trick is very good"
+        },
+        {
+            "start": "530.6 sec",
+            "end": "533.6 sec",
+            "text": "and whenever we will make a popular website"
+        },
+        {
+            "start": "533.6 sec",
+            "end": "537.6 sec",
+            "text": "I will make Amazon.in's clone"
+        },
+        {
+            "start": "537.6 sec",
+            "end": "539.6 sec",
+            "text": "so here I have to write something"
+        },
+        {
+            "start": "539.6 sec",
+            "end": "541.6 sec",
+            "text": "I am not seeing text here"
+        },
+        {
+            "start": "541.6 sec",
+            "end": "543.6 sec",
+            "text": "I have to write 3 words here"
+        },
+        {
+            "start": "543.6 sec",
+            "end": "545.6 sec",
+            "text": "I will not write about makeup products"
+        },
+        {
+            "start": "545.6 sec",
+            "end": "548.6 sec",
+            "text": "I will write LORAM 4 or LORAM 3 or LORAM 2"
+        },
+        {
+            "start": "548.6 sec",
+            "end": "551.6 sec",
+            "text": "and I will make a template and then whatever is there"
+        },
+        {
+            "start": "551.6 sec",
+            "end": "553.6 sec",
+            "text": "will come in my database"
+        },
+        {
+            "start": "553.6 sec",
+            "end": "557.6 sec",
+            "text": "and I can get it in text in a very different way"
+        },
+        {
+            "start": "557.6 sec",
+            "end": "559.6 sec",
+            "text": "many people asked me if this course job is ready"
+        },
+        {
+            "start": "559.6 sec",
+            "end": "561.6 sec",
+            "text": "the answer is yes, this course job is ready"
+        },
+        {
+            "start": "561.6 sec",
+            "end": "563.6 sec",
+            "text": "absolutely I will make you all"
+        },
+        {
+            "start": "563.6 sec",
+            "end": "565.6 sec",
+            "text": "so that you all can actually do the jobs of the industry level"
+        },
+        {
+            "start": "565.6 sec",
+            "end": "568.6 sec",
+            "text": "through the learning of this course"
+        },
+        {
+            "start": "568.6 sec",
+            "end": "570.6 sec",
+            "text": "now let's talk about what are the attributes in HTML"
+        },
+        {
+            "start": "570.6 sec",
+            "end": "572.6 sec",
+            "text": "these are the attributes in HTML"
+        },
+        {
+            "start": "572.6 sec",
+            "end": "574.6 sec",
+            "text": "like I have used HTML tag"
+        },
+        {
+            "start": "574.6 sec",
+            "end": "576.6 sec",
+            "text": "lang is equal to en, lang is an attribute"
+        },
+        {
+            "start": "576.6 sec",
+            "end": "578.6 sec",
+            "text": "we did not use any attribute in the body"
+        },
+        {
+            "start": "578.6 sec",
+            "end": "580.6 sec",
+            "text": "we did not use any attribute in H1"
+        },
+        {
+            "start": "580.6 sec",
+            "end": "582.6 sec",
+            "text": "we did not use any attribute in P"
+        },
+        {
+            "start": "582.6 sec",
+            "end": "584.6 sec",
+            "text": "but I can use a style attribute in P"
+        },
+        {
+            "start": "584.6 sec",
+            "end": "586.6 sec",
+            "text": "which is called inline CSS"
+        },
+        {
+            "start": "586.6 sec",
+            "end": "589.6 sec",
+            "text": "if I red the background color"
+        },
+        {
+            "start": "589.6 sec",
+            "end": "591.6 sec",
+            "text": "like this"
+        },
+        {
+            "start": "591.6 sec",
+            "end": "593.6 sec",
+            "text": "the background color will get red"
+        },
+        {
+            "start": "593.6 sec",
+            "end": "595.6 sec",
+            "text": "it is called inline CSS through style attribute"
+        },
+        {
+            "start": "595.6 sec",
+            "end": "597.6 sec",
+            "text": "so if you add CSS in style"
+        },
+        {
+            "start": "597.6 sec",
+            "end": "599.6 sec",
+            "text": "first we learned to add CSS here"
+        },
+        {
+            "start": "599.6 sec",
+            "end": "601.6 sec",
+            "text": "but if you add style is equal to"
+        },
+        {
+            "start": "601.6 sec",
+            "end": "603.6 sec",
+            "text": "then you will get this background red"
+        },
+        {
+            "start": "603.6 sec",
+            "end": "605.6 sec",
+            "text": "let me show you"
+        },
+        {
+            "start": "605.6 sec",
+            "end": "607.6 sec",
+            "text": "I will use this color to teal it"
+        },
+        {
+            "start": "607.6 sec",
+            "end": "609.6 sec",
+            "text": "or this color to thistle"
+        },
+        {
+            "start": "609.6 sec",
+            "end": "611.6 sec",
+            "text": "this color is looking good"
+        },
+        {
+            "start": "611.6 sec",
+            "end": "613.6 sec",
+            "text": "so I can also add style inline"
+        },
+        {
+            "start": "613.6 sec",
+            "end": "615.6 sec",
+            "text": "but when you make websites of industry level"
+        },
+        {
+            "start": "615.6 sec",
+            "end": "617.6 sec",
+            "text": "we use inline styles very less"
+        },
+        {
+            "start": "617.6 sec",
+            "end": "619.6 sec",
+            "text": "because the reusability decreases"
+        },
+        {
+            "start": "619.6 sec",
+            "end": "622.6 sec",
+            "text": "so we want to shift small bundles on the browser"
+        },
+        {
+            "start": "622.6 sec",
+            "end": "625.6 sec",
+            "text": "and our website is more optimized"
+        },
+        {
+            "start": "625.6 sec",
+            "end": "627.6 sec",
+            "text": "so we avoid all these things"
+        },
+        {
+            "start": "627.6 sec",
+            "end": "629.6 sec",
+            "text": "but inline CSS has a style tag"
+        },
+        {
+            "start": "629.6 sec",
+            "end": "631.6 sec",
+            "text": "but here style is an attribute"
+        },
+        {
+            "start": "631.6 sec",
+            "end": "633.6 sec",
+            "text": "P tag is an attribute style"
+        },
+        {
+            "start": "633.6 sec",
+            "end": "635.6 sec",
+            "text": "through which we can style this element"
+        },
+        {
+            "start": "635.6 sec",
+            "end": "637.6 sec",
+            "text": "we will learn more about attributes"
+        },
+        {
+            "start": "637.6 sec",
+            "end": "639.6 sec",
+            "text": "attributes basically give an"
+        },
+        {
+            "start": "639.6 sec",
+            "end": "641.6 sec",
+            "text": "enhanced functionality to an element"
+        },
+        {
+            "start": "641.6 sec",
+            "end": "643.6 sec",
+            "text": "like this paragraph"
+        },
+        {
+            "start": "643.6 sec",
+            "end": "645.6 sec",
+            "text": "we gave a style"
+        },
+        {
+            "start": "645.6 sec",
+            "end": "647.6 sec",
+            "text": "which was background color thistle"
+        },
+        {
+            "start": "647.6 sec",
+            "end": "649.6 sec",
+            "text": "we used style attribute to give this background color"
+        },
+        {
+            "start": "649.6 sec",
+            "end": "651.6 sec",
+            "text": "similarly"
+        },
+        {
+            "start": "651.6 sec",
+            "end": "653.6 sec",
+            "text": "to give properties"
+        },
+        {
+            "start": "653.6 sec",
+            "end": "655.6 sec",
+            "text": "we used any tag"
+        },
+        {
+            "start": "655.6 sec",
+            "end": "657.6 sec",
+            "text": "any element"
+        },
+        {
+            "start": "657.6 sec",
+            "end": "659.6 sec",
+            "text": "we use attributes like this"
+        },
+        {
+            "start": "659.6 sec",
+            "end": "661.6 sec",
+            "text": "like if we talk about"
+        },
+        {
+            "start": "661.6 sec",
+            "end": "663.6 sec",
+            "text": "link, css"
+        },
+        {
+            "start": "663.6 sec",
+            "end": "665.6 sec",
+            "text": "link has relic attribute"
+        },
+        {
+            "start": "665.6 sec",
+            "end": "667.6 sec",
+            "text": "href attribute"
+        },
+        {
+            "start": "667.6 sec",
+            "end": "669.6 sec",
+            "text": "so what we can do with this attribute"
+        },
+        {
+            "start": "669.6 sec",
+            "end": "671.6 sec",
+            "text": "we can add this css style sheet"
+        },
+        {
+            "start": "671.6 sec",
+            "end": "673.6 sec",
+            "text": "like background"
+        },
+        {
+            "start": "673.6 sec",
+            "end": "675.6 sec",
+            "text": "background color"
+        },
+        {
+            "start": "675.6 sec",
+            "end": "677.6 sec",
+            "text": "I said body first"
+        },
+        {
+            "start": "677.6 sec",
+            "end": "679.6 sec",
+            "text": "what we want in body is background color"
+        },
+        {
+            "start": "679.6 sec",
+            "end": "681.6 sec",
+            "text": "and don't worry about it"
+        },
+        {
+            "start": "681.6 sec",
+            "end": "683.6 sec",
+            "text": "don't worry about it"
+        },
+        {
+            "start": "683.6 sec",
+            "end": "685.6 sec",
+            "text": "because in css everything will be told"
+        },
+        {
+            "start": "685.6 sec",
+            "end": "687.6 sec",
+            "text": "I am telling you that I am doing hotpink"
+        },
+        {
+            "start": "687.6 sec",
+            "end": "689.6 sec",
+            "text": "listen to another function of vscode"
+        },
+        {
+            "start": "689.6 sec",
+            "end": "691.6 sec",
+            "text": "this ninja technique"
+        },
+        {
+            "start": "691.6 sec",
+            "end": "693.6 sec",
+            "text": "it will be useful"
+        },
+        {
+            "start": "693.6 sec",
+            "end": "695.6 sec",
+            "text": "and here you can choose"
+        },
+        {
+            "start": "695.6 sec",
+            "end": "697.6 sec",
+            "text": "any color you want"
+        },
+        {
+            "start": "697.6 sec",
+            "end": "699.6 sec",
+            "text": "I will leave it"
+        },
+        {
+            "start": "699.6 sec",
+            "end": "701.6 sec",
+            "text": "and do this"
+        },
+        {
+            "start": "701.6 sec",
+            "end": "703.6 sec",
+            "text": "so this is the background color of body"
+        },
+        {
+            "start": "703.6 sec",
+            "end": "705.6 sec",
+            "text": "how did you like ninja technique"
+        },
+        {
+            "start": "705.6 sec",
+            "end": "707.6 sec",
+            "text": "write in comment"
+        },
+        {
+            "start": "707.6 sec",
+            "end": "709.6 sec",
+            "text": "now we are back in index.html"
+        },
+        {
+            "start": "709.6 sec",
+            "end": "711.6 sec",
+            "text": "we can remove it if we want"
+        },
+        {
+            "start": "711.6 sec",
+            "end": "713.6 sec",
+            "text": "I will comment this"
+        },
+        {
+            "start": "713.6 sec",
+            "end": "715.6 sec",
+            "text": "this is very natural"
+        },
+        {
+            "start": "715.6 sec",
+            "end": "717.6 sec",
+            "text": "the background color was coming from this style sheet"
+        },
+        {
+            "start": "717.6 sec",
+            "end": "719.6 sec",
+            "text": "remove it"
+        },
+        {
+            "start": "719.6 sec",
+            "end": "721.6 sec",
+            "text": "this background color was coming from inline css"
+        },
+        {
+            "start": "721.6 sec",
+            "end": "723.6 sec",
+            "text": "so it didn't remove it"
+        },
+        {
+            "start": "723.6 sec",
+            "end": "725.6 sec",
+            "text": "this style is equal to background color"
+        },
+        {
+            "start": "725.6 sec",
+            "end": "727.6 sec",
+            "text": "because of which it was looking"
+        },
+        {
+            "start": "727.6 sec",
+            "end": "729.6 sec",
+            "text": "background color"
+        },
+        {
+            "start": "729.6 sec",
+            "end": "731.6 sec",
+            "text": "now we are going to make bookmark"
+        },
+        {
+            "start": "731.6 sec",
+            "end": "733.6 sec",
+            "text": "bookmark manager"
+        },
+        {
+            "start": "733.6 sec",
+            "end": "735.6 sec",
+            "text": "bookmarkmanager.html"
+        },
+        {
+            "start": "735.6 sec",
+            "end": "737.6 sec",
+            "text": "and I am making it for a different file"
+        },
+        {
+            "start": "737.6 sec",
+            "end": "739.6 sec",
+            "text": "because here I have told you different headings"
+        },
+        {
+            "start": "739.6 sec",
+            "end": "741.6 sec",
+            "text": "I am going to make a useful bookmark manager"
+        },
+        {
+            "start": "741.6 sec",
+            "end": "743.6 sec",
+            "text": "I am going to write"
+        },
+        {
+            "start": "743.6 sec",
+            "end": "745.6 sec",
+            "text": "bookmark manager"
+        },
+        {
+            "start": "745.6 sec",
+            "end": "747.6 sec",
+            "text": "now you may ask"
+        },
+        {
+            "start": "747.6 sec",
+            "end": "749.6 sec",
+            "text": "why are you making bookmark manager"
+        },
+        {
+            "start": "749.6 sec",
+            "end": "751.6 sec",
+            "text": "this is made by our hands"
+        },
+        {
+            "start": "751.6 sec",
+            "end": "753.6 sec",
+            "text": "this will be our child"
+        },
+        {
+            "start": "753.6 sec",
+            "end": "755.6 sec",
+            "text": "we made this"
+        },
+        {
+            "start": "755.6 sec",
+            "end": "757.6 sec",
+            "text": "so you will get a different value"
+        },
+        {
+            "start": "757.6 sec",
+            "end": "759.6 sec",
+            "text": "because you made this yourself"
+        },
+        {
+            "start": "759.6 sec",
+            "end": "761.6 sec",
+            "text": "someone made this software"
+        },
+        {
+            "start": "761.6 sec",
+            "end": "763.6 sec",
+            "text": "you made this software yourself"
+        },
+        {
+            "start": "763.6 sec",
+            "end": "765.6 sec",
+            "text": "so you can see here"
+        },
+        {
+            "start": "765.6 sec",
+            "end": "767.6 sec",
+            "text": "bookmark manager"
+        },
+        {
+            "start": "767.6 sec",
+            "end": "769.6 sec",
+            "text": "I will write h1 and write"
+        },
+        {
+            "start": "769.6 sec",
+            "end": "771.6 sec",
+            "text": "my bookmarks"
+        },
+        {
+            "start": "771.6 sec",
+            "end": "773.6 sec",
+            "text": "now I will write h2"
+        },
+        {
+            "start": "773.6 sec",
+            "end": "775.6 sec",
+            "text": "here I will write primary bookmarks"
+        },
+        {
+            "start": "775.6 sec",
+            "end": "777.6 sec",
+            "text": "and here I will write"
+        },
+        {
+            "start": "777.6 sec",
+            "end": "779.6 sec",
+            "text": "secondary bookmarks"
+        },
+        {
+            "start": "779.6 sec",
+            "end": "781.6 sec",
+            "text": "in fact if I am going to write"
+        },
+        {
+            "start": "781.6 sec",
+            "end": "783.6 sec",
+            "text": "all shift buttons here"
+        },
+        {
+            "start": "783.6 sec",
+            "end": "785.6 sec",
+            "text": "secondary bookmarks"
+        },
+        {
+            "start": "785.6 sec",
+            "end": "787.6 sec",
+            "text": "so what will happen here"
+        },
+        {
+            "start": "787.6 sec",
+            "end": "789.6 sec",
+            "text": "I can write secondary bookmarks"
+        },
+        {
+            "start": "789.6 sec",
+            "end": "791.6 sec",
+            "text": "now I will write in a paragraph"
+        },
+        {
+            "start": "791.6 sec",
+            "end": "793.6 sec",
+            "text": "or I will write like this"
+        },
+        {
+            "start": "793.6 sec",
+            "end": "795.6 sec",
+            "text": "we will write this in the list"
+        },
+        {
+            "start": "795.6 sec",
+            "end": "797.6 sec",
+            "text": "but in the coming videos I will tell you"
+        },
+        {
+            "start": "797.6 sec",
+            "end": "799.6 sec",
+            "text": "how to write this in the list"
+        },
+        {
+            "start": "799.6 sec",
+            "end": "801.6 sec",
+            "text": "for now you can understand"
+        },
+        {
+            "start": "801.6 sec",
+            "end": "803.6 sec",
+            "text": "google"
+        },
+        {
+            "start": "803.6 sec",
+            "end": "805.6 sec",
+            "text": "open google"
+        },
+        {
+            "start": "805.6 sec",
+            "end": "807.6 sec",
+            "text": "and I will write anchor tag"
+        },
+        {
+            "start": "807.6 sec",
+            "end": "809.6 sec",
+            "text": "so I will enter"
+        },
+        {
+            "start": "809.6 sec",
+            "end": "811.6 sec",
+            "text": "one mandatory attribute of href"
+        },
+        {
+            "start": "811.6 sec",
+            "end": "813.6 sec",
+            "text": "which means you can click it"
+        },
+        {
+            "start": "813.6 sec",
+            "end": "815.6 sec",
+            "text": "and write href is equal to"
+        },
+        {
+            "start": "815.6 sec",
+            "end": "817.6 sec",
+            "text": "https://www.google.com"
+        },
+        {
+            "start": "817.6 sec",
+            "end": "819.6 sec",
+            "text": "so this will be on this address"
+        },
+        {
+            "start": "819.6 sec",
+            "end": "821.6 sec",
+            "text": "whenever you click open google"
+        },
+        {
+            "start": "821.6 sec",
+            "end": "823.6 sec",
+            "text": "and I will cut this open google"
+        },
+        {
+            "start": "823.6 sec",
+            "end": "825.6 sec",
+            "text": "and put it here"
+        },
+        {
+            "start": "825.6 sec",
+            "end": "827.6 sec",
+            "text": "and here you can see"
+        },
+        {
+            "start": "827.6 sec",
+            "end": "829.6 sec",
+            "text": "href is equal to open google"
+        },
+        {
+            "start": "829.6 sec",
+            "end": "831.6 sec",
+            "text": "it is called anchor tag"
+        },
+        {
+            "start": "831.6 sec",
+            "end": "833.6 sec",
+            "text": "which helps us to make links"
+        },
+        {
+            "start": "833.6 sec",
+            "end": "835.6 sec",
+            "text": "you must have seen many such links"
+        },
+        {
+            "start": "835.6 sec",
+            "end": "837.6 sec",
+            "text": "now you can see here"
+        },
+        {
+            "start": "837.6 sec",
+            "end": "839.6 sec",
+            "text": "as soon as I go"
+        },
+        {
+            "start": "839.6 sec",
+            "end": "841.6 sec",
+            "text": "bookmarkmanager.html"
+        },
+        {
+            "start": "841.6 sec",
+            "end": "843.6 sec",
+            "text": "you can see here"
+        },
+        {
+            "start": "843.6 sec",
+            "end": "845.6 sec",
+            "text": "you can see all the bookmarks"
+        },
+        {
+            "start": "845.6 sec",
+            "end": "847.6 sec",
+            "text": "now I will click on it and google will open"
+        },
+        {
+            "start": "847.6 sec",
+            "end": "849.6 sec",
+            "text": "you can see"
+        },
+        {
+            "start": "849.6 sec",
+            "end": "851.6 sec",
+            "text": "now one thing you noticed when I did not click on it"
+        },
+        {
+            "start": "851.6 sec",
+            "end": "853.6 sec",
+            "text": "it was blue and now I visited it"
+        },
+        {
+            "start": "853.6 sec",
+            "end": "855.6 sec",
+            "text": "and now it changes to blue"
+        },
+        {
+            "start": "855.6 sec",
+            "end": "857.6 sec",
+            "text": "when you visit it"
+        },
+        {
+            "start": "857.6 sec",
+            "end": "859.6 sec",
+            "text": "so I know that I have visited it"
+        },
+        {
+            "start": "859.6 sec",
+            "end": "861.6 sec",
+            "text": "now I will tell you one more thing"
+        },
+        {
+            "start": "861.6 sec",
+            "end": "863.6 sec",
+            "text": "if we want to open it in the new tab"
+        },
+        {
+            "start": "863.6 sec",
+            "end": "865.6 sec",
+            "text": "like I am clicking on it"
+        },
+        {
+            "start": "865.6 sec",
+            "end": "867.6 sec",
+            "text": "it is opening in the same tab"
+        },
+        {
+            "start": "867.6 sec",
+            "end": "869.6 sec",
+            "text": "if you want to open it in the new tab"
+        },
+        {
+            "start": "869.6 sec",
+            "end": "871.6 sec",
+            "text": "you can either open it in the mouse wheel"
+        },
+        {
+            "start": "871.6 sec",
+            "end": "873.6 sec",
+            "text": "or you can click on it"
+        },
+        {
+            "start": "873.6 sec",
+            "end": "875.6 sec",
+            "text": "in the mouse wheel"
+        },
+        {
+            "start": "875.6 sec",
+            "end": "877.6 sec",
+            "text": "another way I will tell you"
+        },
+        {
+            "start": "877.6 sec",
+            "end": "879.6 sec",
+            "text": "if you want to open it in the new tab"
+        },
+        {
+            "start": "879.6 sec",
+            "end": "881.6 sec",
+            "text": "you can use an attribute"
+        },
+        {
+            "start": "881.6 sec",
+            "end": "883.6 sec",
+            "text": "you can write"
+        },
+        {
+            "start": "883.6 sec",
+            "end": "885.6 sec",
+            "text": "target is equal to"
+        },
+        {
+            "start": "885.6 sec",
+            "end": "887.6 sec",
+            "text": "underscore blank"
+        },
+        {
+            "start": "887.6 sec",
+            "end": "889.6 sec",
+            "text": "and VS Code gives you suggestions"
+        },
+        {
+            "start": "889.6 sec",
+            "end": "891.6 sec",
+            "text": "so I wrote it with two enter"
+        },
+        {
+            "start": "891.6 sec",
+            "end": "893.6 sec",
+            "text": "it is written in the notepad"
+        },
+        {
+            "start": "893.6 sec",
+            "end": "895.6 sec",
+            "text": "it is written in a cheaper editor"
+        },
+        {
+            "start": "895.6 sec",
+            "end": "897.6 sec",
+            "text": "so what would have happened to you"
+        },
+        {
+            "start": "897.6 sec",
+            "end": "899.6 sec",
+            "text": "it is cheaper than quality"
+        },
+        {
+            "start": "899.6 sec",
+            "end": "901.6 sec",
+            "text": "but if you use a cheaper editor"
+        },
+        {
+            "start": "901.6 sec",
+            "end": "903.6 sec",
+            "text": "then target is equal to underscore blank"
+        },
+        {
+            "start": "903.6 sec",
+            "end": "905.6 sec",
+            "text": "you will have to type it"
+        },
+        {
+            "start": "905.6 sec",
+            "end": "907.6 sec",
+            "text": "but if you write it in any way"
+        },
+        {
+            "start": "907.6 sec",
+            "end": "909.6 sec",
+            "text": "and what will happen now I will click on it"
+        },
+        {
+            "start": "909.6 sec",
+            "end": "911.6 sec",
+            "text": "I will click on it in the mouse wheel"
+        },
+        {
+            "start": "911.6 sec",
+            "end": "913.6 sec",
+            "text": "and it will open in the new tab"
+        },
+        {
+            "start": "913.6 sec",
+            "end": "915.6 sec",
+            "text": "so I can open it like this"
+        },
+        {
+            "start": "915.6 sec",
+            "end": "917.6 sec",
+            "text": "I have written a simple open google"
+        },
+        {
+            "start": "917.6 sec",
+            "end": "919.6 sec",
+            "text": "if you want"
+        },
+        {
+            "start": "919.6 sec",
+            "end": "921.6 sec",
+            "text": "you can type whatever website you like"
+        },
+        {
+            "start": "921.6 sec",
+            "end": "923.6 sec",
+            "text": "you can type it"
+        },
+        {
+            "start": "923.6 sec",
+            "end": "925.6 sec",
+            "text": "you can type it in a good website"
+        },
+        {
+            "start": "925.6 sec",
+            "end": "927.6 sec",
+            "text": "now I will write open facebook"
+        },
+        {
+            "start": "927.6 sec",
+            "end": "929.6 sec",
+            "text": "and here you can see"
+        },
+        {
+            "start": "929.6 sec",
+            "end": "931.6 sec",
+            "text": "facebook.com"
+        },
+        {
+            "start": "931.6 sec",
+            "end": "933.6 sec",
+            "text": "and I will write"
+        },
+        {
+            "start": "933.6 sec",
+            "end": "935.6 sec",
+            "text": "kora.com and codewithery.com"
+        },
+        {
+            "start": "935.6 sec",
+            "end": "937.6 sec",
+            "text": "and after that we will write"
+        },
+        {
+            "start": "937.6 sec",
+            "end": "939.6 sec",
+            "text": "which website I should write"
+        },
+        {
+            "start": "939.6 sec",
+            "end": "941.6 sec",
+            "text": "youtube.com"
+        },
+        {
+            "start": "941.6 sec",
+            "end": "943.6 sec",
+            "text": "let's see if it came here"
+        },
+        {
+            "start": "943.6 sec",
+            "end": "945.6 sec",
+            "text": "you have seen one thing"
+        },
+        {
+            "start": "945.6 sec",
+            "end": "947.6 sec",
+            "text": "it is coming in the same line"
+        },
+        {
+            "start": "947.6 sec",
+            "end": "949.6 sec",
+            "text": "if you want it not to come in one line"
+        },
+        {
+            "start": "949.6 sec",
+            "end": "951.6 sec",
+            "text": "then what will you do"
+        },
+        {
+            "start": "951.6 sec",
+            "end": "953.6 sec",
+            "text": "you will put it in your paragraphs"
+        },
+        {
+            "start": "953.6 sec",
+            "end": "955.6 sec",
+            "text": "it is a very dirty way"
+        },
+        {
+            "start": "955.6 sec",
+            "end": "957.6 sec",
+            "text": "I am calling it dirty way"
+        },
+        {
+            "start": "957.6 sec",
+            "end": "959.6 sec",
+            "text": "I will tell you this"
+        },
+        {
+            "start": "959.6 sec",
+            "end": "961.6 sec",
+            "text": "but you close it in a paragraph"
+        },
+        {
+            "start": "961.6 sec",
+            "end": "963.6 sec",
+            "text": "if you want and I will press shift"
+        },
+        {
+            "start": "963.6 sec",
+            "end": "965.6 sec",
+            "text": "I will press right arrow"
+        },
+        {
+            "start": "965.6 sec",
+            "end": "967.6 sec",
+            "text": "and it will go in the end"
+        },
+        {
+            "start": "967.6 sec",
+            "end": "969.6 sec",
+            "text": "because if you press one cursor"
+        },
+        {
+            "start": "969.6 sec",
+            "end": "971.6 sec",
+            "text": "then it goes in the end"
+        },
+        {
+            "start": "971.6 sec",
+            "end": "973.6 sec",
+            "text": "and then I will control it"
+        },
+        {
+            "start": "973.6 sec",
+            "end": "975.6 sec",
+            "text": "I have used a very short cut"
+        },
+        {
+            "start": "975.6 sec",
+            "end": "977.6 sec",
+            "text": "and many of you will be like"
+        },
+        {
+            "start": "977.6 sec",
+            "end": "979.6 sec",
+            "text": "what did you do"
+        },
+        {
+            "start": "979.6 sec",
+            "end": "981.6 sec",
+            "text": "if you don't know"
+        },
+        {
+            "start": "981.6 sec",
+            "end": "983.6 sec",
+            "text": "but I did it simply"
+        },
+        {
+            "start": "983.6 sec",
+            "end": "985.6 sec",
+            "text": "I used the multiple cursor functionality"
+        },
+        {
+            "start": "985.6 sec",
+            "end": "987.6 sec",
+            "text": "I have used multiple cursor"
+        },
+        {
+            "start": "987.6 sec",
+            "end": "989.6 sec",
+            "text": "and after that I used it"
+        },
+        {
+            "start": "989.6 sec",
+            "end": "991.6 sec",
+            "text": "this is not a good way to use paragraphs"
+        },
+        {
+            "start": "991.6 sec",
+            "end": "993.6 sec",
+            "text": "we don't make lists"
+        },
+        {
+            "start": "993.6 sec",
+            "end": "995.6 sec",
+            "text": "it will look like this"
+        },
+        {
+            "start": "995.6 sec",
+            "end": "997.6 sec",
+            "text": "and the ones we didn't"
+        },
+        {
+            "start": "997.6 sec",
+            "end": "999.6 sec",
+            "text": "we did it in a blue way"
+        },
+        {
+            "start": "999.6 sec",
+            "end": "1001.6 sec",
+            "text": "we did it in a cora"
+        },
+        {
+            "start": "1001.6 sec",
+            "end": "1003.6 sec",
+            "text": "so now it is your primary bookmarks"
+        },
+        {
+            "start": "1003.6 sec",
+            "end": "1005.6 sec",
+            "text": "what are your secondary bookmarks"
+        },
+        {
+            "start": "1005.6 sec",
+            "end": "1007.6 sec",
+            "text": "we will put two secondary bookmarks"
+        },
+        {
+            "start": "1007.6 sec",
+            "end": "1009.6 sec",
+            "text": "secondary bookmarks are those which you visit"
+        },
+        {
+            "start": "1009.6 sec",
+            "end": "1011.6 sec",
+            "text": "you can visit wikipedia.com"
+        },
+        {
+            "start": "1011.6 sec",
+            "end": "1013.6 sec",
+            "text": "wikipedia.com is here"
+        },
+        {
+            "start": "1013.6 sec",
+            "end": "1015.6 sec",
+            "text": "and you can consider it as stackoverflow"
+        },
+        {
+            "start": "1015.6 sec",
+            "end": "1017.6 sec",
+            "text": "first we will write it correctly"
+        },
+        {
+            "start": "1017.6 sec",
+            "end": "1019.6 sec",
+            "text": "stackoverflow"
+        },
+        {
+            "start": "1019.6 sec",
+            "end": "1021.6 sec",
+            "text": "let's capitalize"
+        },
+        {
+            "start": "1021.6 sec",
+            "end": "1023.6 sec",
+            "text": "see here your secondary bookmarks are wikipedia"
+        },
+        {
+            "start": "1023.6 sec",
+            "end": "1025.6 sec",
+            "text": "stackoverflow"
+        },
+        {
+            "start": "1025.6 sec",
+            "end": "1027.6 sec",
+            "text": "so this is your bookmark manager"
+        },
+        {
+            "start": "1027.6 sec",
+            "end": "1029.6 sec",
+            "text": "and you can make this bookmark manager even better"
+        },
+        {
+            "start": "1029.6 sec",
+            "end": "1031.6 sec",
+            "text": "we will learn CSS styling"
+        },
+        {
+            "start": "1031.6 sec",
+            "end": "1033.6 sec",
+            "text": "so don't worry"
+        },
+        {
+            "start": "1033.6 sec",
+            "end": "1035.6 sec",
+            "text": "it looks ugly"
+        },
+        {
+            "start": "1035.6 sec",
+            "end": "1037.6 sec",
+            "text": "don't worry"
+        },
+        {
+            "start": "1037.6 sec",
+            "end": "1039.6 sec",
+            "text": "because we will do styling and designing"
+        },
+        {
+            "start": "1039.6 sec",
+            "end": "1041.6 sec",
+            "text": "we will talk about all that"
+        },
+        {
+            "start": "1041.6 sec",
+            "end": "1043.6 sec",
+            "text": "now your bookmark looks like this"
+        },
+        {
+            "start": "1043.6 sec",
+            "end": "1045.6 sec",
+            "text": "bookmark manager code withari is your title"
+        },
+        {
+            "start": "1045.6 sec",
+            "end": "1047.6 sec",
+            "text": "and I will write it in h1"
+        },
+        {
+            "start": "1047.6 sec",
+            "end": "1049.6 sec",
+            "text": "so both will be same"
+        },
+        {
+            "start": "1049.6 sec",
+            "end": "1051.6 sec",
+            "text": "and my bookmark code will be written here"
+        },
+        {
+            "start": "1051.6 sec",
+            "end": "1053.6 sec",
+            "text": "so you can make this bookmark manager"
+        },
+        {
+            "start": "1053.6 sec",
+            "end": "1055.6 sec",
+            "text": "you can actually use it"
+        },
+        {
+            "start": "1055.6 sec",
+            "end": "1057.6 sec",
+            "text": "now if you save it"
+        },
+        {
+            "start": "1057.6 sec",
+            "end": "1059.6 sec",
+            "text": "like my bookmark manager is rhtml"
+        },
+        {
+            "start": "1059.6 sec",
+            "end": "1061.6 sec",
+            "text": "you can copy it"
+        },
+        {
+            "start": "1061.6 sec",
+            "end": "1063.6 sec",
+            "text": "and put it on your desktop"
+        },
+        {
+            "start": "1063.6 sec",
+            "end": "1065.6 sec",
+            "text": "whenever you want to open a website"
+        },
+        {
+            "start": "1065.6 sec",
+            "end": "1067.6 sec",
+            "text": "you can just double click it"
+        },
+        {
+            "start": "1067.6 sec",
+            "end": "1069.6 sec",
+            "text": "if you double click it"
+        },
+        {
+            "start": "1069.6 sec",
+            "end": "1071.6 sec",
+            "text": "and open it from vs code"
+        },
+        {
+            "start": "1071.6 sec",
+            "end": "1073.6 sec",
+            "text": "then you will have to do it correctly"
+        },
+        {
+            "start": "1073.6 sec",
+            "end": "1075.6 sec",
+            "text": "choose another app"
+        },
+        {
+            "start": "1075.6 sec",
+            "end": "1077.6 sec",
+            "text": "and then choose google chrome"
+        },
+        {
+            "start": "1077.6 sec",
+            "end": "1079.6 sec",
+            "text": "so I will always choose google chrome"
+        },
+        {
+            "start": "1079.6 sec",
+            "end": "1081.6 sec",
+            "text": "and I will always do it"
+        },
+        {
+            "start": "1081.6 sec",
+            "end": "1083.6 sec",
+            "text": "so I will always double click it"
+        },
+        {
+            "start": "1083.6 sec",
+            "end": "1085.6 sec",
+            "text": "so this was our bookmark manager"
+        },
+        {
+            "start": "1085.6 sec",
+            "end": "1087.6 sec",
+            "text": "I hope you liked it"
+        },
+        {
+            "start": "1087.6 sec",
+            "end": "1089.6 sec",
+            "text": "I have a request for you"
+        },
+        {
+            "start": "1089.6 sec",
+            "end": "1091.6 sec",
+            "text": "our 4 videos are completed"
+        },
+        {
+            "start": "1091.6 sec",
+            "end": "1093.6 sec",
+            "text": "so if you like the code"
+        },
+        {
+            "start": "1093.6 sec",
+            "end": "1095.6 sec",
+            "text": "then share it with your friends"
+        },
+        {
+            "start": "1095.6 sec",
+            "end": "1097.6 sec",
+            "text": "I know very few people will share it"
+        },
+        {
+            "start": "1097.6 sec",
+            "end": "1099.6 sec",
+            "text": "but if you do it"
+        },
+        {
+            "start": "1099.6 sec",
+            "end": "1101.6 sec",
+            "text": "then I have a lot of courage"
+        },
+        {
+            "start": "1101.6 sec",
+            "end": "1103.6 sec",
+            "text": "and I will try to bring more courses like this"
+        },
+        {
+            "start": "1103.6 sec",
+            "end": "1105.6 sec",
+            "text": "many people are shocked and saying"
+        },
+        {
+            "start": "1105.6 sec",
+            "end": "1107.6 sec",
+            "text": "I will find other ways to make more money"
+        },
+        {
+            "start": "1107.6 sec",
+            "end": "1109.6 sec",
+            "text": "but the thing is"
+        },
+        {
+            "start": "1109.6 sec",
+            "end": "1111.6 sec",
+            "text": "I am going to mark this course"
+        },
+        {
+            "start": "1111.6 sec",
+            "end": "1113.6 sec",
+            "text": "with the best web development"
+        },
+        {
+            "start": "1113.6 sec",
+            "end": "1115.6 sec",
+            "text": "I will put everything in it"
+        },
+        {
+            "start": "1115.6 sec",
+            "end": "1117.6 sec",
+            "text": "and I will teach you more"
+        },
+        {
+            "start": "1117.6 sec",
+            "end": "1119.6 sec",
+            "text": "I was very upset with the ad text"
+        },
+        {
+            "start": "1119.6 sec",
+            "end": "1121.6 sec",
+            "text": "many companies said"
+        },
+        {
+            "start": "1121.6 sec",
+            "end": "1123.6 sec",
+            "text": "let's launch a paid course on our platform"
+        },
+        {
+            "start": "1123.6 sec",
+            "end": "1125.6 sec",
+            "text": "I won't take the name but many companies are upset"
+        },
+        {
+            "start": "1125.6 sec",
+            "end": "1127.6 sec",
+            "text": "and they said let's launch a paid course"
+        },
+        {
+            "start": "1127.6 sec",
+            "end": "1129.6 sec",
+            "text": "why are you doing this"
+        },
+        {
+            "start": "1129.6 sec",
+            "end": "1131.6 sec",
+            "text": "you will regret your decision"
+        },
+        {
+            "start": "1131.6 sec",
+            "end": "1133.6 sec",
+            "text": "but hopefully I won't regret my decision"
+        },
+        {
+            "start": "1133.6 sec",
+            "end": "1135.6 sec",
+            "text": "I will make a video on how to make money"
+        },
+        {
+            "start": "1135.6 sec",
+            "end": "1137.6 sec",
+            "text": "and I will teach you more"
+        },
+        {
+            "start": "1137.6 sec",
+            "end": "1139.6 sec",
+            "text": "on how to make money"
+        },
+        {
+            "start": "1139.6 sec",
+            "end": "1141.6 sec",
+            "text": "through web development"
+        },
+        {
+            "start": "1141.6 sec",
+            "end": "1143.6 sec",
+            "text": "with that said"
+        },
+        {
+            "start": "1143.6 sec",
+            "end": "1145.6 sec",
+            "text": "I will put the link in the description"
+        },
+        {
+            "start": "1145.6 sec",
+            "end": "1147.6 sec",
+            "text": "you can take the source code from this repository"
+        },
+        {
+            "start": "1147.6 sec",
+            "end": "1149.6 sec",
+            "text": "that's all for now"
+        },
+        {
+            "start": "1149.6 sec",
+            "end": "1151.6 sec",
+            "text": "thank you so much for watching this video"
+        },
+        {
+            "start": "1151.6 sec",
+            "end": "1153.6 sec",
+            "text": "and I will see you next time"
+        },
+        {
+            "start": "1163.6 sec",
+            "end": "1173.6 sec",
+            "text": "subscribe"
+        }
+    ]
+}

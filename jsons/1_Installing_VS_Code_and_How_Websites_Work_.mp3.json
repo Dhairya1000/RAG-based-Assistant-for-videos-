@@ -1,0 +1,4455 @@
+{
+    "text": " In this video, we will start the Sigma Web Development course. Like it with high energy because in this video, I am going to take you from zero and make you a profitable web developer. This course will be modern because web development has changed over time. A lot of new things have come. A lot of things have come in JavaScript which makes the work very easy. A lot of technologies have come which will make your work very easy. This course will be for those who don't know anything. You know that it is zero for you if you know about web development. We will start from zero but we will raise the bar like anything. What will we learn in this course? I will tell you in a few days. Web development is a very profitable thing. I have personally earned a lot of money through web development. And I believe that you can also be very successful by learning web development. During the course, you will get notes, cheat sheets, references, all these things. This course is going to be a little different because in this course, I will tell you the technologies that you should learn as much as possible according to your experience. And I will make this course a complete course with all the web development technologies. There will be course content, complete web development, front end, back end, database. I will teach you as much as you want to learn. I will tell you the course content in a few days. But you guys keep in mind that you will be a full stack developer. In the future, you will be given a lot of projects during the course. And in the end of the course, we will make some good projects so that you can be very strong on web development. According to me, project based learning is the best way to learn. So I will make you a lot of projects. And if you agree, then write it in the comment section below. I agree because when you comment, my face gets a smile. So do comment. I want to make you believe that after finishing this course, you can make any kind of website from the beginning to the end. And during this course, I will make you a lot of websites so that your confidence will go up a lot. So let's start with the first video of our Sigma web development course. Let's roll the intro. I have come to my computer screen. And now as I am doing, you guys follow me. I have downloaded Google Chrome browser here. You also download Google Chrome browser. I am not saying that it won't work. But you guys have to do exactly what I am doing here. So here we will follow you as I am doing. And along with that, you will be able to follow the videos as you come. I will go to Google and I will write down the download VS Code. Now what is VS Code? VS Code is a source code editor. If you are in Windows, then I will click on Windows. If you are in Mac, Linux or any other operating system, then you can download it for that strange operating system. And the process is exactly the same. You can see that my downloads folder is here. As you can see here, this setup has been downloaded. I will refresh it here. And here, you can double click on VS Code and install. So, simply, you have to install VS Code. Install the game as easily as possible. You can quickly agree here. This, slice and slice, do-da-da-da-da-da-da-da-da-da-da-da. Damages. And after this, I will accept the agreement and accept it. You too, read it like me. And I am the fastest reader in the world. next, next, next next, next here is important to check both the icons check both the icons check it very much if you want desktop shortcut if you want to get a shortcut in desktop create a desktop icon and next, install if your pc is fast like me then it will be fast but if your pc is slow then it is not a problem install it slowly nothing more I will recommend you to subscribe to my channel because I want you to follow these videos exactly like I have given you the video notification so if you want to follow this course completely ideally you should subscribe with that said, our vscode is downloaded I have opened my vscode don't be afraid of this and I am saying this again that if you know we are already starting beginner friendly but we will raise the bar like anything in the upcoming videos so stay tuned I will also request you to tell me in the comment section what is your level? beginner, advanced or intermediate user tell me in the comment section where does web development come from? beginner, advanced, intermediate please do comment this now what is vscode here why I have downloaded it if you don't know what is vscode it is a code editor which helps you to edit code now you can edit the code in the notepad so yes, do it in the notepad yes, I am not doing it in the sarcastic way let's set it up here and I will show you what is in it which makes it a little different from notepad let's set it up here I will not do the color themes here in fact, I will do it I will keep the theme here dark modern next section next section you can also close the welcome but here I am telling you some tips that's it the vscode here is the screen of the vscode you can make your own file you can make a new folder but I will recommend you to close it yes, you can close it why did you close it? I am going to make a new folder here and I will name it course and in this course we will do everything we will do everything you can shift here if you have an app in windows you can see here there is an option called open with code this option is called open with code you can open this particular folder in the vscode you can select it now what you will do here you will say yes, I trust this file and this folder is open if I click on plus to make a new file I have written index.html write it now if you don't know write it, enter it and after that I will write here hey, I am your first html file I have written this here you can see the bindu this bindu means you haven't saved this file if you click on control s I will recommend you to enable auto save option as soon as you type you won't see this bindu your files will instantly save and I recommend this we won't use control s otherwise if you want to save from control s you can disable this option one more thing I would like you to do click on gear and click on settings and search here mouse mouse mouse and then mouse wheel zoom check it just check it and close it you don't have to be scared why is vs code why is this what is this news you don't have to see this now you will simply scroll so what happens is your font size changes now I will show you a magic very simple logic here in downloads what happened in folder this file is made which is very natural because I have opened this folder in vs code this file is also made here I will make another file here I will make this file this is this this file will also be made here so this folder and this vs code are both in sync now I will open this file from here and I will show you this is my file so I can do that too but I won't use notepad because there are some things in vs code which don't give me notepad and I want to get those features I don't want to overrun you but I will show you what is this in vs code which you don't get in notepad if I write here html if I enter it it automatically gives me opening closing tag if I mark here exclamation mark if I click on this then see the basic code of html we will discuss about this don't overrun it but as I want to tell you what is the benefit of this why we didn't use notepad why we used vs code and this feel is coming this is a good feel that feel is also important then there will be a convenience of coding for mac and linux users I want to comment on something I am using windows because I don't have windows laptop I can't use 3 laptops linux mac and windows 3 so I will be using exactly same in fact I should say similar things exactly same things so you can follow along don't take tension I will tell you about some extensions in a while and you will enjoy using those extensions and you will also say what I recommended but I will tell you in a while and this is criminally underrated I am telling you that you will enjoy I want to tell you about that you will right click on command palette so here there are many options of vs code you don't need to know all these options as we will move ahead in the course whatever feature will come in use I will tell you about it and you can use it but what I will do here I will toggle screen cast mode you don't have to do this but I will do it so you will know I clicked it so I will type any type if I press caps lock you will know when I pressed which button this is not relevant for you but I just want to tell you screen cast mode we can change the settings from here now here you see the vertical offset of screen cast mode what is vertical offset if I set the vertical offset to zero it will come up if I set vertical offset to 70 it will come down I will set it to 60 if I set it to 80 it will come up from bottom it will come up to zero in fact it has come up to one I will type any type it will come up to zero so I will close this.txt I will close the settings tab these are tabs exactly I hope you have known what is this I will tell you step by step what exactly is this you can also close the page by any chance if you want to zoom in to vscode because I am recording video add control plus I have shown you below I am doing zoom in because I am recording videos ideally I want you to see the screen from the past but when I am doing my coding I don't zoom in that much so you have to keep this in mind so these are related things from vscode I want to tell you how websites work a website basically works through three types of people imagine three people one is client one is server one is server third is browser who is also called as Babu browser what is this what is this I am a client you all who use a browser who is a browser? this is chrome, hello chrome I am a client I will tell you from client when I write codewithherry.com basically I tell this browser to give me codewithherry.com website or if I write youtube.com I tell this browser to give me youtube.com website I tell this browser to give me youtube.com I want youtube so I will enter youtube.com so I will enter youtube.com so it is from server it is from youtube.com you all understand from server it is from youtube.com it parsed and showed me this screen this work is so fast because my internet.com is very fast internet.com is very fast it is so less people are faster but still according to my locality it is very fast so with this fast internet speed it is very fast so client server sends a request through browser it is my assistant I will do the same with browser it will help me to get this web page who is managing the server youtube.com and there is a code in that server which sends me this type of code when I write youtube.com this code came now how to convert this code this is from browser so client browser tells me what give me youtube.com browser says what you want youtube.com I ask youtube.com then browser goes to server and then it calls me youtube.com it will give me server it will not say here it will say error it will say that it is not a server error whatever the response is ideally it should be 200 that response code is 200 with that response the browser comes back to client and shows this type of page I hope you have cleared this this is how it works this is a little more important when you write google.com any website google.com client says give me google.com browser says hey Guru dev you want google.com wait I will give you server so browser goes to server and it gives you google.com now with google.com the server all images, videos whatever it is it sends all these the URL of these icons is also in this code and that too the browser shows us by displaying it the server sends the browser a bundle and passes this bundle and shows it the browser works now with the user interaction the browser will give additional request if I write and inspect and then go to network and here I write I wrote Harry I sent this for images and also I sent a lot of requests so as you interact you will have to send more requests to the browser so by combining this you can understand it like a restaurant you have given an order as you have given an order a waiter took your order and then went to the kitchen he sent your order to the kitchen and then finally the kitchen gave the order so what did this waiter who is working as a browser saw that waiter and then he gave the order it is possible that he is not able to make the order in the kitchen it is very rare that you order something and you are not able to make it but it happens sometimes the same way here also happens you get the error of 4 not 4 or 500 error the server is not working so this kind of error is always given but ideally 200 means it is a good response so whenever you write google.com.mail if google.com.mail is available and if you write codewitherry.com contact codewitherry.com if it is available then it will show you if it is not available then it will show you 4 not 4 or 500 error so you will see a 500 page so you will see whatever server you send so this cycle is going on client sent requests browser sent to the server then the server processed the request and whatever data was sent to the server the client showed it then the client did something the server sent the same request the server sent the data to the server and so on so now you will understand what is backend backend is the way the server is processing the request if you believe that you have a blog there is a lot of data in the blog so what you will do you will store every web page of the blog or you will generate the content dynamically you will generate the content dynamically I will take an example of google if I search here so you can see here that the google header these are the links this format does not change if I write here Shubham I have written Shubham here so here as soon as I write Shubham when I wrote Harry by I am showing a similar content to google so what does google do the backend the backend processes the data in a way that it can send such HTML for corresponding query when I write Shubham when I write Harry then send it so the process of generating this through which system is happening is the backend this backend can be jango, this backend can be flask this backend can be node.js this backend can be PHP this backend can be Ruby on Rails this database is used the backend code is not visible this is the front end code which sends the server and how did the server make this code we don't know because it is running on the server if you are confused then don't be confused you will understand all this we will see the backend now we understand how front end works front end is made primarily with 3 languages HTML, CSS and JavaScript these are the 3 languages if you are making a website then every website needs HTML, CSS, JavaScript if you use only HTML then the basic the skeleton is made after that when you use CSS you can style it so the button looks like this so only CSS is visible along with that this button is red this button looks like this this is all the help of CSS the edges are visible so the CSS is the work of the style what color and what will be the color of the button all these works are done through CSS there is a beauty of CSS HTML page HTML is the body of any page some such thing is a standard which is agreed any website will make it on HTML so that the browser can understand how to parse it the browser has to parse the HTML HTML is a skeleton any website will make it on HTML will use it on skeleton this is the standard so that everyone can make the same type of pages and if the browser is making it then you have to parse the same language if you have learnt 80% HTML then you are good to go for web development now there are some things directly from HTML like if I write a lot of HTML code then I am writing some HTML code I am writing it using the exclamation mark I have used the Emmett abbreviation don't worry about the code I will write this as HTML and I can open this HTML file directly and as soon as I open this HTML file you can see it will open like this I can open it directly and it opened this is HTML but it is not styled it is very basic now you can run videos directly from HTML I have an HTML file which I will show you I will change this HTML file to show you so that we can show videos in it there is a video tag in HTML so the video you will put in SRC will be played like if I put video1.mp4 you see the video1.mp4 is automatically shown and this is the benefit of using the video code so you see here I will reload this and this video is automatically shown I can play it I will have to write controls and I will refresh it so I will have controls to play it this is a permission people need it how much money do you need 130 crores final now if I put video2.mp4 I have put video1 I have two more videos I have some other videos if I put it here and after that I will refer to them if I put video2.mp4 then I will see video2 I will reload it so if you like this video then please like and subscribe and share it with your friends so this was the look of Ben Stokes now if I do video3 then my third video will be played and you see I can play it this is the third video I have put video3.mp4 so I will close it and we can play video4 and I have video4 and I have video4 where the DJ is playing so you see here Chaburna mhm mhm mhm mhm mhm back back back back back back so you can make this you can make this with only html not that you don't need to do anything else you can play videos with only html images can be displayed now if you want to style it like I want a border or a red background then what I have to do for that I have to use css css adds beauty on any website then comes javascript which adds interaction for example when I click on search when I write code with htr and auto complete many things are there why did it come? because there was a request on the server and for this query the results of auto complete are here so all these are from javascript we call this as client side scripting we want to do scripting here we want to do coding so we can do it with the help of javascript this is also a brain so our website becomes beauty with brain I am talking about beauty with brain css adds beauty and brain comes from javascript now javascript helps you to make the page dynamic easily if you have to change the content without loading then all this is done with javascript there are many mosquitoes here so I will kill these mosquitoes here they are not getting anything from here I am doing this like the video because I will eat the current chat when I was in college I was shocked to learn HTML, CSS, JavaScript first learn 100% HTML then learn 100% CSS until I remember all the properties but this expression is wrong why wrong? because HTML is only 80% and CSS is only 40% and javascript you can learn 50-70% by learning you can start web development you can make projects and you can move ahead now I will tell you about the impact of chat gpt on web development so don't run after perfection with HTML and CSS don't think that I will do HTML for 1 year or CSS for next year or javascript for 30 years or projects for 4 years don't think that you should do HTML 80% CSS 40% and javascript you can learn 50-70% and make a great website and as you will keep making websites your experience will teach you more HTML, CSS, JavaScript and you won't know that you have perfected HTML, CSS, JavaScript while you are making money and working as a professional web developer you will be earning and you will be moving ahead with your skills so don't think that I will remember I will make a website and all the CSS properties will be made by javascript I will teach you this much and that much and I don't want you to learn that much so that you can learn that much and you will learn from practice and I will teach you in this course here we have 2-4 mosquitoes which is good our audience is increasing and then we will learn CSS and then we will learn JavaScript and I will tell you such tricks which you won't have heard and I have learnt different points of my career and I will tell you this in a course I have learnt some big tricks in my career and I want you to learn all the tricks now if you have any doubt in the coming videos then you can use the hashtag and ask your doubt I am going to try to answer all the doubts I will try to solve all the doubts so if you have any question then use the hashtag and please don't use the hashtag in the comments so that I can prioritize the comments of the hashtag doubt I will try to answer all the doubts as much as I can and you will learn everything in this course so like this course if you haven't done it yet then do it now what is the react what is the next gs what is the angular so these front end frameworks help you in using JavaScript that is HTML, CSS, JavaScript make the website help you in making this process faster how we will learn this in this course yes we will learn in this course I told you this course I will make you different I will make you like this because you have put a ticket of the Sigma Web Development Express I want to give you a good analogy to teach HTML, CSS and JavaScript HTML is like car skeleton if you paint it in CSS and internal engine is in car then it is JavaScript look at an example of a human skeleton is HTML then skin is everything CSS and brain is everything nervous system is JavaScript now I will take you to phobes.com here you will see a website as soon as you go to phobes and phobes.com is a website which uses HTML, CSS and JavaScript like any other website now if I click on right click then look at this the inspect element is opened now look here, they have used script in the head and to add CSS they have used link so what I will do here is to remove the CSS simply what I will do I will clear all the style tags using delete key as soon as I remove all the style tags and remove all the link tags as soon as I have read all the style sheets of this page look at the state of this page this page is showing only raw HTML what size should be what kind of images should be and only raw HTML is written here which is not styled and this is how it looks without CSS without CSS it is showing only raw text raw links and similarly, I can see the script accent here without JavaScript now if I delete this page's HTML tag something like this I have deleted all the head so this is a blank page without HTML it is not even a state so this is the role of HTML, CSS and JavaScript I will tell you about this this course was initially made to be paid but I changed my mood and converted it to free course and I thought I will upload it on YouTube so I want you all to be serious I have reached out to many people to launch paid course but I was getting a voice from my heart that I should keep this course free because when I learnt web development I can understand that when you don't have a course to learn well and you don't have the affordability to buy a paid course then you decided to launch a course called this course is free but it is free as you will earn crores of rupees in the coming time you will give me tea, coffee, parties and all the gifts this is our agreement in this video so when you start earning crores then send me a green leaf or a red leaf but you have to accept it when you start earning only after you start earning good so while keeping this aside you can earn money from this course after completing this I will add light on it come on how will you earn money that is also important personally I will do freelancing like this I will tell you everything in this course I want to tell you some action items the first action item is that you have to access the playlist of this course which I will give in the description everyone bookmark the playlist press the star button here and then click on the star button and save it in the playlist many of you have said that the course is paid we will buy it then also thank you so much for all the support and I am sure you all love me and trust me now technical issues should not be there I am putting these videos in the resolution of 1080p so you should see them clearly but those people say that the video is in SD it is in 240p, it is in 144p you all watch Bali's Wadhu and then you say that these videos are not a joke call a city Bali so I hope that you all understood the request in this video the response how all these websites work we got a basic idea how client-server interaction is in the upcoming videos we will see how the website is made we are going to make our first website in the next video so you should be excited because in the next video we are going to make our first website and maybe one of you will be the first website so access the playlist thank you so much for watching this video and I will see you next time",
+    "chunks": [
+        {
+            "start": "0.0 sec",
+            "end": "3.56 sec",
+            "text": "In this video, we will start the Sigma Web Development course."
+        },
+        {
+            "start": "3.56 sec",
+            "end": "7.46 sec",
+            "text": "Like it with high energy because in this video, I am going to take you from zero"
+        },
+        {
+            "start": "7.46 sec",
+            "end": "9.56 sec",
+            "text": "and make you a profitable web developer."
+        },
+        {
+            "start": "9.56 sec",
+            "end": "12.780000000000001 sec",
+            "text": "This course will be modern because web development has changed over time."
+        },
+        {
+            "start": "12.780000000000001 sec",
+            "end": "14.14 sec",
+            "text": "A lot of new things have come."
+        },
+        {
+            "start": "14.14 sec",
+            "end": "18.06 sec",
+            "text": "A lot of things have come in JavaScript which makes the work very easy."
+        },
+        {
+            "start": "18.06 sec",
+            "end": "22.2 sec",
+            "text": "A lot of technologies have come which will make your work very easy."
+        },
+        {
+            "start": "22.2 sec",
+            "end": "24.900000000000002 sec",
+            "text": "This course will be for those who don't know anything."
+        },
+        {
+            "start": "24.900000000000002 sec",
+            "end": "28.900000000000002 sec",
+            "text": "You know that it is zero for you if you know about web development."
+        },
+        {
+            "start": "28.9 sec",
+            "end": "32.06 sec",
+            "text": "We will start from zero but we will raise the bar like anything."
+        },
+        {
+            "start": "32.06 sec",
+            "end": "35.239999999999995 sec",
+            "text": "What will we learn in this course? I will tell you in a few days."
+        },
+        {
+            "start": "35.239999999999995 sec",
+            "end": "37.6 sec",
+            "text": "Web development is a very profitable thing."
+        },
+        {
+            "start": "37.6 sec",
+            "end": "40.64 sec",
+            "text": "I have personally earned a lot of money through web development."
+        },
+        {
+            "start": "40.64 sec",
+            "end": "44.959999999999994 sec",
+            "text": "And I believe that you can also be very successful by learning web development."
+        },
+        {
+            "start": "44.959999999999994 sec",
+            "end": "49.04 sec",
+            "text": "During the course, you will get notes, cheat sheets, references, all these things."
+        },
+        {
+            "start": "49.04 sec",
+            "end": "52.44 sec",
+            "text": "This course is going to be a little different because in this course,"
+        },
+        {
+            "start": "52.44 sec",
+            "end": "57.36 sec",
+            "text": "I will tell you the technologies that you should learn as much as possible according to your experience."
+        },
+        {
+            "start": "57.36 sec",
+            "end": "61.26 sec",
+            "text": "And I will make this course a complete course with all the web development technologies."
+        },
+        {
+            "start": "61.26 sec",
+            "end": "65.02 sec",
+            "text": "There will be course content, complete web development, front end, back end, database."
+        },
+        {
+            "start": "65.02 sec",
+            "end": "67.06 sec",
+            "text": "I will teach you as much as you want to learn."
+        },
+        {
+            "start": "67.06 sec",
+            "end": "69.9 sec",
+            "text": "I will tell you the course content in a few days."
+        },
+        {
+            "start": "69.9 sec",
+            "end": "72.98 sec",
+            "text": "But you guys keep in mind that you will be a full stack developer."
+        },
+        {
+            "start": "72.98 sec",
+            "end": "76.32 sec",
+            "text": "In the future, you will be given a lot of projects during the course."
+        },
+        {
+            "start": "76.32 sec",
+            "end": "82.78 sec",
+            "text": "And in the end of the course, we will make some good projects so that you can be very strong on web development."
+        },
+        {
+            "start": "82.78 sec",
+            "end": "86.86 sec",
+            "text": "According to me, project based learning is the best way to learn."
+        },
+        {
+            "start": "86.86 sec",
+            "end": "88.6 sec",
+            "text": "So I will make you a lot of projects."
+        },
+        {
+            "start": "88.6 sec",
+            "end": "91.44 sec",
+            "text": "And if you agree, then write it in the comment section below."
+        },
+        {
+            "start": "91.44 sec",
+            "end": "94.78 sec",
+            "text": "I agree because when you comment, my face gets a smile."
+        },
+        {
+            "start": "94.78 sec",
+            "end": "95.98 sec",
+            "text": "So do comment."
+        },
+        {
+            "start": "95.98 sec",
+            "end": "98.86 sec",
+            "text": "I want to make you believe that after finishing this course,"
+        },
+        {
+            "start": "98.86 sec",
+            "end": "102.28 sec",
+            "text": "you can make any kind of website from the beginning to the end."
+        },
+        {
+            "start": "102.28 sec",
+            "end": "107.82 sec",
+            "text": "And during this course, I will make you a lot of websites so that your confidence will go up a lot."
+        },
+        {
+            "start": "107.82 sec",
+            "end": "111.68 sec",
+            "text": "So let's start with the first video of our Sigma web development course."
+        },
+        {
+            "start": "111.68 sec",
+            "end": "112.92 sec",
+            "text": "Let's roll the intro."
+        },
+        {
+            "start": "117.86 sec",
+            "end": "124.44 sec",
+            "text": "I have come to my computer screen."
+        },
+        {
+            "start": "124.44 sec",
+            "end": "127.74 sec",
+            "text": "And now as I am doing, you guys follow me."
+        },
+        {
+            "start": "127.74 sec",
+            "end": "129.7 sec",
+            "text": "I have downloaded Google Chrome browser here."
+        },
+        {
+            "start": "129.7 sec",
+            "end": "131.6 sec",
+            "text": "You also download Google Chrome browser."
+        },
+        {
+            "start": "131.6 sec",
+            "end": "132.7 sec",
+            "text": "I am not saying that it won't work."
+        },
+        {
+            "start": "132.7 sec",
+            "end": "136.94 sec",
+            "text": "But you guys have to do exactly what I am doing here."
+        },
+        {
+            "start": "136.94 sec",
+            "end": "140.06 sec",
+            "text": "So here we will follow you as I am doing."
+        },
+        {
+            "start": "140.06 sec",
+            "end": "144.4 sec",
+            "text": "And along with that, you will be able to follow the videos as you come."
+        },
+        {
+            "start": "144.44 sec",
+            "end": "148.58 sec",
+            "text": "I will go to Google and I will write down the download VS Code."
+        },
+        {
+            "start": "148.58 sec",
+            "end": "150.08 sec",
+            "text": "Now what is VS Code?"
+        },
+        {
+            "start": "150.08 sec",
+            "end": "152.58 sec",
+            "text": "VS Code is a source code editor."
+        },
+        {
+            "start": "152.58 sec",
+            "end": "155.08 sec",
+            "text": "If you are in Windows, then I will click on Windows."
+        },
+        {
+            "start": "155.08 sec",
+            "end": "159.48000000000002 sec",
+            "text": "If you are in Mac, Linux or any other operating system,"
+        },
+        {
+            "start": "159.48000000000002 sec",
+            "end": "163.54000000000002 sec",
+            "text": "then you can download it for that strange operating system."
+        },
+        {
+            "start": "163.54000000000002 sec",
+            "end": "165.54000000000002 sec",
+            "text": "And the process is exactly the same."
+        },
+        {
+            "start": "165.54000000000002 sec",
+            "end": "170.34 sec",
+            "text": "You can see that my downloads folder is here."
+        },
+        {
+            "start": "170.88 sec",
+            "end": "174.38 sec",
+            "text": "As you can see here, this setup has been downloaded."
+        },
+        {
+            "start": "174.38 sec",
+            "end": "175.88 sec",
+            "text": "I will refresh it here."
+        },
+        {
+            "start": "175.88 sec",
+            "end": "180.44 sec",
+            "text": "And here, you can double click on VS Code and install."
+        },
+        {
+            "start": "180.44 sec",
+            "end": "181.98000000000002 sec",
+            "text": "So, simply, you have to install VS Code."
+        },
+        {
+            "start": "181.98000000000002 sec",
+            "end": "183.98000000000002 sec",
+            "text": "Install the game as easily as possible."
+        },
+        {
+            "start": "183.98000000000002 sec",
+            "end": "185.48000000000002 sec",
+            "text": "You can quickly agree here."
+        },
+        {
+            "start": "185.48000000000002 sec",
+            "end": "188.38 sec",
+            "text": "This, slice and slice, do-da-da-da-da-da-da-da-da-da-da-da."
+        },
+        {
+            "start": "188.38 sec",
+            "end": "189.48000000000002 sec",
+            "text": "Damages."
+        },
+        {
+            "start": "189.48000000000002 sec",
+            "end": "191.48000000000002 sec",
+            "text": "And after this, I will accept the agreement and accept it."
+        },
+        {
+            "start": "191.48000000000002 sec",
+            "end": "193.48000000000002 sec",
+            "text": "You too, read it like me."
+        },
+        {
+            "start": "193.48000000000002 sec",
+            "end": "195.48000000000002 sec",
+            "text": "And I am the fastest reader in the world."
+        },
+        {
+            "start": "195.48 sec",
+            "end": "199.48 sec",
+            "text": "next, next, next"
+        },
+        {
+            "start": "199.48 sec",
+            "end": "201.48 sec",
+            "text": "next, next"
+        },
+        {
+            "start": "201.48 sec",
+            "end": "203.48 sec",
+            "text": "here is important to check both the icons"
+        },
+        {
+            "start": "203.48 sec",
+            "end": "205.48 sec",
+            "text": "check both the icons"
+        },
+        {
+            "start": "205.48 sec",
+            "end": "207.48 sec",
+            "text": "check it very much"
+        },
+        {
+            "start": "207.48 sec",
+            "end": "209.48 sec",
+            "text": "if you want desktop shortcut"
+        },
+        {
+            "start": "209.48 sec",
+            "end": "212.48 sec",
+            "text": "if you want to get a shortcut in desktop"
+        },
+        {
+            "start": "212.48 sec",
+            "end": "214.48 sec",
+            "text": "create a desktop icon"
+        },
+        {
+            "start": "214.48 sec",
+            "end": "217.48 sec",
+            "text": "and next, install"
+        },
+        {
+            "start": "217.48 sec",
+            "end": "219.48 sec",
+            "text": "if your pc is fast like me"
+        },
+        {
+            "start": "219.48 sec",
+            "end": "221.48 sec",
+            "text": "then it will be fast but"
+        },
+        {
+            "start": "221.48 sec",
+            "end": "223.48 sec",
+            "text": "if your pc is slow"
+        },
+        {
+            "start": "223.48 sec",
+            "end": "225.48 sec",
+            "text": "then it is not a problem"
+        },
+        {
+            "start": "225.48 sec",
+            "end": "227.48 sec",
+            "text": "install it slowly"
+        },
+        {
+            "start": "227.48 sec",
+            "end": "229.48 sec",
+            "text": "nothing more"
+        },
+        {
+            "start": "229.48 sec",
+            "end": "231.48 sec",
+            "text": "I will recommend you to subscribe to my channel"
+        },
+        {
+            "start": "231.48 sec",
+            "end": "233.48 sec",
+            "text": "because I want you to follow these videos"
+        },
+        {
+            "start": "233.48 sec",
+            "end": "235.48 sec",
+            "text": "exactly"
+        },
+        {
+            "start": "235.48 sec",
+            "end": "237.48 sec",
+            "text": "like I have given you the video notification"
+        },
+        {
+            "start": "237.48 sec",
+            "end": "239.48 sec",
+            "text": "so if you want to follow this course completely"
+        },
+        {
+            "start": "239.48 sec",
+            "end": "241.48 sec",
+            "text": "ideally you should subscribe"
+        },
+        {
+            "start": "241.48 sec",
+            "end": "243.48 sec",
+            "text": "with that said, our vscode is downloaded"
+        },
+        {
+            "start": "243.48 sec",
+            "end": "245.48 sec",
+            "text": "I have opened my vscode"
+        },
+        {
+            "start": "245.48 sec",
+            "end": "247.48 sec",
+            "text": "don't be afraid of this"
+        },
+        {
+            "start": "247.48 sec",
+            "end": "249.48 sec",
+            "text": "and I am saying this again"
+        },
+        {
+            "start": "249.48 sec",
+            "end": "251.48 sec",
+            "text": "that if you know"
+        },
+        {
+            "start": "251.48 sec",
+            "end": "253.48 sec",
+            "text": "we are already starting"
+        },
+        {
+            "start": "253.48 sec",
+            "end": "255.48 sec",
+            "text": "beginner friendly"
+        },
+        {
+            "start": "255.48 sec",
+            "end": "257.48 sec",
+            "text": "but we will raise the bar like anything in the upcoming videos"
+        },
+        {
+            "start": "257.48 sec",
+            "end": "259.48 sec",
+            "text": "so stay tuned"
+        },
+        {
+            "start": "259.48 sec",
+            "end": "261.48 sec",
+            "text": "I will also request you"
+        },
+        {
+            "start": "261.48 sec",
+            "end": "263.48 sec",
+            "text": "to tell me in the comment section"
+        },
+        {
+            "start": "263.48 sec",
+            "end": "265.48 sec",
+            "text": "what is your level? beginner, advanced"
+        },
+        {
+            "start": "265.48 sec",
+            "end": "267.48 sec",
+            "text": "or intermediate user"
+        },
+        {
+            "start": "267.48 sec",
+            "end": "269.48 sec",
+            "text": "tell me in the comment section"
+        },
+        {
+            "start": "269.48 sec",
+            "end": "271.48 sec",
+            "text": "where does web development come from? beginner, advanced, intermediate"
+        },
+        {
+            "start": "271.48 sec",
+            "end": "273.48 sec",
+            "text": "please do comment this"
+        },
+        {
+            "start": "273.48 sec",
+            "end": "275.48 sec",
+            "text": "now what is vscode here"
+        },
+        {
+            "start": "275.48 sec",
+            "end": "277.48 sec",
+            "text": "why I have downloaded it"
+        },
+        {
+            "start": "277.48 sec",
+            "end": "279.48 sec",
+            "text": "if you don't know what is vscode"
+        },
+        {
+            "start": "279.48 sec",
+            "end": "281.48 sec",
+            "text": "it is a code editor"
+        },
+        {
+            "start": "281.48 sec",
+            "end": "283.48 sec",
+            "text": "which helps you to edit code"
+        },
+        {
+            "start": "283.48 sec",
+            "end": "285.48 sec",
+            "text": "now you can edit the code in the"
+        },
+        {
+            "start": "285.48 sec",
+            "end": "287.48 sec",
+            "text": "notepad"
+        },
+        {
+            "start": "287.48 sec",
+            "end": "289.48 sec",
+            "text": "so yes, do it in the notepad"
+        },
+        {
+            "start": "289.48 sec",
+            "end": "291.48 sec",
+            "text": "yes, I am not doing it in the sarcastic way"
+        },
+        {
+            "start": "291.48 sec",
+            "end": "293.48 sec",
+            "text": "let's set it up here"
+        },
+        {
+            "start": "293.48 sec",
+            "end": "295.48 sec",
+            "text": "and I will show you what is in it"
+        },
+        {
+            "start": "295.48 sec",
+            "end": "297.48 sec",
+            "text": "which makes it a little different"
+        },
+        {
+            "start": "297.48 sec",
+            "end": "299.48 sec",
+            "text": "from notepad"
+        },
+        {
+            "start": "299.48 sec",
+            "end": "301.48 sec",
+            "text": "let's set it up here"
+        },
+        {
+            "start": "301.48 sec",
+            "end": "303.48 sec",
+            "text": "I will not do the color themes here"
+        },
+        {
+            "start": "303.48 sec",
+            "end": "305.48 sec",
+            "text": "in fact, I will do it"
+        },
+        {
+            "start": "305.48 sec",
+            "end": "307.48 sec",
+            "text": "I will keep the theme here dark modern"
+        },
+        {
+            "start": "307.48 sec",
+            "end": "309.48 sec",
+            "text": "next section"
+        },
+        {
+            "start": "309.48 sec",
+            "end": "311.48 sec",
+            "text": "next section"
+        },
+        {
+            "start": "311.48 sec",
+            "end": "313.48 sec",
+            "text": "you can also close the welcome"
+        },
+        {
+            "start": "313.48 sec",
+            "end": "315.48 sec",
+            "text": "but here I am telling you some tips"
+        },
+        {
+            "start": "315.48 sec",
+            "end": "317.48 sec",
+            "text": "that's it"
+        },
+        {
+            "start": "317.48 sec",
+            "end": "319.48 sec",
+            "text": "the vscode here"
+        },
+        {
+            "start": "319.48 sec",
+            "end": "321.48 sec",
+            "text": "is the screen of the vscode"
+        },
+        {
+            "start": "321.48 sec",
+            "end": "323.48 sec",
+            "text": "you can make your own file"
+        },
+        {
+            "start": "323.48 sec",
+            "end": "325.48 sec",
+            "text": "you can make a new folder"
+        },
+        {
+            "start": "325.48 sec",
+            "end": "327.48 sec",
+            "text": "but I will recommend you to close it"
+        },
+        {
+            "start": "327.48 sec",
+            "end": "329.48 sec",
+            "text": "yes, you can close it"
+        },
+        {
+            "start": "329.48 sec",
+            "end": "331.48 sec",
+            "text": "why did you close it?"
+        },
+        {
+            "start": "331.48 sec",
+            "end": "333.48 sec",
+            "text": "I am going to make a new folder here"
+        },
+        {
+            "start": "333.48 sec",
+            "end": "335.48 sec",
+            "text": "and I will name it"
+        },
+        {
+            "start": "335.48 sec",
+            "end": "337.48 sec",
+            "text": "course"
+        },
+        {
+            "start": "337.48 sec",
+            "end": "339.48 sec",
+            "text": "and in this course"
+        },
+        {
+            "start": "339.48 sec",
+            "end": "341.48 sec",
+            "text": "we will do everything"
+        },
+        {
+            "start": "341.48 sec",
+            "end": "343.48 sec",
+            "text": "we will do everything"
+        },
+        {
+            "start": "343.48 sec",
+            "end": "345.48 sec",
+            "text": "you can shift here"
+        },
+        {
+            "start": "345.48 sec",
+            "end": "347.48 sec",
+            "text": "if you have an app in windows"
+        },
+        {
+            "start": "347.48 sec",
+            "end": "349.48 sec",
+            "text": "you can see here"
+        },
+        {
+            "start": "349.48 sec",
+            "end": "351.48 sec",
+            "text": "there is an option called open with code"
+        },
+        {
+            "start": "351.48 sec",
+            "end": "353.48 sec",
+            "text": "this option is called open with code"
+        },
+        {
+            "start": "353.48 sec",
+            "end": "355.48 sec",
+            "text": "you can open this particular folder"
+        },
+        {
+            "start": "355.48 sec",
+            "end": "357.48 sec",
+            "text": "in the vscode"
+        },
+        {
+            "start": "357.48 sec",
+            "end": "359.48 sec",
+            "text": "you can select it"
+        },
+        {
+            "start": "359.48 sec",
+            "end": "361.48 sec",
+            "text": "now what you will do here"
+        },
+        {
+            "start": "361.48 sec",
+            "end": "363.48 sec",
+            "text": "you will say yes, I trust this file"
+        },
+        {
+            "start": "363.48 sec",
+            "end": "365.48 sec",
+            "text": "and this folder is open"
+        },
+        {
+            "start": "365.48 sec",
+            "end": "367.48 sec",
+            "text": "if I click on plus"
+        },
+        {
+            "start": "367.48 sec",
+            "end": "369.48 sec",
+            "text": "to make a new file"
+        },
+        {
+            "start": "369.48 sec",
+            "end": "371.48 sec",
+            "text": "I have written index.html"
+        },
+        {
+            "start": "371.48 sec",
+            "end": "373.48 sec",
+            "text": "write it now if you don't know"
+        },
+        {
+            "start": "373.48 sec",
+            "end": "375.48 sec",
+            "text": "write it, enter it"
+        },
+        {
+            "start": "375.48 sec",
+            "end": "377.48 sec",
+            "text": "and after that"
+        },
+        {
+            "start": "377.48 sec",
+            "end": "379.48 sec",
+            "text": "I will write here"
+        },
+        {
+            "start": "379.48 sec",
+            "end": "381.48 sec",
+            "text": "hey, I am your first"
+        },
+        {
+            "start": "381.48 sec",
+            "end": "383.48 sec",
+            "text": "html file"
+        },
+        {
+            "start": "383.48 sec",
+            "end": "385.48 sec",
+            "text": "I have written this"
+        },
+        {
+            "start": "385.48 sec",
+            "end": "387.48 sec",
+            "text": "here you can see the bindu"
+        },
+        {
+            "start": "387.48 sec",
+            "end": "389.48 sec",
+            "text": "this bindu means"
+        },
+        {
+            "start": "389.48 sec",
+            "end": "391.48 sec",
+            "text": "you haven't saved this file"
+        },
+        {
+            "start": "391.48 sec",
+            "end": "393.48 sec",
+            "text": "if you click on control s"
+        },
+        {
+            "start": "393.48 sec",
+            "end": "395.48 sec",
+            "text": "I will recommend you to"
+        },
+        {
+            "start": "395.48 sec",
+            "end": "397.48 sec",
+            "text": "enable auto save option"
+        },
+        {
+            "start": "397.48 sec",
+            "end": "399.48 sec",
+            "text": "as soon as you type"
+        },
+        {
+            "start": "399.48 sec",
+            "end": "401.48 sec",
+            "text": "you won't see this bindu"
+        },
+        {
+            "start": "401.48 sec",
+            "end": "403.48 sec",
+            "text": "your files will instantly save"
+        },
+        {
+            "start": "403.48 sec",
+            "end": "405.48 sec",
+            "text": "and I recommend this"
+        },
+        {
+            "start": "405.48 sec",
+            "end": "407.48 sec",
+            "text": "we won't use control s"
+        },
+        {
+            "start": "407.48 sec",
+            "end": "409.48 sec",
+            "text": "otherwise if you want to save from control s"
+        },
+        {
+            "start": "409.48 sec",
+            "end": "411.48 sec",
+            "text": "you can disable this option"
+        },
+        {
+            "start": "411.48 sec",
+            "end": "413.48 sec",
+            "text": "one more thing I would like you to do"
+        },
+        {
+            "start": "413.48 sec",
+            "end": "415.48 sec",
+            "text": "click on gear and click on settings"
+        },
+        {
+            "start": "415.48 sec",
+            "end": "417.48 sec",
+            "text": "and search here mouse"
+        },
+        {
+            "start": "417.48 sec",
+            "end": "419.48 sec",
+            "text": "mouse mouse"
+        },
+        {
+            "start": "419.48 sec",
+            "end": "421.48 sec",
+            "text": "and then mouse wheel zoom"
+        },
+        {
+            "start": "421.48 sec",
+            "end": "423.48 sec",
+            "text": "check it"
+        },
+        {
+            "start": "423.48 sec",
+            "end": "425.48 sec",
+            "text": "just check it and close it"
+        },
+        {
+            "start": "425.48 sec",
+            "end": "427.48 sec",
+            "text": "you don't have to be scared"
+        },
+        {
+            "start": "427.48 sec",
+            "end": "429.48 sec",
+            "text": "why is vs code"
+        },
+        {
+            "start": "429.48 sec",
+            "end": "431.48 sec",
+            "text": "why is this"
+        },
+        {
+            "start": "431.48 sec",
+            "end": "433.48 sec",
+            "text": "what is this news"
+        },
+        {
+            "start": "433.48 sec",
+            "end": "435.48 sec",
+            "text": "you don't have to see this"
+        },
+        {
+            "start": "435.48 sec",
+            "end": "437.48 sec",
+            "text": "now you will simply scroll"
+        },
+        {
+            "start": "437.48 sec",
+            "end": "439.48 sec",
+            "text": "so what happens is"
+        },
+        {
+            "start": "439.48 sec",
+            "end": "441.48 sec",
+            "text": "your font size changes"
+        },
+        {
+            "start": "441.48 sec",
+            "end": "443.48 sec",
+            "text": "now I will show you a magic"
+        },
+        {
+            "start": "443.48 sec",
+            "end": "445.48 sec",
+            "text": "very simple logic"
+        },
+        {
+            "start": "445.48 sec",
+            "end": "447.48 sec",
+            "text": "here in downloads"
+        },
+        {
+            "start": "447.48 sec",
+            "end": "449.48 sec",
+            "text": "what happened in folder"
+        },
+        {
+            "start": "449.48 sec",
+            "end": "451.48 sec",
+            "text": "this file is made"
+        },
+        {
+            "start": "451.48 sec",
+            "end": "453.48 sec",
+            "text": "which is very natural"
+        },
+        {
+            "start": "453.48 sec",
+            "end": "455.48 sec",
+            "text": "because I have opened this folder"
+        },
+        {
+            "start": "455.48 sec",
+            "end": "457.48 sec",
+            "text": "in vs code"
+        },
+        {
+            "start": "457.48 sec",
+            "end": "459.48 sec",
+            "text": "this file is also made here"
+        },
+        {
+            "start": "459.48 sec",
+            "end": "461.48 sec",
+            "text": "I will make another file here"
+        },
+        {
+            "start": "461.48 sec",
+            "end": "463.48 sec",
+            "text": "I will make this file"
+        },
+        {
+            "start": "463.48 sec",
+            "end": "465.48 sec",
+            "text": "this is this"
+        },
+        {
+            "start": "465.48 sec",
+            "end": "467.48 sec",
+            "text": "this file will also be made here"
+        },
+        {
+            "start": "467.48 sec",
+            "end": "469.48 sec",
+            "text": "so this folder"
+        },
+        {
+            "start": "469.48 sec",
+            "end": "471.48 sec",
+            "text": "and this vs code are both in sync"
+        },
+        {
+            "start": "471.48 sec",
+            "end": "473.48 sec",
+            "text": "now I will open this file from here"
+        },
+        {
+            "start": "473.48 sec",
+            "end": "475.48 sec",
+            "text": "and I will show you"
+        },
+        {
+            "start": "475.48 sec",
+            "end": "477.48 sec",
+            "text": "this is my file"
+        },
+        {
+            "start": "477.48 sec",
+            "end": "479.48 sec",
+            "text": "so I can do that too"
+        },
+        {
+            "start": "479.48 sec",
+            "end": "481.48 sec",
+            "text": "but I won't use notepad"
+        },
+        {
+            "start": "481.48 sec",
+            "end": "483.48 sec",
+            "text": "because there are some things in vs code"
+        },
+        {
+            "start": "483.48 sec",
+            "end": "485.48 sec",
+            "text": "which don't give me notepad"
+        },
+        {
+            "start": "485.48 sec",
+            "end": "487.48 sec",
+            "text": "and I want to get those features"
+        },
+        {
+            "start": "487.48 sec",
+            "end": "489.48 sec",
+            "text": "I don't want to overrun you"
+        },
+        {
+            "start": "489.48 sec",
+            "end": "491.48 sec",
+            "text": "but I will show you"
+        },
+        {
+            "start": "491.48 sec",
+            "end": "493.48 sec",
+            "text": "what is this in vs code"
+        },
+        {
+            "start": "493.48 sec",
+            "end": "495.48 sec",
+            "text": "which you don't get in notepad"
+        },
+        {
+            "start": "495.48 sec",
+            "end": "497.48 sec",
+            "text": "if I write here html"
+        },
+        {
+            "start": "497.48 sec",
+            "end": "499.48 sec",
+            "text": "if I enter it"
+        },
+        {
+            "start": "499.48 sec",
+            "end": "501.48 sec",
+            "text": "it automatically gives me opening closing tag"
+        },
+        {
+            "start": "501.48 sec",
+            "end": "503.48 sec",
+            "text": "if I mark here exclamation mark"
+        },
+        {
+            "start": "503.48 sec",
+            "end": "505.48 sec",
+            "text": "if I click on this"
+        },
+        {
+            "start": "505.48 sec",
+            "end": "507.48 sec",
+            "text": "then see the basic code of html"
+        },
+        {
+            "start": "507.48 sec",
+            "end": "509.48 sec",
+            "text": "we will discuss about this"
+        },
+        {
+            "start": "509.48 sec",
+            "end": "511.48 sec",
+            "text": "don't overrun it"
+        },
+        {
+            "start": "511.48 sec",
+            "end": "513.48 sec",
+            "text": "but as I want to tell you"
+        },
+        {
+            "start": "513.48 sec",
+            "end": "515.48 sec",
+            "text": "what is the benefit of this"
+        },
+        {
+            "start": "515.48 sec",
+            "end": "517.48 sec",
+            "text": "why we didn't use notepad"
+        },
+        {
+            "start": "517.48 sec",
+            "end": "519.48 sec",
+            "text": "why we used vs code"
+        },
+        {
+            "start": "519.48 sec",
+            "end": "521.48 sec",
+            "text": "and this feel is coming"
+        },
+        {
+            "start": "521.48 sec",
+            "end": "523.48 sec",
+            "text": "this is a good feel"
+        },
+        {
+            "start": "523.48 sec",
+            "end": "525.48 sec",
+            "text": "that feel is also important"
+        },
+        {
+            "start": "525.48 sec",
+            "end": "527.48 sec",
+            "text": "then there will be a convenience of coding"
+        },
+        {
+            "start": "527.48 sec",
+            "end": "529.48 sec",
+            "text": "for mac and linux users"
+        },
+        {
+            "start": "529.48 sec",
+            "end": "531.48 sec",
+            "text": "I want to comment on something"
+        },
+        {
+            "start": "531.48 sec",
+            "end": "533.48 sec",
+            "text": "I am using windows"
+        },
+        {
+            "start": "533.48 sec",
+            "end": "535.48 sec",
+            "text": "because I don't have windows laptop"
+        },
+        {
+            "start": "535.48 sec",
+            "end": "537.48 sec",
+            "text": "I can't use 3 laptops"
+        },
+        {
+            "start": "537.48 sec",
+            "end": "539.48 sec",
+            "text": "linux mac and windows 3"
+        },
+        {
+            "start": "539.48 sec",
+            "end": "541.48 sec",
+            "text": "so I will be using exactly same"
+        },
+        {
+            "start": "541.48 sec",
+            "end": "543.48 sec",
+            "text": "in fact I should say"
+        },
+        {
+            "start": "543.48 sec",
+            "end": "545.48 sec",
+            "text": "similar things"
+        },
+        {
+            "start": "545.48 sec",
+            "end": "547.48 sec",
+            "text": "exactly same things"
+        },
+        {
+            "start": "547.48 sec",
+            "end": "549.48 sec",
+            "text": "so you can follow along"
+        },
+        {
+            "start": "549.48 sec",
+            "end": "551.48 sec",
+            "text": "don't take tension"
+        },
+        {
+            "start": "551.48 sec",
+            "end": "553.48 sec",
+            "text": "I will tell you about some extensions"
+        },
+        {
+            "start": "553.48 sec",
+            "end": "555.48 sec",
+            "text": "in a while and you will enjoy"
+        },
+        {
+            "start": "555.48 sec",
+            "end": "557.48 sec",
+            "text": "using those extensions"
+        },
+        {
+            "start": "557.48 sec",
+            "end": "559.48 sec",
+            "text": "and you will also say what I recommended"
+        },
+        {
+            "start": "559.48 sec",
+            "end": "561.48 sec",
+            "text": "but I will tell you in a while"
+        },
+        {
+            "start": "561.48 sec",
+            "end": "563.48 sec",
+            "text": "and this is criminally underrated"
+        },
+        {
+            "start": "563.48 sec",
+            "end": "565.48 sec",
+            "text": "I am telling you that you will enjoy"
+        },
+        {
+            "start": "565.48 sec",
+            "end": "567.48 sec",
+            "text": "I want to tell you about that"
+        },
+        {
+            "start": "567.48 sec",
+            "end": "569.48 sec",
+            "text": "you will right click on command palette"
+        },
+        {
+            "start": "569.48 sec",
+            "end": "571.48 sec",
+            "text": "so here there are many options of vs code"
+        },
+        {
+            "start": "571.48 sec",
+            "end": "573.48 sec",
+            "text": "you don't need to know all these options"
+        },
+        {
+            "start": "573.48 sec",
+            "end": "575.48 sec",
+            "text": "as we will move ahead in the course"
+        },
+        {
+            "start": "575.48 sec",
+            "end": "577.48 sec",
+            "text": "whatever feature"
+        },
+        {
+            "start": "577.48 sec",
+            "end": "579.48 sec",
+            "text": "will come in use"
+        },
+        {
+            "start": "579.48 sec",
+            "end": "581.48 sec",
+            "text": "I will tell you about it"
+        },
+        {
+            "start": "581.48 sec",
+            "end": "583.48 sec",
+            "text": "and you can use it"
+        },
+        {
+            "start": "583.48 sec",
+            "end": "585.48 sec",
+            "text": "but what I will do here"
+        },
+        {
+            "start": "585.48 sec",
+            "end": "587.48 sec",
+            "text": "I will toggle screen cast mode"
+        },
+        {
+            "start": "587.48 sec",
+            "end": "589.48 sec",
+            "text": "you don't have to do this"
+        },
+        {
+            "start": "589.48 sec",
+            "end": "591.48 sec",
+            "text": "but I will do it so you will know"
+        },
+        {
+            "start": "591.48 sec",
+            "end": "593.48 sec",
+            "text": "I clicked it"
+        },
+        {
+            "start": "593.48 sec",
+            "end": "595.48 sec",
+            "text": "so I will type any type"
+        },
+        {
+            "start": "595.48 sec",
+            "end": "597.48 sec",
+            "text": "if I press caps lock"
+        },
+        {
+            "start": "597.48 sec",
+            "end": "599.48 sec",
+            "text": "you will know when I pressed which button"
+        },
+        {
+            "start": "599.48 sec",
+            "end": "601.48 sec",
+            "text": "this is not relevant for you"
+        },
+        {
+            "start": "601.48 sec",
+            "end": "603.48 sec",
+            "text": "but I just want to tell you"
+        },
+        {
+            "start": "603.48 sec",
+            "end": "605.48 sec",
+            "text": "screen cast mode"
+        },
+        {
+            "start": "605.48 sec",
+            "end": "607.48 sec",
+            "text": "we can change the settings"
+        },
+        {
+            "start": "607.48 sec",
+            "end": "609.48 sec",
+            "text": "from here"
+        },
+        {
+            "start": "609.48 sec",
+            "end": "611.48 sec",
+            "text": "now here you see the vertical offset of screen cast mode"
+        },
+        {
+            "start": "611.48 sec",
+            "end": "613.48 sec",
+            "text": "what is vertical offset"
+        },
+        {
+            "start": "613.48 sec",
+            "end": "615.48 sec",
+            "text": "if I set the vertical offset to zero"
+        },
+        {
+            "start": "615.48 sec",
+            "end": "617.48 sec",
+            "text": "it will come up"
+        },
+        {
+            "start": "617.48 sec",
+            "end": "619.48 sec",
+            "text": "if I set vertical offset to 70"
+        },
+        {
+            "start": "619.48 sec",
+            "end": "621.48 sec",
+            "text": "it will come down"
+        },
+        {
+            "start": "621.48 sec",
+            "end": "623.48 sec",
+            "text": "I will set it to 60"
+        },
+        {
+            "start": "623.48 sec",
+            "end": "625.48 sec",
+            "text": "if I set it to 80"
+        },
+        {
+            "start": "625.48 sec",
+            "end": "627.48 sec",
+            "text": "it will come up"
+        },
+        {
+            "start": "627.48 sec",
+            "end": "629.48 sec",
+            "text": "from bottom"
+        },
+        {
+            "start": "629.48 sec",
+            "end": "631.48 sec",
+            "text": "it will come up to zero"
+        },
+        {
+            "start": "631.48 sec",
+            "end": "633.48 sec",
+            "text": "in fact it has come up to one"
+        },
+        {
+            "start": "633.48 sec",
+            "end": "635.48 sec",
+            "text": "I will type any type"
+        },
+        {
+            "start": "635.48 sec",
+            "end": "637.48 sec",
+            "text": "it will come up to zero"
+        },
+        {
+            "start": "637.48 sec",
+            "end": "639.48 sec",
+            "text": "so I will close this.txt"
+        },
+        {
+            "start": "639.48 sec",
+            "end": "641.48 sec",
+            "text": "I will close the settings tab"
+        },
+        {
+            "start": "641.48 sec",
+            "end": "643.48 sec",
+            "text": "these are tabs"
+        },
+        {
+            "start": "643.48 sec",
+            "end": "645.48 sec",
+            "text": "exactly"
+        },
+        {
+            "start": "645.48 sec",
+            "end": "647.48 sec",
+            "text": "I hope you have known"
+        },
+        {
+            "start": "647.48 sec",
+            "end": "649.48 sec",
+            "text": "what is this"
+        },
+        {
+            "start": "649.48 sec",
+            "end": "651.48 sec",
+            "text": "I will tell you step by step"
+        },
+        {
+            "start": "651.48 sec",
+            "end": "653.48 sec",
+            "text": "what exactly is this"
+        },
+        {
+            "start": "653.48 sec",
+            "end": "655.48 sec",
+            "text": "you can also close the page"
+        },
+        {
+            "start": "655.48 sec",
+            "end": "657.48 sec",
+            "text": "by any chance"
+        },
+        {
+            "start": "657.48 sec",
+            "end": "659.48 sec",
+            "text": "if you want to zoom in to vscode"
+        },
+        {
+            "start": "659.48 sec",
+            "end": "661.48 sec",
+            "text": "because I am recording video"
+        },
+        {
+            "start": "661.48 sec",
+            "end": "663.48 sec",
+            "text": "add control plus"
+        },
+        {
+            "start": "663.48 sec",
+            "end": "665.48 sec",
+            "text": "I have shown you below"
+        },
+        {
+            "start": "665.48 sec",
+            "end": "667.48 sec",
+            "text": "I am doing zoom in because I am recording videos"
+        },
+        {
+            "start": "667.48 sec",
+            "end": "669.48 sec",
+            "text": "ideally I want you to see the screen from the past"
+        },
+        {
+            "start": "669.48 sec",
+            "end": "671.48 sec",
+            "text": "but when I am doing my coding"
+        },
+        {
+            "start": "671.48 sec",
+            "end": "673.48 sec",
+            "text": "I don't zoom in that much"
+        },
+        {
+            "start": "673.48 sec",
+            "end": "675.48 sec",
+            "text": "so you have to keep this in mind"
+        },
+        {
+            "start": "675.48 sec",
+            "end": "677.48 sec",
+            "text": "so these are related things from vscode"
+        },
+        {
+            "start": "677.48 sec",
+            "end": "679.48 sec",
+            "text": "I want to tell you"
+        },
+        {
+            "start": "679.48 sec",
+            "end": "681.48 sec",
+            "text": "how websites work"
+        },
+        {
+            "start": "681.48 sec",
+            "end": "683.48 sec",
+            "text": "a website basically"
+        },
+        {
+            "start": "683.48 sec",
+            "end": "685.48 sec",
+            "text": "works through three types of people"
+        },
+        {
+            "start": "685.48 sec",
+            "end": "687.48 sec",
+            "text": "imagine three people"
+        },
+        {
+            "start": "687.48 sec",
+            "end": "689.48 sec",
+            "text": "one is client"
+        },
+        {
+            "start": "689.48 sec",
+            "end": "691.48 sec",
+            "text": "one is server"
+        },
+        {
+            "start": "691.48 sec",
+            "end": "693.48 sec",
+            "text": "one is server"
+        },
+        {
+            "start": "693.48 sec",
+            "end": "695.48 sec",
+            "text": "third is browser"
+        },
+        {
+            "start": "695.48 sec",
+            "end": "697.48 sec",
+            "text": "who is also called as Babu"
+        },
+        {
+            "start": "697.48 sec",
+            "end": "699.48 sec",
+            "text": "browser"
+        },
+        {
+            "start": "699.48 sec",
+            "end": "701.48 sec",
+            "text": "what is this"
+        },
+        {
+            "start": "701.48 sec",
+            "end": "703.48 sec",
+            "text": "what is this"
+        },
+        {
+            "start": "703.48 sec",
+            "end": "705.48 sec",
+            "text": "I am a client"
+        },
+        {
+            "start": "705.48 sec",
+            "end": "707.48 sec",
+            "text": "you all who use a browser"
+        },
+        {
+            "start": "707.48 sec",
+            "end": "709.48 sec",
+            "text": "who is a browser?"
+        },
+        {
+            "start": "709.48 sec",
+            "end": "711.48 sec",
+            "text": "this is chrome, hello chrome"
+        },
+        {
+            "start": "711.48 sec",
+            "end": "713.48 sec",
+            "text": "I am a client"
+        },
+        {
+            "start": "713.48 sec",
+            "end": "715.48 sec",
+            "text": "I will tell you from client"
+        },
+        {
+            "start": "715.48 sec",
+            "end": "717.48 sec",
+            "text": "when I write codewithherry.com"
+        },
+        {
+            "start": "717.48 sec",
+            "end": "719.48 sec",
+            "text": "basically"
+        },
+        {
+            "start": "719.48 sec",
+            "end": "721.48 sec",
+            "text": "I tell this browser"
+        },
+        {
+            "start": "721.48 sec",
+            "end": "723.48 sec",
+            "text": "to give me codewithherry.com website"
+        },
+        {
+            "start": "723.48 sec",
+            "end": "725.48 sec",
+            "text": "or if I write"
+        },
+        {
+            "start": "725.48 sec",
+            "end": "727.48 sec",
+            "text": "youtube.com"
+        },
+        {
+            "start": "727.48 sec",
+            "end": "729.48 sec",
+            "text": "I tell this browser"
+        },
+        {
+            "start": "729.48 sec",
+            "end": "731.48 sec",
+            "text": "to give me youtube.com website"
+        },
+        {
+            "start": "731.48 sec",
+            "end": "733.48 sec",
+            "text": "I tell this browser"
+        },
+        {
+            "start": "733.48 sec",
+            "end": "735.48 sec",
+            "text": "to give me youtube.com"
+        },
+        {
+            "start": "735.48 sec",
+            "end": "737.48 sec",
+            "text": "I want youtube"
+        },
+        {
+            "start": "737.48 sec",
+            "end": "739.48 sec",
+            "text": "so I will enter youtube.com"
+        },
+        {
+            "start": "739.48 sec",
+            "end": "741.48 sec",
+            "text": "so I will enter youtube.com"
+        },
+        {
+            "start": "741.48 sec",
+            "end": "743.48 sec",
+            "text": "so it is from server"
+        },
+        {
+            "start": "743.48 sec",
+            "end": "745.48 sec",
+            "text": "it is from youtube.com"
+        },
+        {
+            "start": "745.48 sec",
+            "end": "747.48 sec",
+            "text": "you all understand"
+        },
+        {
+            "start": "747.48 sec",
+            "end": "749.48 sec",
+            "text": "from server"
+        },
+        {
+            "start": "749.48 sec",
+            "end": "751.48 sec",
+            "text": "it is from youtube.com"
+        },
+        {
+            "start": "751.48 sec",
+            "end": "753.48 sec",
+            "text": "it parsed and showed me this screen"
+        },
+        {
+            "start": "753.48 sec",
+            "end": "755.48 sec",
+            "text": "this work is so fast"
+        },
+        {
+            "start": "755.48 sec",
+            "end": "757.48 sec",
+            "text": "because my internet.com is very fast"
+        },
+        {
+            "start": "757.48 sec",
+            "end": "759.48 sec",
+            "text": "internet.com is very fast"
+        },
+        {
+            "start": "759.48 sec",
+            "end": "761.48 sec",
+            "text": "it is so less"
+        },
+        {
+            "start": "761.48 sec",
+            "end": "763.48 sec",
+            "text": "people are faster"
+        },
+        {
+            "start": "763.48 sec",
+            "end": "765.48 sec",
+            "text": "but still according to my locality"
+        },
+        {
+            "start": "765.48 sec",
+            "end": "767.48 sec",
+            "text": "it is very fast"
+        },
+        {
+            "start": "767.48 sec",
+            "end": "769.48 sec",
+            "text": "so with this fast internet speed"
+        },
+        {
+            "start": "769.48 sec",
+            "end": "771.48 sec",
+            "text": "it is very fast"
+        },
+        {
+            "start": "771.48 sec",
+            "end": "773.48 sec",
+            "text": "so client server sends a request"
+        },
+        {
+            "start": "773.48 sec",
+            "end": "775.48 sec",
+            "text": "through browser"
+        },
+        {
+            "start": "775.48 sec",
+            "end": "777.48 sec",
+            "text": "it is my assistant"
+        },
+        {
+            "start": "777.48 sec",
+            "end": "779.48 sec",
+            "text": "I will do the same with browser"
+        },
+        {
+            "start": "779.48 sec",
+            "end": "781.48 sec",
+            "text": "it will help me to get this web page"
+        },
+        {
+            "start": "781.48 sec",
+            "end": "783.48 sec",
+            "text": "who is managing the server"
+        },
+        {
+            "start": "783.48 sec",
+            "end": "785.48 sec",
+            "text": "youtube.com"
+        },
+        {
+            "start": "785.48 sec",
+            "end": "787.48 sec",
+            "text": "and there is a code"
+        },
+        {
+            "start": "787.48 sec",
+            "end": "789.48 sec",
+            "text": "in that server"
+        },
+        {
+            "start": "789.48 sec",
+            "end": "791.48 sec",
+            "text": "which sends me this type of code"
+        },
+        {
+            "start": "791.48 sec",
+            "end": "793.48 sec",
+            "text": "when I write youtube.com"
+        },
+        {
+            "start": "793.48 sec",
+            "end": "795.48 sec",
+            "text": "this code came"
+        },
+        {
+            "start": "795.48 sec",
+            "end": "797.48 sec",
+            "text": "now how to convert this code"
+        },
+        {
+            "start": "797.48 sec",
+            "end": "799.48 sec",
+            "text": "this is from browser"
+        },
+        {
+            "start": "799.48 sec",
+            "end": "801.48 sec",
+            "text": "so client browser"
+        },
+        {
+            "start": "801.48 sec",
+            "end": "803.48 sec",
+            "text": "tells me what"
+        },
+        {
+            "start": "803.48 sec",
+            "end": "805.48 sec",
+            "text": "give me youtube.com"
+        },
+        {
+            "start": "805.48 sec",
+            "end": "807.48 sec",
+            "text": "browser says what you want youtube.com"
+        },
+        {
+            "start": "807.48 sec",
+            "end": "809.48 sec",
+            "text": "I ask youtube.com"
+        },
+        {
+            "start": "809.48 sec",
+            "end": "811.48 sec",
+            "text": "then browser goes to server"
+        },
+        {
+            "start": "811.48 sec",
+            "end": "813.48 sec",
+            "text": "and then it calls me"
+        },
+        {
+            "start": "813.48 sec",
+            "end": "815.48 sec",
+            "text": "youtube.com"
+        },
+        {
+            "start": "815.48 sec",
+            "end": "817.48 sec",
+            "text": "it will give me server"
+        },
+        {
+            "start": "817.48 sec",
+            "end": "819.48 sec",
+            "text": "it will not say here"
+        },
+        {
+            "start": "819.48 sec",
+            "end": "821.48 sec",
+            "text": "it will say error"
+        },
+        {
+            "start": "821.48 sec",
+            "end": "823.48 sec",
+            "text": "it will say that it is not a server error"
+        },
+        {
+            "start": "823.48 sec",
+            "end": "825.48 sec",
+            "text": "whatever the response is"
+        },
+        {
+            "start": "825.48 sec",
+            "end": "827.48 sec",
+            "text": "ideally it should be 200"
+        },
+        {
+            "start": "827.48 sec",
+            "end": "829.48 sec",
+            "text": "that response code is 200"
+        },
+        {
+            "start": "829.48 sec",
+            "end": "831.48 sec",
+            "text": "with that response"
+        },
+        {
+            "start": "831.48 sec",
+            "end": "833.48 sec",
+            "text": "the browser"
+        },
+        {
+            "start": "833.48 sec",
+            "end": "835.48 sec",
+            "text": "comes back to client"
+        },
+        {
+            "start": "835.48 sec",
+            "end": "837.48 sec",
+            "text": "and shows this type of page"
+        },
+        {
+            "start": "837.48 sec",
+            "end": "839.48 sec",
+            "text": "I hope you have cleared this"
+        },
+        {
+            "start": "839.48 sec",
+            "end": "841.48 sec",
+            "text": "this is how it works"
+        },
+        {
+            "start": "841.48 sec",
+            "end": "843.48 sec",
+            "text": "this is a little more important"
+        },
+        {
+            "start": "843.48 sec",
+            "end": "845.48 sec",
+            "text": "when you write google.com"
+        },
+        {
+            "start": "845.48 sec",
+            "end": "847.48 sec",
+            "text": "any website google.com"
+        },
+        {
+            "start": "847.48 sec",
+            "end": "849.48 sec",
+            "text": "client says give me google.com"
+        },
+        {
+            "start": "849.48 sec",
+            "end": "851.48 sec",
+            "text": "browser says hey Guru dev"
+        },
+        {
+            "start": "851.48 sec",
+            "end": "853.48 sec",
+            "text": "you want google.com"
+        },
+        {
+            "start": "853.48 sec",
+            "end": "855.48 sec",
+            "text": "wait I will give you server"
+        },
+        {
+            "start": "855.48 sec",
+            "end": "857.48 sec",
+            "text": "so browser goes to server"
+        },
+        {
+            "start": "857.48 sec",
+            "end": "859.48 sec",
+            "text": "and it gives you google.com"
+        },
+        {
+            "start": "859.48 sec",
+            "end": "861.48 sec",
+            "text": "now with google.com"
+        },
+        {
+            "start": "861.48 sec",
+            "end": "863.48 sec",
+            "text": "the server"
+        },
+        {
+            "start": "863.48 sec",
+            "end": "865.48 sec",
+            "text": "all images, videos"
+        },
+        {
+            "start": "865.48 sec",
+            "end": "867.48 sec",
+            "text": "whatever it is"
+        },
+        {
+            "start": "867.48 sec",
+            "end": "869.48 sec",
+            "text": "it sends all these"
+        },
+        {
+            "start": "869.48 sec",
+            "end": "871.48 sec",
+            "text": "the URL of these icons is also in this code"
+        },
+        {
+            "start": "871.48 sec",
+            "end": "873.48 sec",
+            "text": "and that too the browser"
+        },
+        {
+            "start": "873.48 sec",
+            "end": "875.48 sec",
+            "text": "shows us by displaying it"
+        },
+        {
+            "start": "875.48 sec",
+            "end": "877.48 sec",
+            "text": "the server sends the browser a bundle"
+        },
+        {
+            "start": "877.48 sec",
+            "end": "879.48 sec",
+            "text": "and passes this bundle"
+        },
+        {
+            "start": "879.48 sec",
+            "end": "881.48 sec",
+            "text": "and shows it"
+        },
+        {
+            "start": "881.48 sec",
+            "end": "883.48 sec",
+            "text": "the browser works"
+        },
+        {
+            "start": "883.48 sec",
+            "end": "885.48 sec",
+            "text": "now with the user interaction"
+        },
+        {
+            "start": "885.48 sec",
+            "end": "887.48 sec",
+            "text": "the browser will give additional request"
+        },
+        {
+            "start": "887.48 sec",
+            "end": "889.48 sec",
+            "text": "if I write and inspect"
+        },
+        {
+            "start": "889.48 sec",
+            "end": "891.48 sec",
+            "text": "and then go to network"
+        },
+        {
+            "start": "891.48 sec",
+            "end": "893.48 sec",
+            "text": "and here I write"
+        },
+        {
+            "start": "893.48 sec",
+            "end": "895.48 sec",
+            "text": "I wrote Harry"
+        },
+        {
+            "start": "895.48 sec",
+            "end": "897.48 sec",
+            "text": "I sent this for images"
+        },
+        {
+            "start": "897.48 sec",
+            "end": "899.48 sec",
+            "text": "and also I sent a lot of requests"
+        },
+        {
+            "start": "899.48 sec",
+            "end": "901.48 sec",
+            "text": "so as you interact"
+        },
+        {
+            "start": "901.48 sec",
+            "end": "903.48 sec",
+            "text": "you will have to send more requests"
+        },
+        {
+            "start": "903.48 sec",
+            "end": "905.48 sec",
+            "text": "to the browser"
+        },
+        {
+            "start": "905.48 sec",
+            "end": "907.48 sec",
+            "text": "so by combining this you can understand it like a restaurant"
+        },
+        {
+            "start": "907.48 sec",
+            "end": "909.48 sec",
+            "text": "you have given an order"
+        },
+        {
+            "start": "909.48 sec",
+            "end": "911.48 sec",
+            "text": "as you have given an order"
+        },
+        {
+            "start": "911.48 sec",
+            "end": "913.48 sec",
+            "text": "a waiter took your order"
+        },
+        {
+            "start": "913.48 sec",
+            "end": "915.48 sec",
+            "text": "and then went to the kitchen"
+        },
+        {
+            "start": "915.48 sec",
+            "end": "917.48 sec",
+            "text": "he sent your order to the kitchen"
+        },
+        {
+            "start": "917.48 sec",
+            "end": "919.48 sec",
+            "text": "and then finally the kitchen gave the order"
+        },
+        {
+            "start": "919.48 sec",
+            "end": "921.48 sec",
+            "text": "so what did this waiter"
+        },
+        {
+            "start": "921.48 sec",
+            "end": "923.48 sec",
+            "text": "who is working as a browser"
+        },
+        {
+            "start": "923.48 sec",
+            "end": "925.48 sec",
+            "text": "saw that waiter"
+        },
+        {
+            "start": "925.48 sec",
+            "end": "927.48 sec",
+            "text": "and then he gave the order"
+        },
+        {
+            "start": "927.48 sec",
+            "end": "929.48 sec",
+            "text": "it is possible that he is not able to"
+        },
+        {
+            "start": "929.48 sec",
+            "end": "931.48 sec",
+            "text": "make the order in the kitchen"
+        },
+        {
+            "start": "931.48 sec",
+            "end": "933.48 sec",
+            "text": "it is very rare that you order something"
+        },
+        {
+            "start": "933.48 sec",
+            "end": "935.48 sec",
+            "text": "and you are not able to make it"
+        },
+        {
+            "start": "935.48 sec",
+            "end": "937.48 sec",
+            "text": "but it happens sometimes"
+        },
+        {
+            "start": "937.48 sec",
+            "end": "939.48 sec",
+            "text": "the same way here also happens"
+        },
+        {
+            "start": "939.48 sec",
+            "end": "941.48 sec",
+            "text": "you get the error of 4 not 4"
+        },
+        {
+            "start": "941.48 sec",
+            "end": "943.48 sec",
+            "text": "or 500 error"
+        },
+        {
+            "start": "943.48 sec",
+            "end": "945.48 sec",
+            "text": "the server is not working"
+        },
+        {
+            "start": "945.48 sec",
+            "end": "947.48 sec",
+            "text": "so this kind of error is always given"
+        },
+        {
+            "start": "947.48 sec",
+            "end": "949.48 sec",
+            "text": "but ideally 200"
+        },
+        {
+            "start": "949.48 sec",
+            "end": "951.48 sec",
+            "text": "means it is a good response"
+        },
+        {
+            "start": "951.48 sec",
+            "end": "953.48 sec",
+            "text": "so whenever you write"
+        },
+        {
+            "start": "953.48 sec",
+            "end": "955.48 sec",
+            "text": "google.com.mail"
+        },
+        {
+            "start": "955.48 sec",
+            "end": "957.48 sec",
+            "text": "if google.com.mail is available"
+        },
+        {
+            "start": "957.48 sec",
+            "end": "959.48 sec",
+            "text": "and if you write codewitherry.com"
+        },
+        {
+            "start": "959.48 sec",
+            "end": "961.48 sec",
+            "text": "contact codewitherry.com"
+        },
+        {
+            "start": "961.48 sec",
+            "end": "963.48 sec",
+            "text": "if it is available then it will show you"
+        },
+        {
+            "start": "963.48 sec",
+            "end": "965.48 sec",
+            "text": "if it is not available then it will show you 4 not 4"
+        },
+        {
+            "start": "965.48 sec",
+            "end": "967.48 sec",
+            "text": "or 500 error"
+        },
+        {
+            "start": "967.48 sec",
+            "end": "969.48 sec",
+            "text": "so you will see a 500 page"
+        },
+        {
+            "start": "969.48 sec",
+            "end": "971.48 sec",
+            "text": "so you will see whatever server you send"
+        },
+        {
+            "start": "971.48 sec",
+            "end": "973.48 sec",
+            "text": "so this cycle is going on"
+        },
+        {
+            "start": "973.48 sec",
+            "end": "975.48 sec",
+            "text": "client sent requests"
+        },
+        {
+            "start": "975.48 sec",
+            "end": "977.48 sec",
+            "text": "browser sent to the server"
+        },
+        {
+            "start": "977.48 sec",
+            "end": "979.48 sec",
+            "text": "then the server processed the request"
+        },
+        {
+            "start": "979.48 sec",
+            "end": "981.48 sec",
+            "text": "and whatever data was sent to the server"
+        },
+        {
+            "start": "981.48 sec",
+            "end": "983.48 sec",
+            "text": "the client showed it"
+        },
+        {
+            "start": "983.48 sec",
+            "end": "985.48 sec",
+            "text": "then the client did something"
+        },
+        {
+            "start": "985.48 sec",
+            "end": "987.48 sec",
+            "text": "the server sent the same request"
+        },
+        {
+            "start": "987.48 sec",
+            "end": "989.48 sec",
+            "text": "the server sent the data to the server"
+        },
+        {
+            "start": "989.48 sec",
+            "end": "991.48 sec",
+            "text": "and so on"
+        },
+        {
+            "start": "991.48 sec",
+            "end": "993.48 sec",
+            "text": "so now you will understand"
+        },
+        {
+            "start": "993.48 sec",
+            "end": "995.48 sec",
+            "text": "what is backend"
+        },
+        {
+            "start": "995.48 sec",
+            "end": "997.48 sec",
+            "text": "backend is the way the server"
+        },
+        {
+            "start": "997.48 sec",
+            "end": "999.48 sec",
+            "text": "is processing the request"
+        },
+        {
+            "start": "999.48 sec",
+            "end": "1001.48 sec",
+            "text": "if you believe that you have a blog"
+        },
+        {
+            "start": "1001.48 sec",
+            "end": "1003.48 sec",
+            "text": "there is a lot of data in the blog"
+        },
+        {
+            "start": "1003.48 sec",
+            "end": "1005.48 sec",
+            "text": "so what you will do"
+        },
+        {
+            "start": "1005.48 sec",
+            "end": "1007.48 sec",
+            "text": "you will store every web page of the blog"
+        },
+        {
+            "start": "1007.48 sec",
+            "end": "1009.48 sec",
+            "text": "or you will generate the content dynamically"
+        },
+        {
+            "start": "1009.48 sec",
+            "end": "1011.48 sec",
+            "text": "you will generate the content dynamically"
+        },
+        {
+            "start": "1011.48 sec",
+            "end": "1013.48 sec",
+            "text": "I will take an example of google"
+        },
+        {
+            "start": "1013.48 sec",
+            "end": "1015.48 sec",
+            "text": "if I search here"
+        },
+        {
+            "start": "1015.48 sec",
+            "end": "1017.48 sec",
+            "text": "so you can see here that the google header"
+        },
+        {
+            "start": "1017.48 sec",
+            "end": "1019.48 sec",
+            "text": "these are the links"
+        },
+        {
+            "start": "1019.48 sec",
+            "end": "1021.48 sec",
+            "text": "this format does not change"
+        },
+        {
+            "start": "1021.48 sec",
+            "end": "1023.48 sec",
+            "text": "if I write here"
+        },
+        {
+            "start": "1023.48 sec",
+            "end": "1025.48 sec",
+            "text": "Shubham"
+        },
+        {
+            "start": "1025.48 sec",
+            "end": "1027.48 sec",
+            "text": "I have written Shubham here"
+        },
+        {
+            "start": "1027.48 sec",
+            "end": "1029.48 sec",
+            "text": "so here as soon as I write Shubham"
+        },
+        {
+            "start": "1029.48 sec",
+            "end": "1031.48 sec",
+            "text": "when I wrote Harry by"
+        },
+        {
+            "start": "1031.48 sec",
+            "end": "1033.48 sec",
+            "text": "I am showing a similar content to google"
+        },
+        {
+            "start": "1033.48 sec",
+            "end": "1035.48 sec",
+            "text": "so what does google do"
+        },
+        {
+            "start": "1035.48 sec",
+            "end": "1037.48 sec",
+            "text": "the backend"
+        },
+        {
+            "start": "1037.48 sec",
+            "end": "1039.48 sec",
+            "text": "the backend processes the data"
+        },
+        {
+            "start": "1039.48 sec",
+            "end": "1041.48 sec",
+            "text": "in a way that it can send"
+        },
+        {
+            "start": "1041.48 sec",
+            "end": "1043.48 sec",
+            "text": "such HTML for corresponding query"
+        },
+        {
+            "start": "1043.48 sec",
+            "end": "1045.48 sec",
+            "text": "when I write Shubham"
+        },
+        {
+            "start": "1045.48 sec",
+            "end": "1047.48 sec",
+            "text": "when I write Harry"
+        },
+        {
+            "start": "1047.48 sec",
+            "end": "1049.48 sec",
+            "text": "then send it"
+        },
+        {
+            "start": "1049.48 sec",
+            "end": "1051.48 sec",
+            "text": "so the process of generating this"
+        },
+        {
+            "start": "1051.48 sec",
+            "end": "1053.48 sec",
+            "text": "through which system is happening"
+        },
+        {
+            "start": "1053.48 sec",
+            "end": "1055.48 sec",
+            "text": "is the backend"
+        },
+        {
+            "start": "1055.48 sec",
+            "end": "1057.48 sec",
+            "text": "this backend can be jango, this backend can be flask"
+        },
+        {
+            "start": "1057.48 sec",
+            "end": "1059.48 sec",
+            "text": "this backend can be node.js"
+        },
+        {
+            "start": "1059.48 sec",
+            "end": "1061.48 sec",
+            "text": "this backend can be PHP"
+        },
+        {
+            "start": "1061.48 sec",
+            "end": "1063.48 sec",
+            "text": "this backend can be Ruby on Rails"
+        },
+        {
+            "start": "1063.48 sec",
+            "end": "1065.48 sec",
+            "text": "this database is used"
+        },
+        {
+            "start": "1065.48 sec",
+            "end": "1067.48 sec",
+            "text": "the backend code is not visible"
+        },
+        {
+            "start": "1067.48 sec",
+            "end": "1069.48 sec",
+            "text": "this is the front end code which sends the server"
+        },
+        {
+            "start": "1069.48 sec",
+            "end": "1071.48 sec",
+            "text": "and how did the server make this code"
+        },
+        {
+            "start": "1071.48 sec",
+            "end": "1073.48 sec",
+            "text": "we don't know"
+        },
+        {
+            "start": "1073.48 sec",
+            "end": "1075.48 sec",
+            "text": "because it is running on the server"
+        },
+        {
+            "start": "1075.48 sec",
+            "end": "1077.48 sec",
+            "text": "if you are confused then don't be confused"
+        },
+        {
+            "start": "1077.48 sec",
+            "end": "1079.48 sec",
+            "text": "you will understand all this"
+        },
+        {
+            "start": "1079.48 sec",
+            "end": "1081.48 sec",
+            "text": "we will see the backend"
+        },
+        {
+            "start": "1081.48 sec",
+            "end": "1083.48 sec",
+            "text": "now we understand how front end works"
+        },
+        {
+            "start": "1083.48 sec",
+            "end": "1085.48 sec",
+            "text": "front end is made"
+        },
+        {
+            "start": "1085.48 sec",
+            "end": "1087.48 sec",
+            "text": "primarily with 3 languages"
+        },
+        {
+            "start": "1087.48 sec",
+            "end": "1089.48 sec",
+            "text": "HTML, CSS and JavaScript"
+        },
+        {
+            "start": "1089.48 sec",
+            "end": "1091.48 sec",
+            "text": "these are the 3 languages"
+        },
+        {
+            "start": "1091.48 sec",
+            "end": "1093.48 sec",
+            "text": "if you are making a website"
+        },
+        {
+            "start": "1093.48 sec",
+            "end": "1095.48 sec",
+            "text": "then every website needs"
+        },
+        {
+            "start": "1095.48 sec",
+            "end": "1097.48 sec",
+            "text": "HTML, CSS, JavaScript"
+        },
+        {
+            "start": "1097.48 sec",
+            "end": "1099.48 sec",
+            "text": "if you use only HTML"
+        },
+        {
+            "start": "1099.48 sec",
+            "end": "1101.48 sec",
+            "text": "then the basic"
+        },
+        {
+            "start": "1101.48 sec",
+            "end": "1103.48 sec",
+            "text": "the skeleton is made"
+        },
+        {
+            "start": "1103.48 sec",
+            "end": "1105.48 sec",
+            "text": "after that when you use CSS"
+        },
+        {
+            "start": "1105.48 sec",
+            "end": "1107.48 sec",
+            "text": "you can style it"
+        },
+        {
+            "start": "1107.48 sec",
+            "end": "1109.48 sec",
+            "text": "so the button looks like this"
+        },
+        {
+            "start": "1109.48 sec",
+            "end": "1111.48 sec",
+            "text": "so only CSS is visible"
+        },
+        {
+            "start": "1111.48 sec",
+            "end": "1113.48 sec",
+            "text": "along with that this button is red"
+        },
+        {
+            "start": "1113.48 sec",
+            "end": "1115.48 sec",
+            "text": "this button looks like this"
+        },
+        {
+            "start": "1115.48 sec",
+            "end": "1117.48 sec",
+            "text": "this is all the help of CSS"
+        },
+        {
+            "start": "1117.48 sec",
+            "end": "1119.48 sec",
+            "text": "the edges are visible"
+        },
+        {
+            "start": "1119.48 sec",
+            "end": "1121.48 sec",
+            "text": "so the CSS"
+        },
+        {
+            "start": "1121.48 sec",
+            "end": "1123.48 sec",
+            "text": "is the work of the style"
+        },
+        {
+            "start": "1123.48 sec",
+            "end": "1125.48 sec",
+            "text": "what color and what"
+        },
+        {
+            "start": "1125.48 sec",
+            "end": "1127.48 sec",
+            "text": "will be the color of the button"
+        },
+        {
+            "start": "1127.48 sec",
+            "end": "1129.48 sec",
+            "text": "all these works are done through CSS"
+        },
+        {
+            "start": "1129.48 sec",
+            "end": "1131.48 sec",
+            "text": "there is a beauty of CSS"
+        },
+        {
+            "start": "1131.48 sec",
+            "end": "1133.48 sec",
+            "text": "HTML page"
+        },
+        {
+            "start": "1133.48 sec",
+            "end": "1135.48 sec",
+            "text": "HTML is the body of any page"
+        },
+        {
+            "start": "1135.48 sec",
+            "end": "1137.48 sec",
+            "text": "some such thing is a standard"
+        },
+        {
+            "start": "1137.48 sec",
+            "end": "1139.48 sec",
+            "text": "which is agreed"
+        },
+        {
+            "start": "1139.48 sec",
+            "end": "1141.48 sec",
+            "text": "any website will make it on HTML"
+        },
+        {
+            "start": "1141.48 sec",
+            "end": "1143.48 sec",
+            "text": "so that the browser can understand"
+        },
+        {
+            "start": "1143.48 sec",
+            "end": "1145.48 sec",
+            "text": "how to parse it"
+        },
+        {
+            "start": "1145.48 sec",
+            "end": "1147.48 sec",
+            "text": "the browser has to parse the HTML"
+        },
+        {
+            "start": "1147.48 sec",
+            "end": "1149.48 sec",
+            "text": "HTML is a skeleton"
+        },
+        {
+            "start": "1149.48 sec",
+            "end": "1151.48 sec",
+            "text": "any website"
+        },
+        {
+            "start": "1151.48 sec",
+            "end": "1153.48 sec",
+            "text": "will make it on HTML"
+        },
+        {
+            "start": "1153.48 sec",
+            "end": "1155.48 sec",
+            "text": "will use it on skeleton"
+        },
+        {
+            "start": "1155.48 sec",
+            "end": "1157.48 sec",
+            "text": "this is the standard"
+        },
+        {
+            "start": "1157.48 sec",
+            "end": "1159.48 sec",
+            "text": "so that everyone can make"
+        },
+        {
+            "start": "1159.48 sec",
+            "end": "1161.48 sec",
+            "text": "the same type of pages"
+        },
+        {
+            "start": "1161.48 sec",
+            "end": "1163.48 sec",
+            "text": "and if the browser is making it"
+        },
+        {
+            "start": "1163.48 sec",
+            "end": "1165.48 sec",
+            "text": "then you have to parse the same language"
+        },
+        {
+            "start": "1165.48 sec",
+            "end": "1167.48 sec",
+            "text": "if you have learnt 80% HTML"
+        },
+        {
+            "start": "1167.48 sec",
+            "end": "1169.48 sec",
+            "text": "then you are good to go for web development"
+        },
+        {
+            "start": "1169.48 sec",
+            "end": "1171.48 sec",
+            "text": "now there are some things directly from HTML"
+        },
+        {
+            "start": "1171.48 sec",
+            "end": "1173.48 sec",
+            "text": "like if I write a lot of HTML code"
+        },
+        {
+            "start": "1173.48 sec",
+            "end": "1175.48 sec",
+            "text": "then I am writing some HTML code"
+        },
+        {
+            "start": "1175.48 sec",
+            "end": "1177.48 sec",
+            "text": "I am writing it"
+        },
+        {
+            "start": "1177.48 sec",
+            "end": "1179.48 sec",
+            "text": "using the exclamation mark"
+        },
+        {
+            "start": "1179.48 sec",
+            "end": "1181.48 sec",
+            "text": "I have used the Emmett abbreviation"
+        },
+        {
+            "start": "1181.48 sec",
+            "end": "1183.48 sec",
+            "text": "don't worry about the code"
+        },
+        {
+            "start": "1183.48 sec",
+            "end": "1185.48 sec",
+            "text": "I will write this as HTML"
+        },
+        {
+            "start": "1185.48 sec",
+            "end": "1187.48 sec",
+            "text": "and I can open this HTML file"
+        },
+        {
+            "start": "1187.48 sec",
+            "end": "1189.48 sec",
+            "text": "directly"
+        },
+        {
+            "start": "1189.48 sec",
+            "end": "1191.48 sec",
+            "text": "and as soon as I open this HTML file"
+        },
+        {
+            "start": "1191.48 sec",
+            "end": "1193.48 sec",
+            "text": "you can see"
+        },
+        {
+            "start": "1193.48 sec",
+            "end": "1195.48 sec",
+            "text": "it will open like this"
+        },
+        {
+            "start": "1195.48 sec",
+            "end": "1197.48 sec",
+            "text": "I can open it directly"
+        },
+        {
+            "start": "1197.48 sec",
+            "end": "1199.48 sec",
+            "text": "and it opened"
+        },
+        {
+            "start": "1199.48 sec",
+            "end": "1201.48 sec",
+            "text": "this is HTML"
+        },
+        {
+            "start": "1201.48 sec",
+            "end": "1203.48 sec",
+            "text": "but it is not styled"
+        },
+        {
+            "start": "1203.48 sec",
+            "end": "1205.48 sec",
+            "text": "it is very basic"
+        },
+        {
+            "start": "1205.48 sec",
+            "end": "1207.48 sec",
+            "text": "now you can run videos directly from HTML"
+        },
+        {
+            "start": "1207.48 sec",
+            "end": "1209.48 sec",
+            "text": "I have an HTML file"
+        },
+        {
+            "start": "1209.48 sec",
+            "end": "1211.48 sec",
+            "text": "which I will show you"
+        },
+        {
+            "start": "1211.48 sec",
+            "end": "1213.48 sec",
+            "text": "I will change this HTML file"
+        },
+        {
+            "start": "1213.48 sec",
+            "end": "1215.48 sec",
+            "text": "to show you"
+        },
+        {
+            "start": "1215.48 sec",
+            "end": "1217.48 sec",
+            "text": "so that we can show videos in it"
+        },
+        {
+            "start": "1217.48 sec",
+            "end": "1219.48 sec",
+            "text": "there is a video tag in HTML"
+        },
+        {
+            "start": "1219.48 sec",
+            "end": "1221.48 sec",
+            "text": "so the video you will put in SRC"
+        },
+        {
+            "start": "1221.48 sec",
+            "end": "1223.48 sec",
+            "text": "will be played"
+        },
+        {
+            "start": "1223.48 sec",
+            "end": "1225.48 sec",
+            "text": "like if I put video1.mp4"
+        },
+        {
+            "start": "1225.48 sec",
+            "end": "1227.48 sec",
+            "text": "you see the video1.mp4 is automatically shown"
+        },
+        {
+            "start": "1227.48 sec",
+            "end": "1229.48 sec",
+            "text": "and this is the benefit of using the video code"
+        },
+        {
+            "start": "1229.48 sec",
+            "end": "1231.48 sec",
+            "text": "so you see here"
+        },
+        {
+            "start": "1231.48 sec",
+            "end": "1233.48 sec",
+            "text": "I will reload this"
+        },
+        {
+            "start": "1233.48 sec",
+            "end": "1235.48 sec",
+            "text": "and this video is automatically shown"
+        },
+        {
+            "start": "1235.48 sec",
+            "end": "1237.48 sec",
+            "text": "I can play it"
+        },
+        {
+            "start": "1237.48 sec",
+            "end": "1239.48 sec",
+            "text": "I will have to write controls"
+        },
+        {
+            "start": "1239.48 sec",
+            "end": "1241.48 sec",
+            "text": "and I will refresh it"
+        },
+        {
+            "start": "1241.48 sec",
+            "end": "1243.48 sec",
+            "text": "so I will have controls to play it"
+        },
+        {
+            "start": "1243.48 sec",
+            "end": "1245.48 sec",
+            "text": "this is a permission"
+        },
+        {
+            "start": "1245.48 sec",
+            "end": "1247.48 sec",
+            "text": "people need it"
+        },
+        {
+            "start": "1247.48 sec",
+            "end": "1249.48 sec",
+            "text": "how much money do you need"
+        },
+        {
+            "start": "1249.48 sec",
+            "end": "1251.48 sec",
+            "text": "130 crores"
+        },
+        {
+            "start": "1251.48 sec",
+            "end": "1253.48 sec",
+            "text": "final"
+        },
+        {
+            "start": "1253.48 sec",
+            "end": "1255.48 sec",
+            "text": "now if I put video2.mp4"
+        },
+        {
+            "start": "1255.48 sec",
+            "end": "1257.48 sec",
+            "text": "I have put video1"
+        },
+        {
+            "start": "1257.48 sec",
+            "end": "1259.48 sec",
+            "text": "I have two more videos"
+        },
+        {
+            "start": "1259.48 sec",
+            "end": "1261.48 sec",
+            "text": "I have some other videos"
+        },
+        {
+            "start": "1261.48 sec",
+            "end": "1263.48 sec",
+            "text": "if I put it here"
+        },
+        {
+            "start": "1263.48 sec",
+            "end": "1265.48 sec",
+            "text": "and after that I will refer to them"
+        },
+        {
+            "start": "1265.48 sec",
+            "end": "1267.48 sec",
+            "text": "if I put video2.mp4"
+        },
+        {
+            "start": "1267.48 sec",
+            "end": "1269.48 sec",
+            "text": "then I will see video2"
+        },
+        {
+            "start": "1269.48 sec",
+            "end": "1271.48 sec",
+            "text": "I will reload it"
+        },
+        {
+            "start": "1271.48 sec",
+            "end": "1273.48 sec",
+            "text": "so if you like this video"
+        },
+        {
+            "start": "1273.48 sec",
+            "end": "1275.48 sec",
+            "text": "then please like and subscribe"
+        },
+        {
+            "start": "1275.48 sec",
+            "end": "1277.48 sec",
+            "text": "and share it with your friends"
+        },
+        {
+            "start": "1277.48 sec",
+            "end": "1279.48 sec",
+            "text": "so this was the look"
+        },
+        {
+            "start": "1279.48 sec",
+            "end": "1281.48 sec",
+            "text": "of Ben Stokes"
+        },
+        {
+            "start": "1281.48 sec",
+            "end": "1283.48 sec",
+            "text": "now if I do video3"
+        },
+        {
+            "start": "1283.48 sec",
+            "end": "1285.48 sec",
+            "text": "then my third video"
+        },
+        {
+            "start": "1285.48 sec",
+            "end": "1287.48 sec",
+            "text": "will be played"
+        },
+        {
+            "start": "1287.48 sec",
+            "end": "1289.48 sec",
+            "text": "and you see I can play it"
+        },
+        {
+            "start": "1289.48 sec",
+            "end": "1291.48 sec",
+            "text": "this is the third video"
+        },
+        {
+            "start": "1291.48 sec",
+            "end": "1293.48 sec",
+            "text": "I have put video3.mp4"
+        },
+        {
+            "start": "1293.48 sec",
+            "end": "1295.48 sec",
+            "text": "so I will close it"
+        },
+        {
+            "start": "1295.48 sec",
+            "end": "1297.48 sec",
+            "text": "and we can play video4"
+        },
+        {
+            "start": "1297.48 sec",
+            "end": "1299.48 sec",
+            "text": "and I have video4"
+        },
+        {
+            "start": "1299.48 sec",
+            "end": "1301.48 sec",
+            "text": "and I have video4"
+        },
+        {
+            "start": "1301.48 sec",
+            "end": "1303.48 sec",
+            "text": "where the DJ is playing"
+        },
+        {
+            "start": "1303.48 sec",
+            "end": "1305.48 sec",
+            "text": "so you see here"
+        },
+        {
+            "start": "1305.48 sec",
+            "end": "1307.48 sec",
+            "text": "Chaburna"
+        },
+        {
+            "start": "1307.48 sec",
+            "end": "1309.48 sec",
+            "text": "mhm mhm mhm mhm mhm"
+        },
+        {
+            "start": "1309.48 sec",
+            "end": "1311.48 sec",
+            "text": "back back back"
+        },
+        {
+            "start": "1311.48 sec",
+            "end": "1313.48 sec",
+            "text": "back back back"
+        },
+        {
+            "start": "1313.48 sec",
+            "end": "1315.48 sec",
+            "text": "so you can make this"
+        },
+        {
+            "start": "1315.48 sec",
+            "end": "1317.48 sec",
+            "text": "you can make this with only html"
+        },
+        {
+            "start": "1317.48 sec",
+            "end": "1319.48 sec",
+            "text": "not that you don't need"
+        },
+        {
+            "start": "1319.48 sec",
+            "end": "1321.48 sec",
+            "text": "to do anything else"
+        },
+        {
+            "start": "1321.48 sec",
+            "end": "1323.48 sec",
+            "text": "you can play videos with only html"
+        },
+        {
+            "start": "1323.48 sec",
+            "end": "1325.48 sec",
+            "text": "images can be displayed"
+        },
+        {
+            "start": "1325.48 sec",
+            "end": "1327.48 sec",
+            "text": "now if you want to style it"
+        },
+        {
+            "start": "1327.48 sec",
+            "end": "1329.48 sec",
+            "text": "like I want a border"
+        },
+        {
+            "start": "1329.48 sec",
+            "end": "1331.48 sec",
+            "text": "or a red background"
+        },
+        {
+            "start": "1331.48 sec",
+            "end": "1333.48 sec",
+            "text": "then what I have to do for that"
+        },
+        {
+            "start": "1333.48 sec",
+            "end": "1335.48 sec",
+            "text": "I have to use css"
+        },
+        {
+            "start": "1335.48 sec",
+            "end": "1337.48 sec",
+            "text": "css adds beauty"
+        },
+        {
+            "start": "1337.48 sec",
+            "end": "1339.48 sec",
+            "text": "on any website"
+        },
+        {
+            "start": "1339.48 sec",
+            "end": "1341.48 sec",
+            "text": "then comes javascript"
+        },
+        {
+            "start": "1341.48 sec",
+            "end": "1343.48 sec",
+            "text": "which adds interaction"
+        },
+        {
+            "start": "1343.48 sec",
+            "end": "1345.48 sec",
+            "text": "for example when I click on search"
+        },
+        {
+            "start": "1345.48 sec",
+            "end": "1347.48 sec",
+            "text": "when I write"
+        },
+        {
+            "start": "1347.48 sec",
+            "end": "1349.48 sec",
+            "text": "code with htr"
+        },
+        {
+            "start": "1349.48 sec",
+            "end": "1351.48 sec",
+            "text": "and auto complete"
+        },
+        {
+            "start": "1351.48 sec",
+            "end": "1353.48 sec",
+            "text": "many things are there"
+        },
+        {
+            "start": "1353.48 sec",
+            "end": "1355.48 sec",
+            "text": "why did it come? because"
+        },
+        {
+            "start": "1355.48 sec",
+            "end": "1357.48 sec",
+            "text": "there was a request on the server"
+        },
+        {
+            "start": "1357.48 sec",
+            "end": "1359.48 sec",
+            "text": "and for this query"
+        },
+        {
+            "start": "1359.48 sec",
+            "end": "1361.48 sec",
+            "text": "the results of auto complete are here"
+        },
+        {
+            "start": "1361.48 sec",
+            "end": "1363.48 sec",
+            "text": "so all these are from javascript"
+        },
+        {
+            "start": "1363.48 sec",
+            "end": "1365.48 sec",
+            "text": "we call this as client side"
+        },
+        {
+            "start": "1365.48 sec",
+            "end": "1367.48 sec",
+            "text": "scripting"
+        },
+        {
+            "start": "1367.48 sec",
+            "end": "1369.48 sec",
+            "text": "we want to do scripting here"
+        },
+        {
+            "start": "1369.48 sec",
+            "end": "1371.48 sec",
+            "text": "we want to do coding"
+        },
+        {
+            "start": "1371.48 sec",
+            "end": "1373.48 sec",
+            "text": "so we can do it with the help of javascript"
+        },
+        {
+            "start": "1373.48 sec",
+            "end": "1375.48 sec",
+            "text": "this is also a brain"
+        },
+        {
+            "start": "1375.48 sec",
+            "end": "1377.48 sec",
+            "text": "so our website becomes beauty with brain"
+        },
+        {
+            "start": "1377.48 sec",
+            "end": "1379.48 sec",
+            "text": "I am talking about beauty"
+        },
+        {
+            "start": "1379.48 sec",
+            "end": "1381.48 sec",
+            "text": "with brain"
+        },
+        {
+            "start": "1381.48 sec",
+            "end": "1383.48 sec",
+            "text": "css adds beauty"
+        },
+        {
+            "start": "1383.48 sec",
+            "end": "1385.48 sec",
+            "text": "and brain comes from javascript"
+        },
+        {
+            "start": "1385.48 sec",
+            "end": "1387.48 sec",
+            "text": "now javascript helps you to make the page"
+        },
+        {
+            "start": "1387.48 sec",
+            "end": "1389.48 sec",
+            "text": "dynamic easily"
+        },
+        {
+            "start": "1389.48 sec",
+            "end": "1391.48 sec",
+            "text": "if you have to change the content without loading"
+        },
+        {
+            "start": "1391.48 sec",
+            "end": "1393.48 sec",
+            "text": "then all this is done with javascript"
+        },
+        {
+            "start": "1393.48 sec",
+            "end": "1395.48 sec",
+            "text": "there are many mosquitoes here"
+        },
+        {
+            "start": "1395.48 sec",
+            "end": "1397.48 sec",
+            "text": "so I will kill these mosquitoes here"
+        },
+        {
+            "start": "1397.48 sec",
+            "end": "1399.48 sec",
+            "text": "they are not getting anything from here"
+        },
+        {
+            "start": "1399.48 sec",
+            "end": "1401.48 sec",
+            "text": "I am doing this"
+        },
+        {
+            "start": "1401.48 sec",
+            "end": "1403.48 sec",
+            "text": "like the video"
+        },
+        {
+            "start": "1403.48 sec",
+            "end": "1405.48 sec",
+            "text": "because I will eat the current chat"
+        },
+        {
+            "start": "1405.48 sec",
+            "end": "1407.48 sec",
+            "text": "when I was in college"
+        },
+        {
+            "start": "1407.48 sec",
+            "end": "1409.48 sec",
+            "text": "I was shocked to learn HTML, CSS, JavaScript"
+        },
+        {
+            "start": "1409.48 sec",
+            "end": "1411.48 sec",
+            "text": "first learn 100% HTML"
+        },
+        {
+            "start": "1411.48 sec",
+            "end": "1413.48 sec",
+            "text": "then learn 100% CSS"
+        },
+        {
+            "start": "1413.48 sec",
+            "end": "1415.48 sec",
+            "text": "until I remember all the properties"
+        },
+        {
+            "start": "1415.48 sec",
+            "end": "1417.48 sec",
+            "text": "but this expression is wrong"
+        },
+        {
+            "start": "1417.48 sec",
+            "end": "1419.48 sec",
+            "text": "why wrong? because HTML is only 80%"
+        },
+        {
+            "start": "1419.48 sec",
+            "end": "1421.48 sec",
+            "text": "and CSS is only 40%"
+        },
+        {
+            "start": "1421.48 sec",
+            "end": "1423.48 sec",
+            "text": "and javascript"
+        },
+        {
+            "start": "1423.48 sec",
+            "end": "1425.48 sec",
+            "text": "you can learn 50-70%"
+        },
+        {
+            "start": "1425.48 sec",
+            "end": "1427.48 sec",
+            "text": "by learning"
+        },
+        {
+            "start": "1427.48 sec",
+            "end": "1429.48 sec",
+            "text": "you can start web development"
+        },
+        {
+            "start": "1429.48 sec",
+            "end": "1431.48 sec",
+            "text": "you can make projects"
+        },
+        {
+            "start": "1431.48 sec",
+            "end": "1433.48 sec",
+            "text": "and you can move ahead"
+        },
+        {
+            "start": "1433.48 sec",
+            "end": "1435.48 sec",
+            "text": "now I will tell you about"
+        },
+        {
+            "start": "1435.48 sec",
+            "end": "1437.48 sec",
+            "text": "the impact of chat gpt"
+        },
+        {
+            "start": "1437.48 sec",
+            "end": "1439.48 sec",
+            "text": "on web development"
+        },
+        {
+            "start": "1439.48 sec",
+            "end": "1441.48 sec",
+            "text": "so don't run after perfection"
+        },
+        {
+            "start": "1441.48 sec",
+            "end": "1443.48 sec",
+            "text": "with HTML and CSS"
+        },
+        {
+            "start": "1443.48 sec",
+            "end": "1445.48 sec",
+            "text": "don't think that I will do HTML for 1 year"
+        },
+        {
+            "start": "1445.48 sec",
+            "end": "1447.48 sec",
+            "text": "or CSS for next year"
+        },
+        {
+            "start": "1447.48 sec",
+            "end": "1449.48 sec",
+            "text": "or javascript for 30 years"
+        },
+        {
+            "start": "1449.48 sec",
+            "end": "1451.48 sec",
+            "text": "or projects for 4 years"
+        },
+        {
+            "start": "1451.48 sec",
+            "end": "1453.48 sec",
+            "text": "don't think that you should do HTML"
+        },
+        {
+            "start": "1453.48 sec",
+            "end": "1455.48 sec",
+            "text": "80% CSS 40%"
+        },
+        {
+            "start": "1455.48 sec",
+            "end": "1457.48 sec",
+            "text": "and javascript"
+        },
+        {
+            "start": "1457.48 sec",
+            "end": "1459.48 sec",
+            "text": "you can learn 50-70%"
+        },
+        {
+            "start": "1459.48 sec",
+            "end": "1461.48 sec",
+            "text": "and make a great website"
+        },
+        {
+            "start": "1461.48 sec",
+            "end": "1463.48 sec",
+            "text": "and as you will keep making websites"
+        },
+        {
+            "start": "1463.48 sec",
+            "end": "1465.48 sec",
+            "text": "your experience will teach you more"
+        },
+        {
+            "start": "1465.48 sec",
+            "end": "1467.48 sec",
+            "text": "HTML, CSS, JavaScript"
+        },
+        {
+            "start": "1467.48 sec",
+            "end": "1469.48 sec",
+            "text": "and you won't know that you have perfected"
+        },
+        {
+            "start": "1469.48 sec",
+            "end": "1471.48 sec",
+            "text": "HTML, CSS, JavaScript"
+        },
+        {
+            "start": "1471.48 sec",
+            "end": "1473.48 sec",
+            "text": "while you are making money"
+        },
+        {
+            "start": "1473.48 sec",
+            "end": "1475.48 sec",
+            "text": "and working as a professional web developer"
+        },
+        {
+            "start": "1475.48 sec",
+            "end": "1477.48 sec",
+            "text": "you will be earning"
+        },
+        {
+            "start": "1477.48 sec",
+            "end": "1479.48 sec",
+            "text": "and you will be"
+        },
+        {
+            "start": "1479.48 sec",
+            "end": "1481.48 sec",
+            "text": "moving ahead with your skills"
+        },
+        {
+            "start": "1481.48 sec",
+            "end": "1483.48 sec",
+            "text": "so don't think that I will remember"
+        },
+        {
+            "start": "1483.48 sec",
+            "end": "1485.48 sec",
+            "text": "I will make a website"
+        },
+        {
+            "start": "1485.48 sec",
+            "end": "1487.48 sec",
+            "text": "and all the CSS properties"
+        },
+        {
+            "start": "1487.48 sec",
+            "end": "1489.48 sec",
+            "text": "will be made by javascript"
+        },
+        {
+            "start": "1489.48 sec",
+            "end": "1491.48 sec",
+            "text": "I will teach you this much"
+        },
+        {
+            "start": "1491.48 sec",
+            "end": "1493.48 sec",
+            "text": "and that much"
+        },
+        {
+            "start": "1493.48 sec",
+            "end": "1495.48 sec",
+            "text": "and I don't want you to learn"
+        },
+        {
+            "start": "1495.48 sec",
+            "end": "1497.48 sec",
+            "text": "that much"
+        },
+        {
+            "start": "1497.48 sec",
+            "end": "1499.48 sec",
+            "text": "so that you can learn"
+        },
+        {
+            "start": "1499.48 sec",
+            "end": "1501.48 sec",
+            "text": "that much"
+        },
+        {
+            "start": "1501.48 sec",
+            "end": "1503.48 sec",
+            "text": "and you will learn from practice"
+        },
+        {
+            "start": "1503.48 sec",
+            "end": "1505.48 sec",
+            "text": "and I will teach you in this course"
+        },
+        {
+            "start": "1505.48 sec",
+            "end": "1507.48 sec",
+            "text": "here we have 2-4 mosquitoes"
+        },
+        {
+            "start": "1507.48 sec",
+            "end": "1509.48 sec",
+            "text": "which is good"
+        },
+        {
+            "start": "1509.48 sec",
+            "end": "1511.48 sec",
+            "text": "our audience is increasing"
+        },
+        {
+            "start": "1511.48 sec",
+            "end": "1513.48 sec",
+            "text": "and then we will learn CSS"
+        },
+        {
+            "start": "1513.48 sec",
+            "end": "1515.48 sec",
+            "text": "and then we will learn JavaScript"
+        },
+        {
+            "start": "1515.48 sec",
+            "end": "1517.48 sec",
+            "text": "and I will tell you such tricks"
+        },
+        {
+            "start": "1517.48 sec",
+            "end": "1519.48 sec",
+            "text": "which you won't have heard"
+        },
+        {
+            "start": "1519.48 sec",
+            "end": "1521.48 sec",
+            "text": "and I have learnt different points of my career"
+        },
+        {
+            "start": "1521.48 sec",
+            "end": "1523.48 sec",
+            "text": "and I will tell you this in a course"
+        },
+        {
+            "start": "1523.48 sec",
+            "end": "1525.48 sec",
+            "text": "I have learnt some big tricks"
+        },
+        {
+            "start": "1525.48 sec",
+            "end": "1527.48 sec",
+            "text": "in my career"
+        },
+        {
+            "start": "1527.48 sec",
+            "end": "1529.48 sec",
+            "text": "and I want you to learn all the tricks"
+        },
+        {
+            "start": "1529.48 sec",
+            "end": "1531.48 sec",
+            "text": "now if you have any doubt"
+        },
+        {
+            "start": "1531.48 sec",
+            "end": "1533.48 sec",
+            "text": "in the coming videos"
+        },
+        {
+            "start": "1533.48 sec",
+            "end": "1535.48 sec",
+            "text": "then you can use the hashtag"
+        },
+        {
+            "start": "1535.48 sec",
+            "end": "1537.48 sec",
+            "text": "and ask your doubt"
+        },
+        {
+            "start": "1537.48 sec",
+            "end": "1539.48 sec",
+            "text": "I am going to try to answer all the doubts"
+        },
+        {
+            "start": "1539.48 sec",
+            "end": "1541.48 sec",
+            "text": "I will try to solve all the doubts"
+        },
+        {
+            "start": "1541.48 sec",
+            "end": "1543.48 sec",
+            "text": "so if you have any question"
+        },
+        {
+            "start": "1543.48 sec",
+            "end": "1545.48 sec",
+            "text": "then use the hashtag"
+        },
+        {
+            "start": "1545.48 sec",
+            "end": "1547.48 sec",
+            "text": "and please"
+        },
+        {
+            "start": "1547.48 sec",
+            "end": "1549.48 sec",
+            "text": "don't use the hashtag"
+        },
+        {
+            "start": "1549.48 sec",
+            "end": "1551.48 sec",
+            "text": "in the comments"
+        },
+        {
+            "start": "1551.48 sec",
+            "end": "1553.48 sec",
+            "text": "so that I can prioritize"
+        },
+        {
+            "start": "1553.48 sec",
+            "end": "1555.48 sec",
+            "text": "the comments"
+        },
+        {
+            "start": "1555.48 sec",
+            "end": "1557.48 sec",
+            "text": "of the hashtag doubt"
+        },
+        {
+            "start": "1557.48 sec",
+            "end": "1559.48 sec",
+            "text": "I will try to answer all the doubts"
+        },
+        {
+            "start": "1559.48 sec",
+            "end": "1561.48 sec",
+            "text": "as much as I can"
+        },
+        {
+            "start": "1561.48 sec",
+            "end": "1563.48 sec",
+            "text": "and you will learn everything in this course"
+        },
+        {
+            "start": "1563.48 sec",
+            "end": "1565.48 sec",
+            "text": "so like this course"
+        },
+        {
+            "start": "1565.48 sec",
+            "end": "1567.48 sec",
+            "text": "if you haven't done it yet"
+        },
+        {
+            "start": "1567.48 sec",
+            "end": "1569.48 sec",
+            "text": "then do it"
+        },
+        {
+            "start": "1569.48 sec",
+            "end": "1571.48 sec",
+            "text": "now what is the react"
+        },
+        {
+            "start": "1571.48 sec",
+            "end": "1573.48 sec",
+            "text": "what is the next gs"
+        },
+        {
+            "start": "1573.48 sec",
+            "end": "1575.48 sec",
+            "text": "what is the angular"
+        },
+        {
+            "start": "1575.48 sec",
+            "end": "1577.48 sec",
+            "text": "so these front end frameworks"
+        },
+        {
+            "start": "1577.48 sec",
+            "end": "1579.48 sec",
+            "text": "help you in using JavaScript"
+        },
+        {
+            "start": "1579.48 sec",
+            "end": "1581.48 sec",
+            "text": "that is HTML, CSS, JavaScript"
+        },
+        {
+            "start": "1581.48 sec",
+            "end": "1583.48 sec",
+            "text": "make the website"
+        },
+        {
+            "start": "1583.48 sec",
+            "end": "1585.48 sec",
+            "text": "help you in making this process faster"
+        },
+        {
+            "start": "1585.48 sec",
+            "end": "1587.48 sec",
+            "text": "how we will learn this in this course"
+        },
+        {
+            "start": "1587.48 sec",
+            "end": "1589.48 sec",
+            "text": "yes we will learn in this course"
+        },
+        {
+            "start": "1589.48 sec",
+            "end": "1591.48 sec",
+            "text": "I told you this course"
+        },
+        {
+            "start": "1591.48 sec",
+            "end": "1593.48 sec",
+            "text": "I will make you different"
+        },
+        {
+            "start": "1593.48 sec",
+            "end": "1595.48 sec",
+            "text": "I will make you like this"
+        },
+        {
+            "start": "1595.48 sec",
+            "end": "1597.48 sec",
+            "text": "because you have put a ticket"
+        },
+        {
+            "start": "1597.48 sec",
+            "end": "1599.48 sec",
+            "text": "of the Sigma Web Development Express"
+        },
+        {
+            "start": "1599.48 sec",
+            "end": "1601.48 sec",
+            "text": "I want to give you a good analogy"
+        },
+        {
+            "start": "1601.48 sec",
+            "end": "1603.48 sec",
+            "text": "to teach HTML, CSS and JavaScript"
+        },
+        {
+            "start": "1603.48 sec",
+            "end": "1605.48 sec",
+            "text": "HTML is like car skeleton"
+        },
+        {
+            "start": "1605.48 sec",
+            "end": "1607.48 sec",
+            "text": "if you paint it in CSS"
+        },
+        {
+            "start": "1607.48 sec",
+            "end": "1609.48 sec",
+            "text": "and internal engine is in car"
+        },
+        {
+            "start": "1609.48 sec",
+            "end": "1611.48 sec",
+            "text": "then it is JavaScript"
+        },
+        {
+            "start": "1611.48 sec",
+            "end": "1613.48 sec",
+            "text": "look at an example of a human"
+        },
+        {
+            "start": "1613.48 sec",
+            "end": "1615.48 sec",
+            "text": "skeleton is HTML"
+        },
+        {
+            "start": "1615.48 sec",
+            "end": "1617.48 sec",
+            "text": "then skin is everything"
+        },
+        {
+            "start": "1617.48 sec",
+            "end": "1619.48 sec",
+            "text": "CSS and brain is everything"
+        },
+        {
+            "start": "1619.48 sec",
+            "end": "1621.48 sec",
+            "text": "nervous system is JavaScript"
+        },
+        {
+            "start": "1621.48 sec",
+            "end": "1623.48 sec",
+            "text": "now I will take you to phobes.com"
+        },
+        {
+            "start": "1623.48 sec",
+            "end": "1625.48 sec",
+            "text": "here you will see a website"
+        },
+        {
+            "start": "1625.48 sec",
+            "end": "1627.48 sec",
+            "text": "as soon as you go to phobes"
+        },
+        {
+            "start": "1627.48 sec",
+            "end": "1629.48 sec",
+            "text": "and phobes.com"
+        },
+        {
+            "start": "1629.48 sec",
+            "end": "1631.48 sec",
+            "text": "is a website"
+        },
+        {
+            "start": "1631.48 sec",
+            "end": "1633.48 sec",
+            "text": "which uses HTML, CSS and JavaScript"
+        },
+        {
+            "start": "1633.48 sec",
+            "end": "1635.48 sec",
+            "text": "like any other website"
+        },
+        {
+            "start": "1635.48 sec",
+            "end": "1637.48 sec",
+            "text": "now if I click on right click"
+        },
+        {
+            "start": "1637.48 sec",
+            "end": "1639.48 sec",
+            "text": "then look at this"
+        },
+        {
+            "start": "1639.48 sec",
+            "end": "1641.48 sec",
+            "text": "the inspect element is opened"
+        },
+        {
+            "start": "1641.48 sec",
+            "end": "1643.48 sec",
+            "text": "now look here, they have used"
+        },
+        {
+            "start": "1643.48 sec",
+            "end": "1645.48 sec",
+            "text": "script in the head"
+        },
+        {
+            "start": "1645.48 sec",
+            "end": "1647.48 sec",
+            "text": "and to add CSS"
+        },
+        {
+            "start": "1647.48 sec",
+            "end": "1649.48 sec",
+            "text": "they have used link"
+        },
+        {
+            "start": "1649.48 sec",
+            "end": "1651.48 sec",
+            "text": "so what I will do here"
+        },
+        {
+            "start": "1651.48 sec",
+            "end": "1653.48 sec",
+            "text": "is to remove the CSS"
+        },
+        {
+            "start": "1653.48 sec",
+            "end": "1655.48 sec",
+            "text": "simply what I will do"
+        },
+        {
+            "start": "1655.48 sec",
+            "end": "1657.48 sec",
+            "text": "I will clear all the style tags"
+        },
+        {
+            "start": "1657.48 sec",
+            "end": "1659.48 sec",
+            "text": "using delete key"
+        },
+        {
+            "start": "1659.48 sec",
+            "end": "1661.48 sec",
+            "text": "as soon as I remove all the style tags"
+        },
+        {
+            "start": "1661.48 sec",
+            "end": "1663.48 sec",
+            "text": "and remove all the link tags"
+        },
+        {
+            "start": "1663.48 sec",
+            "end": "1665.48 sec",
+            "text": "as soon as I have read all the"
+        },
+        {
+            "start": "1665.48 sec",
+            "end": "1667.48 sec",
+            "text": "style sheets of this page"
+        },
+        {
+            "start": "1667.48 sec",
+            "end": "1669.48 sec",
+            "text": "look at the state of this page"
+        },
+        {
+            "start": "1669.48 sec",
+            "end": "1671.48 sec",
+            "text": "this page is showing only raw HTML"
+        },
+        {
+            "start": "1671.48 sec",
+            "end": "1673.48 sec",
+            "text": "what size should be"
+        },
+        {
+            "start": "1673.48 sec",
+            "end": "1675.48 sec",
+            "text": "what kind of images should be"
+        },
+        {
+            "start": "1675.48 sec",
+            "end": "1677.48 sec",
+            "text": "and only raw HTML is written here"
+        },
+        {
+            "start": "1677.48 sec",
+            "end": "1679.48 sec",
+            "text": "which is not styled"
+        },
+        {
+            "start": "1679.48 sec",
+            "end": "1681.48 sec",
+            "text": "and this is how it looks"
+        },
+        {
+            "start": "1681.48 sec",
+            "end": "1683.48 sec",
+            "text": "without CSS"
+        },
+        {
+            "start": "1683.48 sec",
+            "end": "1685.48 sec",
+            "text": "without CSS it is showing only"
+        },
+        {
+            "start": "1685.48 sec",
+            "end": "1687.48 sec",
+            "text": "raw text"
+        },
+        {
+            "start": "1687.48 sec",
+            "end": "1689.48 sec",
+            "text": "raw links"
+        },
+        {
+            "start": "1689.48 sec",
+            "end": "1691.48 sec",
+            "text": "and similarly, I can see"
+        },
+        {
+            "start": "1691.48 sec",
+            "end": "1693.48 sec",
+            "text": "the script accent here"
+        },
+        {
+            "start": "1693.48 sec",
+            "end": "1695.48 sec",
+            "text": "without JavaScript"
+        },
+        {
+            "start": "1695.48 sec",
+            "end": "1697.48 sec",
+            "text": "now if I delete this page's HTML tag"
+        },
+        {
+            "start": "1697.48 sec",
+            "end": "1699.48 sec",
+            "text": "something like this"
+        },
+        {
+            "start": "1699.48 sec",
+            "end": "1701.48 sec",
+            "text": "I have deleted all the head"
+        },
+        {
+            "start": "1701.48 sec",
+            "end": "1703.48 sec",
+            "text": "so this is a blank page"
+        },
+        {
+            "start": "1703.48 sec",
+            "end": "1705.48 sec",
+            "text": "without HTML it is not even a state"
+        },
+        {
+            "start": "1705.48 sec",
+            "end": "1707.48 sec",
+            "text": "so this is the role of HTML, CSS and JavaScript"
+        },
+        {
+            "start": "1707.48 sec",
+            "end": "1709.48 sec",
+            "text": "I will tell you about this"
+        },
+        {
+            "start": "1709.48 sec",
+            "end": "1711.48 sec",
+            "text": "this course was initially made to be paid"
+        },
+        {
+            "start": "1711.48 sec",
+            "end": "1713.48 sec",
+            "text": "but I changed my mood"
+        },
+        {
+            "start": "1713.48 sec",
+            "end": "1715.48 sec",
+            "text": "and converted it to free course"
+        },
+        {
+            "start": "1715.48 sec",
+            "end": "1717.48 sec",
+            "text": "and I thought I will upload it on YouTube"
+        },
+        {
+            "start": "1717.48 sec",
+            "end": "1719.48 sec",
+            "text": "so I want you all to be serious"
+        },
+        {
+            "start": "1719.48 sec",
+            "end": "1721.48 sec",
+            "text": "I have reached out to many people"
+        },
+        {
+            "start": "1721.48 sec",
+            "end": "1723.48 sec",
+            "text": "to launch paid course"
+        },
+        {
+            "start": "1723.48 sec",
+            "end": "1725.48 sec",
+            "text": "but I was getting a voice from my heart"
+        },
+        {
+            "start": "1725.48 sec",
+            "end": "1727.48 sec",
+            "text": "that I should keep this course free"
+        },
+        {
+            "start": "1727.48 sec",
+            "end": "1729.48 sec",
+            "text": "because when I learnt web development"
+        },
+        {
+            "start": "1729.48 sec",
+            "end": "1731.48 sec",
+            "text": "I can understand that when you don't have a course"
+        },
+        {
+            "start": "1731.48 sec",
+            "end": "1733.48 sec",
+            "text": "to learn well and you don't have"
+        },
+        {
+            "start": "1733.48 sec",
+            "end": "1735.48 sec",
+            "text": "the affordability to buy a paid course"
+        },
+        {
+            "start": "1735.48 sec",
+            "end": "1737.48 sec",
+            "text": "then you decided to launch"
+        },
+        {
+            "start": "1737.48 sec",
+            "end": "1739.48 sec",
+            "text": "a course called"
+        },
+        {
+            "start": "1739.48 sec",
+            "end": "1741.48 sec",
+            "text": "this course is free but"
+        },
+        {
+            "start": "1741.48 sec",
+            "end": "1743.48 sec",
+            "text": "it is free as you will earn"
+        },
+        {
+            "start": "1743.48 sec",
+            "end": "1745.48 sec",
+            "text": "crores of rupees in the coming time"
+        },
+        {
+            "start": "1745.48 sec",
+            "end": "1747.48 sec",
+            "text": "you will give me tea, coffee, parties"
+        },
+        {
+            "start": "1747.48 sec",
+            "end": "1749.48 sec",
+            "text": "and all the gifts"
+        },
+        {
+            "start": "1749.48 sec",
+            "end": "1751.48 sec",
+            "text": "this is our agreement in this video"
+        },
+        {
+            "start": "1751.48 sec",
+            "end": "1753.48 sec",
+            "text": "so when you start earning crores"
+        },
+        {
+            "start": "1753.48 sec",
+            "end": "1755.48 sec",
+            "text": "then send me a green leaf"
+        },
+        {
+            "start": "1755.48 sec",
+            "end": "1757.48 sec",
+            "text": "or a red leaf"
+        },
+        {
+            "start": "1757.48 sec",
+            "end": "1759.48 sec",
+            "text": "but you have to accept it when you start earning"
+        },
+        {
+            "start": "1759.48 sec",
+            "end": "1761.48 sec",
+            "text": "only after you start earning good"
+        },
+        {
+            "start": "1761.48 sec",
+            "end": "1763.48 sec",
+            "text": "so while keeping this aside"
+        },
+        {
+            "start": "1763.48 sec",
+            "end": "1765.48 sec",
+            "text": "you can earn money from this course"
+        },
+        {
+            "start": "1765.48 sec",
+            "end": "1767.48 sec",
+            "text": "after completing this"
+        },
+        {
+            "start": "1767.48 sec",
+            "end": "1769.48 sec",
+            "text": "I will add light on it"
+        },
+        {
+            "start": "1769.48 sec",
+            "end": "1771.48 sec",
+            "text": "come on how will you earn money"
+        },
+        {
+            "start": "1771.48 sec",
+            "end": "1773.48 sec",
+            "text": "that is also important personally"
+        },
+        {
+            "start": "1773.48 sec",
+            "end": "1775.48 sec",
+            "text": "I will do freelancing like this"
+        },
+        {
+            "start": "1775.48 sec",
+            "end": "1777.48 sec",
+            "text": "I will tell you everything in this course"
+        },
+        {
+            "start": "1777.48 sec",
+            "end": "1779.48 sec",
+            "text": "I want to tell you some action items"
+        },
+        {
+            "start": "1779.48 sec",
+            "end": "1781.48 sec",
+            "text": "the first action item is"
+        },
+        {
+            "start": "1781.48 sec",
+            "end": "1783.48 sec",
+            "text": "that you have to access the playlist of this course"
+        },
+        {
+            "start": "1783.48 sec",
+            "end": "1785.48 sec",
+            "text": "which I will give in the description"
+        },
+        {
+            "start": "1785.48 sec",
+            "end": "1787.48 sec",
+            "text": "everyone bookmark the playlist"
+        },
+        {
+            "start": "1787.48 sec",
+            "end": "1789.48 sec",
+            "text": "press the star button here"
+        },
+        {
+            "start": "1789.48 sec",
+            "end": "1791.48 sec",
+            "text": "and then click on the star button"
+        },
+        {
+            "start": "1791.48 sec",
+            "end": "1793.48 sec",
+            "text": "and save it in the playlist"
+        },
+        {
+            "start": "1793.48 sec",
+            "end": "1795.48 sec",
+            "text": "many of you have said that the course is paid"
+        },
+        {
+            "start": "1795.48 sec",
+            "end": "1797.48 sec",
+            "text": "we will buy it then also"
+        },
+        {
+            "start": "1797.48 sec",
+            "end": "1799.48 sec",
+            "text": "thank you so much for all the support"
+        },
+        {
+            "start": "1799.48 sec",
+            "end": "1801.48 sec",
+            "text": "and I am sure you all love me"
+        },
+        {
+            "start": "1801.48 sec",
+            "end": "1803.48 sec",
+            "text": "and trust me"
+        },
+        {
+            "start": "1803.48 sec",
+            "end": "1805.48 sec",
+            "text": "now technical issues"
+        },
+        {
+            "start": "1805.48 sec",
+            "end": "1807.48 sec",
+            "text": "should not be there"
+        },
+        {
+            "start": "1807.48 sec",
+            "end": "1809.48 sec",
+            "text": "I am putting these videos in the resolution"
+        },
+        {
+            "start": "1809.48 sec",
+            "end": "1811.48 sec",
+            "text": "of 1080p"
+        },
+        {
+            "start": "1811.48 sec",
+            "end": "1813.48 sec",
+            "text": "so you should see them clearly"
+        },
+        {
+            "start": "1813.48 sec",
+            "end": "1815.48 sec",
+            "text": "but those people say that the video is in SD"
+        },
+        {
+            "start": "1815.48 sec",
+            "end": "1817.48 sec",
+            "text": "it is in 240p, it is in 144p"
+        },
+        {
+            "start": "1817.48 sec",
+            "end": "1819.48 sec",
+            "text": "you all watch Bali's Wadhu"
+        },
+        {
+            "start": "1819.48 sec",
+            "end": "1821.48 sec",
+            "text": "and then you say that"
+        },
+        {
+            "start": "1821.48 sec",
+            "end": "1823.48 sec",
+            "text": "these videos are not a joke"
+        },
+        {
+            "start": "1823.48 sec",
+            "end": "1825.48 sec",
+            "text": "call a city Bali"
+        },
+        {
+            "start": "1825.48 sec",
+            "end": "1827.48 sec",
+            "text": "so I hope that you all"
+        },
+        {
+            "start": "1827.48 sec",
+            "end": "1829.48 sec",
+            "text": "understood the request in this video"
+        },
+        {
+            "start": "1829.48 sec",
+            "end": "1831.48 sec",
+            "text": "the response"
+        },
+        {
+            "start": "1831.48 sec",
+            "end": "1833.48 sec",
+            "text": "how all these websites work"
+        },
+        {
+            "start": "1833.48 sec",
+            "end": "1835.48 sec",
+            "text": "we got a basic idea"
+        },
+        {
+            "start": "1835.48 sec",
+            "end": "1837.48 sec",
+            "text": "how client-server interaction is"
+        },
+        {
+            "start": "1837.48 sec",
+            "end": "1839.48 sec",
+            "text": "in the upcoming videos we will see"
+        },
+        {
+            "start": "1839.48 sec",
+            "end": "1841.48 sec",
+            "text": "how the website is made"
+        },
+        {
+            "start": "1841.48 sec",
+            "end": "1843.48 sec",
+            "text": "we are going to make our first website in the next video"
+        },
+        {
+            "start": "1843.48 sec",
+            "end": "1845.48 sec",
+            "text": "so you should be excited"
+        },
+        {
+            "start": "1845.48 sec",
+            "end": "1847.48 sec",
+            "text": "because in the next video"
+        },
+        {
+            "start": "1847.48 sec",
+            "end": "1849.48 sec",
+            "text": "we are going to make our first website"
+        },
+        {
+            "start": "1849.48 sec",
+            "end": "1851.48 sec",
+            "text": "and maybe one of you will be the first website"
+        },
+        {
+            "start": "1851.48 sec",
+            "end": "1853.48 sec",
+            "text": "so access the playlist"
+        },
+        {
+            "start": "1853.48 sec",
+            "end": "1855.48 sec",
+            "text": "thank you so much for watching this video"
+        },
+        {
+            "start": "1855.48 sec",
+            "end": "1857.48 sec",
+            "text": "and I will see you next time"
+        }
+    ]
+}
