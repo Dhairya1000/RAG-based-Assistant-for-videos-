@@ -72,19 +72,7 @@ python process_video.py
 python process_question.py
 ```
 
----
-
-## 📸 Screenshots
-
-<p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Main+App+UI" width="80%"/>
-</p>
-
-<p align="center">
-  <img src="https://via.placeholder.com/800x400?text=QnA+Output" width="80%"/>
-</p>
-
----
+--
 
 ## 📁 Project Structure
 
